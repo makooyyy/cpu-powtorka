@@ -1,0 +1,35 @@
+input|Gotowe wyniki|Adresy wyników|Sygnały wyjściowe
+digitalneq|Tak, to ten sam typ układu|Tak, każdy wykonuje program|Nie, procesor jest analogowy
+alu_signal|Wartości argumentów|Adres następnego rozkazu|Liczba ustawionych flag
+instruction|Cały program|Adres argumentu|Sygnał zegarowy
+instruction_set|Kolejka rozkazów w potoku|Mapa adresów programu|Tablica wyników operacji
+opcode|Adres argumentu|Adres następnej instrukcji|Stan flag po operacji
+argcount|Od liczby rdzeni|Od liczby poziomów cache|Od liczby etapów potoku
+noargs|Tak, zawsze jeden|Tak, zawsze dwa|Tak, zawsze trzy
+blocks|ALU oraz IR|PC oraz SP|RAM oraz ROM
+pc|Wskaźnik stosu|Rejestr rozkazów|Rejestr znaczników
+cu_role|Wykonuje działania arytmetyczne|Przechowuje argumenty ALU|Wyznacza flagi wyniku
+decoder|Licznik rozkazów|Rejestr znaczników|Jednostka arytmetyczno-logiczna
+pipeline|Przetwarzanie sekwencyjne|Przetwarzanie bez nakładania etapów|Przetwarzanie jednego etapu naraz
+eu_role|Dekodowanie rozkazów|Generowanie sygnałów sterujących|Pobieranie kolejnych rozkazów
+processor|Pamięć operacyjna|Kompilator kodu źródłowego|Pamięć mikrokodu
+typical|Kompilowanie kodu|Linkowanie modułów|Ładowanie bibliotek
+process|Częstotliwość zegara|Szerokość magistrali|Długość słowa maszynowego
+alu_def|Jednostka sterująca|Jednostka zarządzania pamięcią|Jednostka wejścia i wyjścia
+complete|Jednocyklowy|Stałej długości|Jednoargumentowy
+initiator|Pamięć operacyjna|Rejestr rozkazów|Akumulator
+ht|Wielordzeniowość fizyczna|Programowe przełączanie zadań|Przetwarzanie potokowe
+packaging|Układy z elementów dyskretnych|Układy pamięci ROM|Układy analogowe
+mini|Wyższe napięcie robocze|Niższa gęstość tranzystorów|Większe rozmiary tranzystorów
+speed|Zwiększa taktowanie ponad bazowe|Zwiększa liczbę wątków|Utrzymuje stałe napięcie
+pentiumm|do serwerów|do stacji roboczych|do sterowników przemysłowych
+graphene_heat|Nie, przewodzi gorzej|Nie, przewodzą jednakowo|Nie, grafen nie przewodzi ciepła
+cache|Pamięć wirtualna na dysku|Pamięć stałego mikrokodu|Pamięć całego programu w RAM
+samepower|Nie, zwiększają liczbę wątków|Nie, powiększają cache|Nie, podnoszą taktowanie bazowe
+cores|Tak, zawsze proporcjonalnie|Tak, każdy pojedynczy wątek|Nie, nigdy nie ma wpływu
+rom_dictionary|Tablicę adresów programu|Argumenty bieżącego rozkazu|Wyniki operacji arytmetycznych
+l2|Mniejsza i szybsza od L1|Większa i szybsza od L1|Mniejsza i wolniejsza od L1
+cache_management|Programowo przez system|Programowo przez kompilator|Ręcznie przez użytkownika
+cache_only|Tak, wyłącznie w CPU|Tak, wyłącznie w ALU|Tak, wyłącznie w rdzeniach
+cache_reason|RAM, bo jest szybsza|ROM, bo jest szybsza|Pamięć masowa, bo jest szybsza
+frequency_perf|Tak, niezależnie od architektury|Tak, niezależnie od programu|Tak, zawsze proporcjonalnie

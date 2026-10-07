@@ -1558,15 +1558,15 @@
         },
         {
           "id": "d1",
-          "text": "Wyniki operacji zamiast danych wejściowych"
+          "text": "Gotowe wyniki"
         },
         {
           "id": "d2",
-          "text": "Adresy wyników zamiast danych wejściowych"
+          "text": "Adresy wyników"
         },
         {
           "id": "d3",
-          "text": "Sygnały wyjściowe zamiast danych wejściowych"
+          "text": "Sygnały wyjściowe"
         }
       ],
       "correctOptionId": "correct",
@@ -1606,15 +1606,15 @@
         },
         {
           "id": "d1",
-          "text": "Wyniki operacji zamiast danych wejściowych"
+          "text": "Gotowe wyniki"
         },
         {
           "id": "d2",
-          "text": "Adresy wyników zamiast danych wejściowych"
+          "text": "Adresy wyników"
         },
         {
           "id": "d3",
-          "text": "Sygnały wyjściowe zamiast danych wejściowych"
+          "text": "Sygnały wyjściowe"
         }
       ],
       "correctOptionId": "correct",
@@ -1750,15 +1750,15 @@
         },
         {
           "id": "d1",
-          "text": "Tak, procesor i układ cyfrowy to dwie nazwy tego samego układu"
+          "text": "Tak, to ten sam typ układu"
         },
         {
           "id": "d2",
-          "text": "Nie, procesor jest układem analogowym, a układ cyfrowy nim nie jest"
+          "text": "Tak, każdy wykonuje program"
         },
         {
           "id": "d3",
-          "text": "Tak, każdy układ przetwarzający sygnały cyfrowe wykonuje program"
+          "text": "Nie, procesor jest analogowy"
         }
       ],
       "correctOptionId": "correct",
@@ -1798,15 +1798,15 @@
         },
         {
           "id": "d1",
-          "text": "Tak, procesor i układ cyfrowy to dwie nazwy tego samego układu"
+          "text": "Tak, to ten sam typ układu"
         },
         {
           "id": "d2",
-          "text": "Nie, procesor jest układem analogowym, a układ cyfrowy nim nie jest"
+          "text": "Tak, każdy wykonuje program"
         },
         {
           "id": "d3",
-          "text": "Tak, każdy układ przetwarzający sygnały cyfrowe wykonuje program"
+          "text": "Nie, procesor jest analogowy"
         }
       ],
       "correctOptionId": "correct",
@@ -3730,15 +3730,15 @@
         },
         {
           "id": "d1",
-          "text": "Adres następnego rozkazu zapisany w liczniku PC"
+          "text": "Wartości argumentów"
         },
         {
           "id": "d2",
-          "text": "Wartość argumentu zapisanego w akumulatorze AX"
+          "text": "Adres następnego rozkazu"
         },
         {
           "id": "d3",
-          "text": "Liczba bitów ustawionych w rejestrze znaczników F"
+          "text": "Liczba ustawionych flag"
         }
       ],
       "correctOptionId": "correct",
@@ -3778,15 +3778,15 @@
         },
         {
           "id": "d1",
-          "text": "Adres następnego rozkazu zapisany w liczniku PC"
+          "text": "Wartości argumentów"
         },
         {
           "id": "d2",
-          "text": "Wartość argumentu zapisanego w akumulatorze AX"
+          "text": "Adres następnego rozkazu"
         },
         {
           "id": "d3",
-          "text": "Liczba bitów ustawionych w rejestrze znaczników F"
+          "text": "Liczba ustawionych flag"
         }
       ],
       "correctOptionId": "correct",
@@ -3826,15 +3826,15 @@
         },
         {
           "id": "d1",
-          "text": "Adres następnego rozkazu zapisany w liczniku PC"
+          "text": "Wartości argumentów"
         },
         {
           "id": "d2",
-          "text": "Wartość argumentu zapisanego w akumulatorze AX"
+          "text": "Adres następnego rozkazu"
         },
         {
           "id": "d3",
-          "text": "Liczba bitów ustawionych w rejestrze znaczników F"
+          "text": "Liczba ustawionych flag"
         }
       ],
       "correctOptionId": "correct",
@@ -4018,15 +4018,15 @@
         },
         {
           "id": "d1",
-          "text": "Adres następnego rozkazu zapisany w liczniku PC"
+          "text": "Wartości argumentów"
         },
         {
           "id": "d2",
-          "text": "Wartość argumentu zapisanego w akumulatorze AX"
+          "text": "Adres następnego rozkazu"
         },
         {
           "id": "d3",
-          "text": "Liczba bitów ustawionych w rejestrze znaczników F"
+          "text": "Liczba ustawionych flag"
         }
       ],
       "correctOptionId": "correct",
@@ -4066,15 +4066,15 @@
         },
         {
           "id": "d1",
-          "text": "Adres następnego rozkazu zapisany w liczniku PC"
+          "text": "Wartości argumentów"
         },
         {
           "id": "d2",
-          "text": "Wartość argumentu zapisanego w akumulatorze AX"
+          "text": "Adres następnego rozkazu"
         },
         {
           "id": "d3",
-          "text": "Liczba bitów ustawionych w rejestrze znaczników F"
+          "text": "Liczba ustawionych flag"
         }
       ],
       "correctOptionId": "correct",
@@ -4114,15 +4114,15 @@
         },
         {
           "id": "d1",
-          "text": "To pełny ciąg operacji programu, który procesor wykonuje jako jedną instrukcję"
+          "text": "Cały program"
         },
         {
           "id": "d2",
-          "text": "To adres komórki pamięci, w której program przechowuje wynik obliczenia"
+          "text": "Adres argumentu"
         },
         {
           "id": "d3",
-          "text": "To sygnał synchronizujący wykonanie kolejnych etapów pracy procesora"
+          "text": "Sygnał zegarowy"
         }
       ],
       "correctOptionId": "correct",
@@ -4498,15 +4498,15 @@
         },
         {
           "id": "d1",
-          "text": "To pełny ciąg operacji programu, który procesor wykonuje jako jedną instrukcję"
+          "text": "Cały program"
         },
         {
           "id": "d2",
-          "text": "To adres komórki pamięci, w której program przechowuje wynik obliczenia"
+          "text": "Adres argumentu"
         },
         {
           "id": "d3",
-          "text": "To sygnał synchronizujący wykonanie kolejnych etapów pracy procesora"
+          "text": "Sygnał zegarowy"
         }
       ],
       "correctOptionId": "correct",
@@ -4594,15 +4594,15 @@
         },
         {
           "id": "d1",
-          "text": "To pełny ciąg operacji programu, który procesor wykonuje jako jedną instrukcję"
+          "text": "Cały program"
         },
         {
           "id": "d2",
-          "text": "To adres komórki pamięci, w której program przechowuje wynik obliczenia"
+          "text": "Adres argumentu"
         },
         {
           "id": "d3",
-          "text": "To sygnał synchronizujący wykonanie kolejnych etapów pracy procesora"
+          "text": "Sygnał zegarowy"
         }
       ],
       "correctOptionId": "correct",
@@ -4930,15 +4930,15 @@
         },
         {
           "id": "d1",
-          "text": "To uporządkowany ciąg instrukcji aktualnie uruchomionego programu"
+          "text": "Kolejka rozkazów w potoku"
         },
         {
           "id": "d2",
-          "text": "To zestaw instrukcji oczekujących w danej chwili w potoku procesora"
+          "text": "Mapa adresów programu"
         },
         {
           "id": "d3",
-          "text": "To zestaw adresów instrukcji przechowywanych w pamięci podręcznej"
+          "text": "Tablica wyników operacji"
         }
       ],
       "correctOptionId": "correct",
@@ -5410,15 +5410,15 @@
         },
         {
           "id": "d1",
-          "text": "To uporządkowany ciąg instrukcji aktualnie uruchomionego programu"
+          "text": "Kolejka rozkazów w potoku"
         },
         {
           "id": "d2",
-          "text": "To zestaw instrukcji oczekujących w danej chwili w potoku procesora"
+          "text": "Mapa adresów programu"
         },
         {
           "id": "d3",
-          "text": "To zestaw adresów instrukcji przechowywanych w pamięci podręcznej"
+          "text": "Tablica wyników operacji"
         }
       ],
       "correctOptionId": "correct",
@@ -5506,15 +5506,15 @@
         },
         {
           "id": "d1",
-          "text": "To uporządkowany ciąg instrukcji aktualnie uruchomionego programu"
+          "text": "Kolejka rozkazów w potoku"
         },
         {
           "id": "d2",
-          "text": "To zestaw instrukcji oczekujących w danej chwili w potoku procesora"
+          "text": "Mapa adresów programu"
         },
         {
           "id": "d3",
-          "text": "To zestaw adresów instrukcji przechowywanych w pamięci podręcznej"
+          "text": "Tablica wyników operacji"
         }
       ],
       "correctOptionId": "correct",
@@ -5554,15 +5554,15 @@
         },
         {
           "id": "d1",
-          "text": "To uporządkowany ciąg instrukcji aktualnie uruchomionego programu"
+          "text": "Kolejka rozkazów w potoku"
         },
         {
           "id": "d2",
-          "text": "To zestaw instrukcji oczekujących w danej chwili w potoku procesora"
+          "text": "Mapa adresów programu"
         },
         {
           "id": "d3",
-          "text": "To zestaw adresów instrukcji przechowywanych w pamięci podręcznej"
+          "text": "Tablica wyników operacji"
         }
       ],
       "correctOptionId": "correct",
@@ -6178,15 +6178,15 @@
         },
         {
           "id": "d1",
-          "text": "Definiuje położenie argumentu, czyli adres danych potrzebnych do wykonania rozkazu"
+          "text": "Adres argumentu"
         },
         {
           "id": "d2",
-          "text": "Definiuje adres następnego rozkazu, czyli miejsce kontynuowania programu"
+          "text": "Adres następnej instrukcji"
         },
         {
           "id": "d3",
-          "text": "Definiuje stan wyniku, czyli wartości flag po zakończeniu operacji"
+          "text": "Stan flag po operacji"
         }
       ],
       "correctOptionId": "correct",
@@ -6322,15 +6322,15 @@
         },
         {
           "id": "d1",
-          "text": "Od liczby rdzeni, które mogą równolegle wykonać rozkaz"
+          "text": "Od liczby rdzeni"
         },
         {
           "id": "d2",
-          "text": "Od liczby poziomów pamięci, przez które przechodzi rozkaz"
+          "text": "Od liczby poziomów cache"
         },
         {
           "id": "d3",
-          "text": "Od liczby etapów potoku, przez które przechodzi rozkaz"
+          "text": "Od liczby etapów potoku"
         }
       ],
       "correctOptionId": "correct",
@@ -6370,15 +6370,15 @@
         },
         {
           "id": "d1",
-          "text": "Od liczby rdzeni, które mogą równolegle wykonać rozkaz"
+          "text": "Od liczby rdzeni"
         },
         {
           "id": "d2",
-          "text": "Od liczby poziomów pamięci, przez które przechodzi rozkaz"
+          "text": "Od liczby poziomów cache"
         },
         {
           "id": "d3",
-          "text": "Od liczby etapów potoku, przez które przechodzi rozkaz"
+          "text": "Od liczby etapów potoku"
         }
       ],
       "correctOptionId": "correct",
@@ -6466,15 +6466,15 @@
         },
         {
           "id": "d1",
-          "text": "Tak, każdy ma przynajmniej jedno jawne pole argumentu"
+          "text": "Tak, zawsze jeden"
         },
         {
           "id": "d2",
-          "text": "Tak, każdy ma dwa jawne pola argumentów"
+          "text": "Tak, zawsze dwa"
         },
         {
           "id": "d3",
-          "text": "Tak, każdy ma osobne jawne pola źródła i wyniku"
+          "text": "Tak, zawsze trzy"
         }
       ],
       "correctOptionId": "correct",
@@ -6514,15 +6514,15 @@
         },
         {
           "id": "d1",
-          "text": "Tak, każdy ma przynajmniej jedno jawne pole argumentu"
+          "text": "Tak, zawsze jeden"
         },
         {
           "id": "d2",
-          "text": "Tak, każdy ma dwa jawne pola argumentów"
+          "text": "Tak, zawsze dwa"
         },
         {
           "id": "d3",
-          "text": "Tak, każdy ma osobne jawne pola źródła i wyniku"
+          "text": "Tak, zawsze trzy"
         }
       ],
       "correctOptionId": "correct",
@@ -8578,15 +8578,15 @@
         },
         {
           "id": "d1",
-          "text": "Na blok arytmetyczny i blok logiczny"
+          "text": "ALU oraz IR"
         },
         {
           "id": "d2",
-          "text": "Na blok pamięci i blok adresowania"
+          "text": "PC oraz SP"
         },
         {
           "id": "d3",
-          "text": "Na blok dekodowania i blok synchronizacji"
+          "text": "RAM oraz ROM"
         }
       ],
       "correctOptionId": "correct",
@@ -8674,15 +8674,15 @@
         },
         {
           "id": "d1",
-          "text": "Na blok arytmetyczny i blok logiczny"
+          "text": "ALU oraz IR"
         },
         {
           "id": "d2",
-          "text": "Na blok pamięci i blok adresowania"
+          "text": "PC oraz SP"
         },
         {
           "id": "d3",
-          "text": "Na blok dekodowania i blok synchronizacji"
+          "text": "RAM oraz ROM"
         }
       ],
       "correctOptionId": "correct",
@@ -8722,15 +8722,15 @@
         },
         {
           "id": "d1",
-          "text": "Na blok arytmetyczny i blok logiczny"
+          "text": "ALU oraz IR"
         },
         {
           "id": "d2",
-          "text": "Na blok pamięci i blok adresowania"
+          "text": "PC oraz SP"
         },
         {
           "id": "d3",
-          "text": "Na blok dekodowania i blok synchronizacji"
+          "text": "RAM oraz ROM"
         }
       ],
       "correctOptionId": "correct",
@@ -8914,15 +8914,15 @@
         },
         {
           "id": "d1",
-          "text": "Na blok arytmetyczny i blok logiczny"
+          "text": "ALU oraz IR"
         },
         {
           "id": "d2",
-          "text": "Na blok pamięci i blok adresowania"
+          "text": "PC oraz SP"
         },
         {
           "id": "d3",
-          "text": "Na blok dekodowania i blok synchronizacji"
+          "text": "RAM oraz ROM"
         }
       ],
       "correctOptionId": "correct",
@@ -8962,15 +8962,15 @@
         },
         {
           "id": "d1",
-          "text": "Na blok arytmetyczny i blok logiczny"
+          "text": "ALU oraz IR"
         },
         {
           "id": "d2",
-          "text": "Na blok pamięci i blok adresowania"
+          "text": "PC oraz SP"
         },
         {
           "id": "d3",
-          "text": "Na blok dekodowania i blok synchronizacji"
+          "text": "RAM oraz ROM"
         }
       ],
       "correctOptionId": "correct",
@@ -9058,15 +9058,15 @@
         },
         {
           "id": "d1",
-          "text": "Na blok arytmetyczny i blok logiczny"
+          "text": "ALU oraz IR"
         },
         {
           "id": "d2",
-          "text": "Na blok pamięci i blok adresowania"
+          "text": "PC oraz SP"
         },
         {
           "id": "d3",
-          "text": "Na blok dekodowania i blok synchronizacji"
+          "text": "RAM oraz ROM"
         }
       ],
       "correctOptionId": "correct",
@@ -9154,15 +9154,15 @@
         },
         {
           "id": "d1",
-          "text": "Na blok arytmetyczny i blok logiczny"
+          "text": "ALU oraz IR"
         },
         {
           "id": "d2",
-          "text": "Na blok pamięci i blok adresowania"
+          "text": "PC oraz SP"
         },
         {
           "id": "d3",
-          "text": "Na blok dekodowania i blok synchronizacji"
+          "text": "RAM oraz ROM"
         }
       ],
       "correctOptionId": "correct",
@@ -9250,15 +9250,15 @@
         },
         {
           "id": "d1",
-          "text": "Na blok arytmetyczny i blok logiczny"
+          "text": "ALU oraz IR"
         },
         {
           "id": "d2",
-          "text": "Na blok pamięci i blok adresowania"
+          "text": "PC oraz SP"
         },
         {
           "id": "d3",
-          "text": "Na blok dekodowania i blok synchronizacji"
+          "text": "RAM oraz ROM"
         }
       ],
       "correctOptionId": "correct",
@@ -9298,15 +9298,15 @@
         },
         {
           "id": "d1",
-          "text": "Na blok arytmetyczny i blok logiczny"
+          "text": "ALU oraz IR"
         },
         {
           "id": "d2",
-          "text": "Na blok pamięci i blok adresowania"
+          "text": "PC oraz SP"
         },
         {
           "id": "d3",
-          "text": "Na blok dekodowania i blok synchronizacji"
+          "text": "RAM oraz ROM"
         }
       ],
       "correctOptionId": "correct",
@@ -11002,15 +11002,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11050,15 +11050,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11098,15 +11098,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11146,15 +11146,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11194,15 +11194,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11242,15 +11242,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11338,15 +11338,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11386,15 +11386,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11434,15 +11434,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11482,15 +11482,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11530,15 +11530,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11626,15 +11626,15 @@
         },
         {
           "id": "d1",
-          "text": "PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych"
+          "text": "Wskaźnik stosu"
         },
         {
           "id": "d2",
-          "text": "PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "PC to rejestr stanu, który przechowuje znaczniki wyniku operacji"
+          "text": "Rejestr znaczników"
         }
       ],
       "correctOptionId": "correct",
@@ -11674,15 +11674,15 @@
         },
         {
           "id": "d1",
-          "text": "wykonywanie działań arytmetycznych oraz przechowywanie ich wyników"
+          "text": "Wykonuje działania arytmetyczne"
         },
         {
           "id": "d2",
-          "text": "przechowywanie argumentów oraz wykonywanie operacji logicznych"
+          "text": "Przechowuje argumenty ALU"
         },
         {
           "id": "d3",
-          "text": "zapisywanie wyników obliczeń oraz wyznaczanie flag arytmetycznych"
+          "text": "Wyznacza flagi wyniku"
         }
       ],
       "correctOptionId": "correct",
@@ -11722,15 +11722,15 @@
         },
         {
           "id": "d1",
-          "text": "wykonywanie działań arytmetycznych oraz przechowywanie ich wyników"
+          "text": "Wykonuje działania arytmetyczne"
         },
         {
           "id": "d2",
-          "text": "przechowywanie argumentów oraz wykonywanie operacji logicznych"
+          "text": "Przechowuje argumenty ALU"
         },
         {
           "id": "d3",
-          "text": "zapisywanie wyników obliczeń oraz wyznaczanie flag arytmetycznych"
+          "text": "Wyznacza flagi wyniku"
         }
       ],
       "correctOptionId": "correct",
@@ -11770,15 +11770,15 @@
         },
         {
           "id": "d1",
-          "text": "wykonywanie działań arytmetycznych oraz przechowywanie ich wyników"
+          "text": "Wykonuje działania arytmetyczne"
         },
         {
           "id": "d2",
-          "text": "przechowywanie argumentów oraz wykonywanie operacji logicznych"
+          "text": "Przechowuje argumenty ALU"
         },
         {
           "id": "d3",
-          "text": "zapisywanie wyników obliczeń oraz wyznaczanie flag arytmetycznych"
+          "text": "Wyznacza flagi wyniku"
         }
       ],
       "correctOptionId": "correct",
@@ -11866,15 +11866,15 @@
         },
         {
           "id": "d1",
-          "text": "wykonywanie działań arytmetycznych oraz przechowywanie ich wyników"
+          "text": "Wykonuje działania arytmetyczne"
         },
         {
           "id": "d2",
-          "text": "przechowywanie argumentów oraz wykonywanie operacji logicznych"
+          "text": "Przechowuje argumenty ALU"
         },
         {
           "id": "d3",
-          "text": "zapisywanie wyników obliczeń oraz wyznaczanie flag arytmetycznych"
+          "text": "Wyznacza flagi wyniku"
         }
       ],
       "correctOptionId": "correct",
@@ -11914,15 +11914,15 @@
         },
         {
           "id": "d1",
-          "text": "wykonywanie działań arytmetycznych oraz przechowywanie ich wyników"
+          "text": "Wykonuje działania arytmetyczne"
         },
         {
           "id": "d2",
-          "text": "przechowywanie argumentów oraz wykonywanie operacji logicznych"
+          "text": "Przechowuje argumenty ALU"
         },
         {
           "id": "d3",
-          "text": "zapisywanie wyników obliczeń oraz wyznaczanie flag arytmetycznych"
+          "text": "Wyznacza flagi wyniku"
         }
       ],
       "correctOptionId": "correct",
@@ -12058,15 +12058,15 @@
         },
         {
           "id": "d1",
-          "text": "wykonywanie działań arytmetycznych oraz przechowywanie ich wyników"
+          "text": "Wykonuje działania arytmetyczne"
         },
         {
           "id": "d2",
-          "text": "przechowywanie argumentów oraz wykonywanie operacji logicznych"
+          "text": "Przechowuje argumenty ALU"
         },
         {
           "id": "d3",
-          "text": "zapisywanie wyników obliczeń oraz wyznaczanie flag arytmetycznych"
+          "text": "Wyznacza flagi wyniku"
         }
       ],
       "correctOptionId": "correct",
@@ -12106,15 +12106,15 @@
         },
         {
           "id": "d1",
-          "text": "wykonywanie działań arytmetycznych oraz przechowywanie ich wyników"
+          "text": "Wykonuje działania arytmetyczne"
         },
         {
           "id": "d2",
-          "text": "przechowywanie argumentów oraz wykonywanie operacji logicznych"
+          "text": "Przechowuje argumenty ALU"
         },
         {
           "id": "d3",
-          "text": "zapisywanie wyników obliczeń oraz wyznaczanie flag arytmetycznych"
+          "text": "Wyznacza flagi wyniku"
         }
       ],
       "correctOptionId": "correct",
@@ -12250,15 +12250,15 @@
         },
         {
           "id": "d1",
-          "text": "wykonywanie działań arytmetycznych oraz przechowywanie ich wyników"
+          "text": "Wykonuje działania arytmetyczne"
         },
         {
           "id": "d2",
-          "text": "przechowywanie argumentów oraz wykonywanie operacji logicznych"
+          "text": "Przechowuje argumenty ALU"
         },
         {
           "id": "d3",
-          "text": "zapisywanie wyników obliczeń oraz wyznaczanie flag arytmetycznych"
+          "text": "Wyznacza flagi wyniku"
         }
       ],
       "correctOptionId": "correct",
@@ -13114,15 +13114,15 @@
         },
         {
           "id": "d1",
-          "text": "Przechowuje kod rozkazu pobranego z pamięci do zakończenia jego wykonania"
+          "text": "Licznik rozkazów"
         },
         {
           "id": "d2",
-          "text": "Wyznacza adres kolejnego rozkazu i aktualizuje kolejność wykonywania programu"
+          "text": "Rejestr znaczników"
         },
         {
           "id": "d3",
-          "text": "Oblicza wynik operacji określonej przez rozkaz i aktualizuje znaczniki stanu"
+          "text": "Jednostka arytmetyczno-logiczna"
         }
       ],
       "correctOptionId": "correct",
@@ -13162,15 +13162,15 @@
         },
         {
           "id": "d1",
-          "text": "Przechowuje kod rozkazu pobranego z pamięci do zakończenia jego wykonania"
+          "text": "Licznik rozkazów"
         },
         {
           "id": "d2",
-          "text": "Wyznacza adres kolejnego rozkazu i aktualizuje kolejność wykonywania programu"
+          "text": "Rejestr znaczników"
         },
         {
           "id": "d3",
-          "text": "Oblicza wynik operacji określonej przez rozkaz i aktualizuje znaczniki stanu"
+          "text": "Jednostka arytmetyczno-logiczna"
         }
       ],
       "correctOptionId": "correct",
@@ -13354,15 +13354,15 @@
         },
         {
           "id": "d1",
-          "text": "Przechowuje kod rozkazu pobranego z pamięci do zakończenia jego wykonania"
+          "text": "Licznik rozkazów"
         },
         {
           "id": "d2",
-          "text": "Wyznacza adres kolejnego rozkazu i aktualizuje kolejność wykonywania programu"
+          "text": "Rejestr znaczników"
         },
         {
           "id": "d3",
-          "text": "Oblicza wynik operacji określonej przez rozkaz i aktualizuje znaczniki stanu"
+          "text": "Jednostka arytmetyczno-logiczna"
         }
       ],
       "correctOptionId": "correct",
@@ -13498,15 +13498,15 @@
         },
         {
           "id": "d1",
-          "text": "Przechowuje kod rozkazu pobranego z pamięci do zakończenia jego wykonania"
+          "text": "Licznik rozkazów"
         },
         {
           "id": "d2",
-          "text": "Wyznacza adres kolejnego rozkazu i aktualizuje kolejność wykonywania programu"
+          "text": "Rejestr znaczników"
         },
         {
           "id": "d3",
-          "text": "Oblicza wynik operacji określonej przez rozkaz i aktualizuje znaczniki stanu"
+          "text": "Jednostka arytmetyczno-logiczna"
         }
       ],
       "correctOptionId": "correct",
@@ -13690,15 +13690,15 @@
         },
         {
           "id": "d1",
-          "text": "Przechowuje kod rozkazu pobranego z pamięci do zakończenia jego wykonania"
+          "text": "Licznik rozkazów"
         },
         {
           "id": "d2",
-          "text": "Wyznacza adres kolejnego rozkazu i aktualizuje kolejność wykonywania programu"
+          "text": "Rejestr znaczników"
         },
         {
           "id": "d3",
-          "text": "Oblicza wynik operacji określonej przez rozkaz i aktualizuje znaczniki stanu"
+          "text": "Jednostka arytmetyczno-logiczna"
         }
       ],
       "correctOptionId": "correct",
@@ -13786,15 +13786,15 @@
         },
         {
           "id": "d1",
-          "text": "Przechowuje kod rozkazu pobranego z pamięci do zakończenia jego wykonania"
+          "text": "Licznik rozkazów"
         },
         {
           "id": "d2",
-          "text": "Wyznacza adres kolejnego rozkazu i aktualizuje kolejność wykonywania programu"
+          "text": "Rejestr znaczników"
         },
         {
           "id": "d3",
-          "text": "Oblicza wynik operacji określonej przez rozkaz i aktualizuje znaczniki stanu"
+          "text": "Jednostka arytmetyczno-logiczna"
         }
       ],
       "correctOptionId": "correct",
@@ -14074,15 +14074,15 @@
         },
         {
           "id": "d1",
-          "text": "Na zakończeniu wszystkich etapów jednej instrukcji przed pobraniem kolejnej"
+          "text": "Przetwarzanie sekwencyjne"
         },
         {
           "id": "d2",
-          "text": "Na wykonywaniu tego samego etapu jednej instrukcji przez kilka rdzeni naraz"
+          "text": "Przetwarzanie bez nakładania etapów"
         },
         {
           "id": "d3",
-          "text": "Na pobieraniu kilku rozkazów, a następnie wykonywaniu ich bez nakładania etapów"
+          "text": "Przetwarzanie jednego etapu naraz"
         }
       ],
       "correctOptionId": "correct",
@@ -14218,15 +14218,15 @@
         },
         {
           "id": "d1",
-          "text": "Na zakończeniu wszystkich etapów jednej instrukcji przed pobraniem kolejnej"
+          "text": "Przetwarzanie sekwencyjne"
         },
         {
           "id": "d2",
-          "text": "Na wykonywaniu tego samego etapu jednej instrukcji przez kilka rdzeni naraz"
+          "text": "Przetwarzanie bez nakładania etapów"
         },
         {
           "id": "d3",
-          "text": "Na pobieraniu kilku rozkazów, a następnie wykonywaniu ich bez nakładania etapów"
+          "text": "Przetwarzanie jednego etapu naraz"
         }
       ],
       "correctOptionId": "correct",
@@ -14362,15 +14362,15 @@
         },
         {
           "id": "d1",
-          "text": "Na zakończeniu wszystkich etapów jednej instrukcji przed pobraniem kolejnej"
+          "text": "Przetwarzanie sekwencyjne"
         },
         {
           "id": "d2",
-          "text": "Na wykonywaniu tego samego etapu jednej instrukcji przez kilka rdzeni naraz"
+          "text": "Przetwarzanie bez nakładania etapów"
         },
         {
           "id": "d3",
-          "text": "Na pobieraniu kilku rozkazów, a następnie wykonywaniu ich bez nakładania etapów"
+          "text": "Przetwarzanie jednego etapu naraz"
         }
       ],
       "correctOptionId": "correct",
@@ -15952,15 +15952,15 @@
         },
         {
           "id": "d1",
-          "text": "Interpretowanie kodu instrukcji, czyli generowanie sygnałów sterujących pozostałymi blokami"
+          "text": "Dekodowanie rozkazów"
         },
         {
           "id": "d2",
-          "text": "Sterowanie kolejnością instrukcji, czyli wyznaczanie i pobieranie kolejnego rozkazu"
+          "text": "Generowanie sygnałów sterujących"
         },
         {
           "id": "d3",
-          "text": "Synchronizowanie cyklu, czyli wytwarzanie sygnałów zegarowych dla pozostałych bloków"
+          "text": "Pobieranie kolejnych rozkazów"
         }
       ],
       "correctOptionId": "correct",
@@ -16048,15 +16048,15 @@
         },
         {
           "id": "d1",
-          "text": "Interpretowanie kodu instrukcji, czyli generowanie sygnałów sterujących pozostałymi blokami"
+          "text": "Dekodowanie rozkazów"
         },
         {
           "id": "d2",
-          "text": "Sterowanie kolejnością instrukcji, czyli wyznaczanie i pobieranie kolejnego rozkazu"
+          "text": "Generowanie sygnałów sterujących"
         },
         {
           "id": "d3",
-          "text": "Synchronizowanie cyklu, czyli wytwarzanie sygnałów zegarowych dla pozostałych bloków"
+          "text": "Pobieranie kolejnych rozkazów"
         }
       ],
       "correctOptionId": "correct",
@@ -18304,15 +18304,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest komponentem przechowującym program i dane do chwili ich odczytania przez jednostkę sterującą"
+          "text": "Pamięć operacyjna"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Kompilator kodu źródłowego"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "Pamięć mikrokodu"
         }
       ],
       "correctOptionId": "correct",
@@ -18496,15 +18496,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest komponentem przechowującym program i dane do chwili ich odczytania przez jednostkę sterującą"
+          "text": "Pamięć operacyjna"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Kompilator kodu źródłowego"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "Pamięć mikrokodu"
         }
       ],
       "correctOptionId": "correct",
@@ -18688,15 +18688,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest komponentem przechowującym program i dane do chwili ich odczytania przez jednostkę sterującą"
+          "text": "Pamięć operacyjna"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Kompilator kodu źródłowego"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "Pamięć mikrokodu"
         }
       ],
       "correctOptionId": "correct",
@@ -18880,15 +18880,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest komponentem przechowującym program i dane do chwili ich odczytania przez jednostkę sterującą"
+          "text": "Pamięć operacyjna"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Kompilator kodu źródłowego"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "Pamięć mikrokodu"
         }
       ],
       "correctOptionId": "correct",
@@ -18928,15 +18928,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest komponentem przechowującym program i dane do chwili ich odczytania przez jednostkę sterującą"
+          "text": "Pamięć operacyjna"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Kompilator kodu źródłowego"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "Pamięć mikrokodu"
         }
       ],
       "correctOptionId": "correct",
@@ -18976,15 +18976,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest komponentem przechowującym program i dane do chwili ich odczytania przez jednostkę sterującą"
+          "text": "Pamięć operacyjna"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Kompilator kodu źródłowego"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "Pamięć mikrokodu"
         }
       ],
       "correctOptionId": "correct",
@@ -19888,15 +19888,15 @@
         },
         {
           "id": "d1",
-          "text": "Kopiowanie, dodawanie, kompilowanie, działania na bitach"
+          "text": "Kompilowanie kodu"
         },
         {
           "id": "d2",
-          "text": "Przesuwanie bitów, skoki, linkowanie, odejmowanie"
+          "text": "Linkowanie modułów"
         },
         {
           "id": "d3",
-          "text": "Mnożenie, kopiowanie, kompilowanie, linkowanie"
+          "text": "Ładowanie bibliotek"
         }
       ],
       "correctOptionId": "correct",
@@ -22882,15 +22882,15 @@
         },
         {
           "id": "d1",
-          "text": "Wymiar określający szerokość magistrali danych procesora"
+          "text": "Częstotliwość zegara"
         },
         {
           "id": "d2",
-          "text": "Parametr określający liczbę instrukcji wykonywanych w jednym cyklu"
+          "text": "Szerokość magistrali"
         },
         {
           "id": "d3",
-          "text": "Parametr określający częstotliwość przełączania układów procesora"
+          "text": "Długość słowa maszynowego"
         }
       ],
       "correctOptionId": "correct",
@@ -23026,15 +23026,15 @@
         },
         {
           "id": "d1",
-          "text": "Wymiar określający szerokość magistrali danych procesora"
+          "text": "Częstotliwość zegara"
         },
         {
           "id": "d2",
-          "text": "Parametr określający liczbę instrukcji wykonywanych w jednym cyklu"
+          "text": "Szerokość magistrali"
         },
         {
           "id": "d3",
-          "text": "Parametr określający częstotliwość przełączania układów procesora"
+          "text": "Długość słowa maszynowego"
         }
       ],
       "correctOptionId": "correct",
@@ -25552,15 +25552,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest to układ cyfrowy, który rozpoznaje kod rozkazu i wytwarza sygnały sterujące jego wykonaniem"
+          "text": "Jednostka sterująca"
         },
         {
           "id": "d2",
-          "text": "Jest to układ cyfrowy, który przechowuje adres następnego rozkazu i ustala kolejność ich pobierania"
+          "text": "Jednostka zarządzania pamięcią"
         },
         {
           "id": "d3",
-          "text": "Jest to układ cyfrowy, który przechowuje mikrokod i wybiera sygnały dla kolejnych etapów instrukcji"
+          "text": "Jednostka wejścia i wyjścia"
         }
       ],
       "correctOptionId": "correct",
@@ -25600,15 +25600,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest to układ cyfrowy, który rozpoznaje kod rozkazu i wytwarza sygnały sterujące jego wykonaniem"
+          "text": "Jednostka sterująca"
         },
         {
           "id": "d2",
-          "text": "Jest to układ cyfrowy, który przechowuje adres następnego rozkazu i ustala kolejność ich pobierania"
+          "text": "Jednostka zarządzania pamięcią"
         },
         {
           "id": "d3",
-          "text": "Jest to układ cyfrowy, który przechowuje mikrokod i wybiera sygnały dla kolejnych etapów instrukcji"
+          "text": "Jednostka wejścia i wyjścia"
         }
       ],
       "correctOptionId": "correct",
@@ -25888,15 +25888,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest to układ cyfrowy, który rozpoznaje kod rozkazu i wytwarza sygnały sterujące jego wykonaniem"
+          "text": "Jednostka sterująca"
         },
         {
           "id": "d2",
-          "text": "Jest to układ cyfrowy, który przechowuje adres następnego rozkazu i ustala kolejność ich pobierania"
+          "text": "Jednostka zarządzania pamięcią"
         },
         {
           "id": "d3",
-          "text": "Jest to układ cyfrowy, który przechowuje mikrokod i wybiera sygnały dla kolejnych etapów instrukcji"
+          "text": "Jednostka wejścia i wyjścia"
         }
       ],
       "correctOptionId": "correct",
@@ -25984,15 +25984,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest to układ cyfrowy, który rozpoznaje kod rozkazu i wytwarza sygnały sterujące jego wykonaniem"
+          "text": "Jednostka sterująca"
         },
         {
           "id": "d2",
-          "text": "Jest to układ cyfrowy, który przechowuje adres następnego rozkazu i ustala kolejność ich pobierania"
+          "text": "Jednostka zarządzania pamięcią"
         },
         {
           "id": "d3",
-          "text": "Jest to układ cyfrowy, który przechowuje mikrokod i wybiera sygnały dla kolejnych etapów instrukcji"
+          "text": "Jednostka wejścia i wyjścia"
         }
       ],
       "correctOptionId": "correct",
@@ -26080,15 +26080,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest to układ cyfrowy, który rozpoznaje kod rozkazu i wytwarza sygnały sterujące jego wykonaniem"
+          "text": "Jednostka sterująca"
         },
         {
           "id": "d2",
-          "text": "Jest to układ cyfrowy, który przechowuje adres następnego rozkazu i ustala kolejność ich pobierania"
+          "text": "Jednostka zarządzania pamięcią"
         },
         {
           "id": "d3",
-          "text": "Jest to układ cyfrowy, który przechowuje mikrokod i wybiera sygnały dla kolejnych etapów instrukcji"
+          "text": "Jednostka wejścia i wyjścia"
         }
       ],
       "correctOptionId": "correct",
@@ -26176,15 +26176,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest to układ cyfrowy, który rozpoznaje kod rozkazu i wytwarza sygnały sterujące jego wykonaniem"
+          "text": "Jednostka sterująca"
         },
         {
           "id": "d2",
-          "text": "Jest to układ cyfrowy, który przechowuje adres następnego rozkazu i ustala kolejność ich pobierania"
+          "text": "Jednostka zarządzania pamięcią"
         },
         {
           "id": "d3",
-          "text": "Jest to układ cyfrowy, który przechowuje mikrokod i wybiera sygnały dla kolejnych etapów instrukcji"
+          "text": "Jednostka wejścia i wyjścia"
         }
       ],
       "correctOptionId": "correct",
@@ -26272,15 +26272,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest to układ cyfrowy, który rozpoznaje kod rozkazu i wytwarza sygnały sterujące jego wykonaniem"
+          "text": "Jednostka sterująca"
         },
         {
           "id": "d2",
-          "text": "Jest to układ cyfrowy, który przechowuje adres następnego rozkazu i ustala kolejność ich pobierania"
+          "text": "Jednostka zarządzania pamięcią"
         },
         {
           "id": "d3",
-          "text": "Jest to układ cyfrowy, który przechowuje mikrokod i wybiera sygnały dla kolejnych etapów instrukcji"
+          "text": "Jednostka wejścia i wyjścia"
         }
       ],
       "correctOptionId": "correct",
@@ -26320,15 +26320,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest to układ cyfrowy, który rozpoznaje kod rozkazu i wytwarza sygnały sterujące jego wykonaniem"
+          "text": "Jednostka sterująca"
         },
         {
           "id": "d2",
-          "text": "Jest to układ cyfrowy, który przechowuje adres następnego rozkazu i ustala kolejność ich pobierania"
+          "text": "Jednostka zarządzania pamięcią"
         },
         {
           "id": "d3",
-          "text": "Jest to układ cyfrowy, który przechowuje mikrokod i wybiera sygnały dla kolejnych etapów instrukcji"
+          "text": "Jednostka wejścia i wyjścia"
         }
       ],
       "correctOptionId": "correct",
@@ -26464,15 +26464,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest to układ cyfrowy, który rozpoznaje kod rozkazu i wytwarza sygnały sterujące jego wykonaniem"
+          "text": "Jednostka sterująca"
         },
         {
           "id": "d2",
-          "text": "Jest to układ cyfrowy, który przechowuje adres następnego rozkazu i ustala kolejność ich pobierania"
+          "text": "Jednostka zarządzania pamięcią"
         },
         {
           "id": "d3",
-          "text": "Jest to układ cyfrowy, który przechowuje mikrokod i wybiera sygnały dla kolejnych etapów instrukcji"
+          "text": "Jednostka wejścia i wyjścia"
         }
       ],
       "correctOptionId": "correct",
@@ -26512,15 +26512,15 @@
         },
         {
           "id": "d1",
-          "text": "Oznacza to, że każda operacja z zestawu kończy się w jednym cyklu zegara"
+          "text": "Jednocyklowy"
         },
         {
           "id": "d2",
-          "text": "Oznacza to, że jedna instrukcja realizuje dowolny algorytm bez pozostałych instrukcji"
+          "text": "Stałej długości"
         },
         {
           "id": "d3",
-          "text": "Oznacza to, że każda operacja wymaga wszystkich argumentów dostępnych w pamięci"
+          "text": "Jednoargumentowy"
         }
       ],
       "correctOptionId": "correct",
@@ -26608,15 +26608,15 @@
         },
         {
           "id": "d1",
-          "text": "Oznacza to, że każda operacja z zestawu kończy się w jednym cyklu zegara"
+          "text": "Jednocyklowy"
         },
         {
           "id": "d2",
-          "text": "Oznacza to, że jedna instrukcja realizuje dowolny algorytm bez pozostałych instrukcji"
+          "text": "Stałej długości"
         },
         {
           "id": "d3",
-          "text": "Oznacza to, że każda operacja wymaga wszystkich argumentów dostępnych w pamięci"
+          "text": "Jednoargumentowy"
         }
       ],
       "correctOptionId": "correct",
@@ -26656,15 +26656,15 @@
         },
         {
           "id": "d1",
-          "text": "Przez pamięć operacyjną"
+          "text": "Pamięć operacyjna"
         },
         {
           "id": "d2",
-          "text": "Przez jednostkę arytmetyczno-logiczną bez układu sterowania"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "Przez rejestr rozkazów bez układu sterowania"
+          "text": "Akumulator"
         }
       ],
       "correctOptionId": "correct",
@@ -26704,15 +26704,15 @@
         },
         {
           "id": "d1",
-          "text": "Przez pamięć operacyjną"
+          "text": "Pamięć operacyjna"
         },
         {
           "id": "d2",
-          "text": "Przez jednostkę arytmetyczno-logiczną bez układu sterowania"
+          "text": "Rejestr rozkazów"
         },
         {
           "id": "d3",
-          "text": "Przez rejestr rozkazów bez układu sterowania"
+          "text": "Akumulator"
         }
       ],
       "correctOptionId": "correct",
@@ -27784,15 +27784,15 @@
         },
         {
           "id": "d1",
-          "text": "Jeden rdzeń wykonuje dwa wątki, ale system nadal widzi tylko jeden procesor logiczny"
+          "text": "Wielordzeniowość fizyczna"
         },
         {
           "id": "d2",
-          "text": "Dwa fizyczne rdzenie współdzielą rejestry, a system widzi je jako jeden procesor logiczny"
+          "text": "Programowe przełączanie zadań"
         },
         {
           "id": "d3",
-          "text": "Jeden rdzeń przełącza programy wyłącznie programowo, bez dodatkowego kontekstu sprzętowego"
+          "text": "Przetwarzanie potokowe"
         }
       ],
       "correctOptionId": "correct",
@@ -27976,15 +27976,15 @@
         },
         {
           "id": "d1",
-          "text": "Jeden rdzeń wykonuje dwa wątki, ale system nadal widzi tylko jeden procesor logiczny"
+          "text": "Wielordzeniowość fizyczna"
         },
         {
           "id": "d2",
-          "text": "Dwa fizyczne rdzenie współdzielą rejestry, a system widzi je jako jeden procesor logiczny"
+          "text": "Programowe przełączanie zadań"
         },
         {
           "id": "d3",
-          "text": "Jeden rdzeń przełącza programy wyłącznie programowo, bez dodatkowego kontekstu sprzętowego"
+          "text": "Przetwarzanie potokowe"
         }
       ],
       "correctOptionId": "correct",
@@ -28264,15 +28264,15 @@
         },
         {
           "id": "d1",
-          "text": "Jeden rdzeń wykonuje dwa wątki, ale system nadal widzi tylko jeden procesor logiczny"
+          "text": "Wielordzeniowość fizyczna"
         },
         {
           "id": "d2",
-          "text": "Dwa fizyczne rdzenie współdzielą rejestry, a system widzi je jako jeden procesor logiczny"
+          "text": "Programowe przełączanie zadań"
         },
         {
           "id": "d3",
-          "text": "Jeden rdzeń przełącza programy wyłącznie programowo, bez dodatkowego kontekstu sprzętowego"
+          "text": "Przetwarzanie potokowe"
         }
       ],
       "correctOptionId": "correct",
@@ -28312,15 +28312,15 @@
         },
         {
           "id": "d1",
-          "text": "Jeden rdzeń wykonuje dwa wątki, ale system nadal widzi tylko jeden procesor logiczny"
+          "text": "Wielordzeniowość fizyczna"
         },
         {
           "id": "d2",
-          "text": "Dwa fizyczne rdzenie współdzielą rejestry, a system widzi je jako jeden procesor logiczny"
+          "text": "Programowe przełączanie zadań"
         },
         {
           "id": "d3",
-          "text": "Jeden rdzeń przełącza programy wyłącznie programowo, bez dodatkowego kontekstu sprzętowego"
+          "text": "Przetwarzanie potokowe"
         }
       ],
       "correctOptionId": "correct",
@@ -28408,15 +28408,15 @@
         },
         {
           "id": "d1",
-          "text": "Jeden rdzeń wykonuje dwa wątki, ale system nadal widzi tylko jeden procesor logiczny"
+          "text": "Wielordzeniowość fizyczna"
         },
         {
           "id": "d2",
-          "text": "Dwa fizyczne rdzenie współdzielą rejestry, a system widzi je jako jeden procesor logiczny"
+          "text": "Programowe przełączanie zadań"
         },
         {
           "id": "d3",
-          "text": "Jeden rdzeń przełącza programy wyłącznie programowo, bez dodatkowego kontekstu sprzętowego"
+          "text": "Przetwarzanie potokowe"
         }
       ],
       "correctOptionId": "correct",
@@ -29176,15 +29176,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest wykonany jako zespół oddzielnych układów scalonych bez wspólnej jednostki sterującej"
+          "text": "Układy z elementów dyskretnych"
         },
         {
           "id": "d2",
-          "text": "Jest wykonany jako programowy układ wykonywany w pamięci operacyjnej"
+          "text": "Układy pamięci ROM"
         },
         {
           "id": "d3",
-          "text": "Jest wykonany jako układ pamięci, którego komórki zastępują jednostki wykonawcze"
+          "text": "Układy analogowe"
         }
       ],
       "correctOptionId": "correct",
@@ -29272,15 +29272,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest wykonany jako zespół oddzielnych układów scalonych bez wspólnej jednostki sterującej"
+          "text": "Układy z elementów dyskretnych"
         },
         {
           "id": "d2",
-          "text": "Jest wykonany jako programowy układ wykonywany w pamięci operacyjnej"
+          "text": "Układy pamięci ROM"
         },
         {
           "id": "d3",
-          "text": "Jest wykonany jako układ pamięci, którego komórki zastępują jednostki wykonawcze"
+          "text": "Układy analogowe"
         }
       ],
       "correctOptionId": "correct",
@@ -29416,15 +29416,15 @@
         },
         {
           "id": "d1",
-          "text": "Niższe zużycie energii, wyższe napięcie robocze i niższa gęstość tranzystorów"
+          "text": "Wyższe napięcie robocze"
         },
         {
           "id": "d2",
-          "text": "Wyższe zużycie energii, niższe napięcie robocze i mniejsza gęstość tranzystorów"
+          "text": "Niższa gęstość tranzystorów"
         },
         {
           "id": "d3",
-          "text": "Niższa częstotliwość taktowania, wyższe napięcie robocze i większe tranzystory"
+          "text": "Większe rozmiary tranzystorów"
         }
       ],
       "correctOptionId": "correct",
@@ -29560,15 +29560,15 @@
         },
         {
           "id": "d1",
-          "text": "Niższe zużycie energii, wyższe napięcie robocze i niższa gęstość tranzystorów"
+          "text": "Wyższe napięcie robocze"
         },
         {
           "id": "d2",
-          "text": "Wyższe zużycie energii, niższe napięcie robocze i mniejsza gęstość tranzystorów"
+          "text": "Niższa gęstość tranzystorów"
         },
         {
           "id": "d3",
-          "text": "Niższa częstotliwość taktowania, wyższe napięcie robocze i większe tranzystory"
+          "text": "Większe rozmiary tranzystorów"
         }
       ],
       "correctOptionId": "correct",
@@ -32500,15 +32500,15 @@
         },
         {
           "id": "d1",
-          "text": "Zwiększyć taktowanie ponad częstotliwość bazową, gdy pozwala na to limit termiczny"
+          "text": "Zwiększa taktowanie ponad bazowe"
         },
         {
           "id": "d2",
-          "text": "Zwiększyć liczbę wątków wykonywanych jednocześnie na jednym rdzeniu procesora"
+          "text": "Zwiększa liczbę wątków"
         },
         {
           "id": "d3",
-          "text": "Utrzymać stałe napięcie i taktowanie niezależnie od aktualnego obciążenia"
+          "text": "Utrzymuje stałe napięcie"
         }
       ],
       "correctOptionId": "correct",
@@ -33076,15 +33076,15 @@
         },
         {
           "id": "d1",
-          "text": "Zwiększyć taktowanie ponad częstotliwość bazową, gdy pozwala na to limit termiczny"
+          "text": "Zwiększa taktowanie ponad bazowe"
         },
         {
           "id": "d2",
-          "text": "Zwiększyć liczbę wątków wykonywanych jednocześnie na jednym rdzeniu procesora"
+          "text": "Zwiększa liczbę wątków"
         },
         {
           "id": "d3",
-          "text": "Utrzymać stałe napięcie i taktowanie niezależnie od aktualnego obciążenia"
+          "text": "Utrzymuje stałe napięcie"
         }
       ],
       "correctOptionId": "correct",
@@ -33124,15 +33124,15 @@
         },
         {
           "id": "d1",
-          "text": "do serwerów wieloprocesorowych"
+          "text": "do serwerów"
         },
         {
           "id": "d2",
-          "text": "do stacjonarnych stacji roboczych"
+          "text": "do stacji roboczych"
         },
         {
           "id": "d3",
-          "text": "do komputerów wbudowanych w sterowniki przemysłowe"
+          "text": "do sterowników przemysłowych"
         }
       ],
       "correctOptionId": "correct",
@@ -33172,15 +33172,15 @@
         },
         {
           "id": "d1",
-          "text": "do serwerów wieloprocesorowych"
+          "text": "do serwerów"
         },
         {
           "id": "d2",
-          "text": "do stacjonarnych stacji roboczych"
+          "text": "do stacji roboczych"
         },
         {
           "id": "d3",
-          "text": "do komputerów wbudowanych w sterowniki przemysłowe"
+          "text": "do sterowników przemysłowych"
         }
       ],
       "correctOptionId": "correct",
@@ -33604,15 +33604,15 @@
         },
         {
           "id": "d1",
-          "text": "Nie, grafen przewodzi ciepło gorzej niż miedź"
+          "text": "Nie, przewodzi gorzej"
         },
         {
           "id": "d2",
-          "text": "Nie, grafen i miedź przewodzą ciepło jednakowo"
+          "text": "Nie, przewodzą jednakowo"
         },
         {
           "id": "d3",
-          "text": "Nie, grafen przewodzi elektryczność, ale nie przewodzi ciepła"
+          "text": "Nie, grafen nie przewodzi ciepła"
         }
       ],
       "correctOptionId": "correct",
@@ -33652,15 +33652,15 @@
         },
         {
           "id": "d1",
-          "text": "Nie, grafen przewodzi ciepło gorzej niż miedź"
+          "text": "Nie, przewodzi gorzej"
         },
         {
           "id": "d2",
-          "text": "Nie, grafen i miedź przewodzą ciepło jednakowo"
+          "text": "Nie, przewodzą jednakowo"
         },
         {
           "id": "d3",
-          "text": "Nie, grafen przewodzi elektryczność, ale nie przewodzi ciepła"
+          "text": "Nie, grafen nie przewodzi ciepła"
         }
       ],
       "correctOptionId": "correct",
@@ -33700,15 +33700,15 @@
         },
         {
           "id": "d1",
-          "text": "Nie, grafen przewodzi ciepło gorzej niż miedź"
+          "text": "Nie, przewodzi gorzej"
         },
         {
           "id": "d2",
-          "text": "Nie, grafen i miedź przewodzą ciepło jednakowo"
+          "text": "Nie, przewodzą jednakowo"
         },
         {
           "id": "d3",
-          "text": "Nie, grafen przewodzi elektryczność, ale nie przewodzi ciepła"
+          "text": "Nie, grafen nie przewodzi ciepła"
         }
       ],
       "correctOptionId": "correct",
@@ -34282,15 +34282,15 @@
         },
         {
           "id": "d1",
-          "text": "To pamięć robocza, która przechowuje cały aktywny program zamiast pamięci RAM"
+          "text": "Pamięć wirtualna na dysku"
         },
         {
           "id": "d2",
-          "text": "To pamięć wirtualna, która udostępnia procesorowi dodatkową przestrzeń dyskową"
+          "text": "Pamięć stałego mikrokodu"
         },
         {
           "id": "d3",
-          "text": "To pamięć mikrokodu, która przechowuje stały opis wykonania wszystkich rozkazów"
+          "text": "Pamięć całego programu w RAM"
         }
       ],
       "correctOptionId": "correct",
@@ -34330,15 +34330,15 @@
         },
         {
           "id": "d1",
-          "text": "To pamięć robocza, która przechowuje cały aktywny program zamiast pamięci RAM"
+          "text": "Pamięć wirtualna na dysku"
         },
         {
           "id": "d2",
-          "text": "To pamięć wirtualna, która udostępnia procesorowi dodatkową przestrzeń dyskową"
+          "text": "Pamięć stałego mikrokodu"
         },
         {
           "id": "d3",
-          "text": "To pamięć mikrokodu, która przechowuje stały opis wykonania wszystkich rozkazów"
+          "text": "Pamięć całego programu w RAM"
         }
       ],
       "correctOptionId": "correct",
@@ -34378,15 +34378,15 @@
         },
         {
           "id": "d1",
-          "text": "To pamięć robocza, która przechowuje cały aktywny program zamiast pamięci RAM"
+          "text": "Pamięć wirtualna na dysku"
         },
         {
           "id": "d2",
-          "text": "To pamięć wirtualna, która udostępnia procesorowi dodatkową przestrzeń dyskową"
+          "text": "Pamięć stałego mikrokodu"
         },
         {
           "id": "d3",
-          "text": "To pamięć mikrokodu, która przechowuje stały opis wykonania wszystkich rozkazów"
+          "text": "Pamięć całego programu w RAM"
         }
       ],
       "correctOptionId": "correct",
@@ -34816,15 +34816,15 @@
         },
         {
           "id": "d1",
-          "text": "Obie technologie zmniejszają pobór prądu; Cool’n’Quiet jest od Intela, a SpeedStep od AMD"
+          "text": "Nie, zwiększają liczbę wątków"
         },
         {
           "id": "d2",
-          "text": "Obie technologie zwiększają taktowanie ponad bazowe; Cool’n’Quiet jest od AMD, a SpeedStep od Intela"
+          "text": "Nie, powiększają cache"
         },
         {
           "id": "d3",
-          "text": "Obie technologie zwiększają liczbę wątków; Cool’n’Quiet jest od AMD, a SpeedStep od Intela"
+          "text": "Nie, podnoszą taktowanie bazowe"
         }
       ],
       "correctOptionId": "correct",
@@ -36130,15 +36130,15 @@
         },
         {
           "id": "d1",
-          "text": "Większa liczba rdzeni zwiększa wydajność wprost proporcjonalnie w każdym programie"
+          "text": "Tak, zawsze proporcjonalnie"
         },
         {
           "id": "d2",
-          "text": "Większa liczba rdzeni przyspiesza każdy pojedynczy wątek bez zmian w programie"
+          "text": "Tak, każdy pojedynczy wątek"
         },
         {
           "id": "d3",
-          "text": "Większa liczba rdzeni zwiększa taktowanie, co stanowi jedyne źródło przyspieszenia"
+          "text": "Nie, nigdy nie ma wpływu"
         }
       ],
       "correctOptionId": "correct",
@@ -36226,15 +36226,15 @@
         },
         {
           "id": "d1",
-          "text": "Większa liczba rdzeni zwiększa wydajność wprost proporcjonalnie w każdym programie"
+          "text": "Tak, zawsze proporcjonalnie"
         },
         {
           "id": "d2",
-          "text": "Większa liczba rdzeni przyspiesza każdy pojedynczy wątek bez zmian w programie"
+          "text": "Tak, każdy pojedynczy wątek"
         },
         {
           "id": "d3",
-          "text": "Większa liczba rdzeni zwiększa taktowanie, co stanowi jedyne źródło przyspieszenia"
+          "text": "Nie, nigdy nie ma wpływu"
         }
       ],
       "correctOptionId": "correct",
@@ -36274,15 +36274,15 @@
         },
         {
           "id": "d1",
-          "text": "Większa liczba rdzeni zwiększa wydajność wprost proporcjonalnie w każdym programie"
+          "text": "Tak, zawsze proporcjonalnie"
         },
         {
           "id": "d2",
-          "text": "Większa liczba rdzeni przyspiesza każdy pojedynczy wątek bez zmian w programie"
+          "text": "Tak, każdy pojedynczy wątek"
         },
         {
           "id": "d3",
-          "text": "Większa liczba rdzeni zwiększa taktowanie, co stanowi jedyne źródło przyspieszenia"
+          "text": "Nie, nigdy nie ma wpływu"
         }
       ],
       "correctOptionId": "correct",
@@ -36370,15 +36370,15 @@
         },
         {
           "id": "d1",
-          "text": "Większa liczba rdzeni zwiększa wydajność wprost proporcjonalnie w każdym programie"
+          "text": "Tak, zawsze proporcjonalnie"
         },
         {
           "id": "d2",
-          "text": "Większa liczba rdzeni przyspiesza każdy pojedynczy wątek bez zmian w programie"
+          "text": "Tak, każdy pojedynczy wątek"
         },
         {
           "id": "d3",
-          "text": "Większa liczba rdzeni zwiększa taktowanie, co stanowi jedyne źródło przyspieszenia"
+          "text": "Nie, nigdy nie ma wpływu"
         }
       ],
       "correctOptionId": "correct",
@@ -36658,15 +36658,15 @@
         },
         {
           "id": "d1",
-          "text": "Tablicę adresów kolejnych rozkazów programu"
+          "text": "Tablicę adresów programu"
         },
         {
           "id": "d2",
-          "text": "Argumenty aktualnie wykonywanych rozkazów"
+          "text": "Argumenty bieżącego rozkazu"
         },
         {
           "id": "d3",
-          "text": "Wyniki operacji oczekujące na zapis do RAM"
+          "text": "Wyniki operacji arytmetycznych"
         }
       ],
       "correctOptionId": "correct",
@@ -36706,15 +36706,15 @@
         },
         {
           "id": "d1",
-          "text": "Tablicę adresów kolejnych rozkazów programu"
+          "text": "Tablicę adresów programu"
         },
         {
           "id": "d2",
-          "text": "Argumenty aktualnie wykonywanych rozkazów"
+          "text": "Argumenty bieżącego rozkazu"
         },
         {
           "id": "d3",
-          "text": "Wyniki operacji oczekujące na zapis do RAM"
+          "text": "Wyniki operacji arytmetycznych"
         }
       ],
       "correctOptionId": "correct",
@@ -36802,15 +36802,15 @@
         },
         {
           "id": "d1",
-          "text": "Tablicę adresów kolejnych rozkazów programu"
+          "text": "Tablicę adresów programu"
         },
         {
           "id": "d2",
-          "text": "Argumenty aktualnie wykonywanych rozkazów"
+          "text": "Argumenty bieżącego rozkazu"
         },
         {
           "id": "d3",
-          "text": "Wyniki operacji oczekujące na zapis do RAM"
+          "text": "Wyniki operacji arytmetycznych"
         }
       ],
       "correctOptionId": "correct",
@@ -36850,15 +36850,15 @@
         },
         {
           "id": "d1",
-          "text": "Tablicę adresów kolejnych rozkazów programu"
+          "text": "Tablicę adresów programu"
         },
         {
           "id": "d2",
-          "text": "Argumenty aktualnie wykonywanych rozkazów"
+          "text": "Argumenty bieżącego rozkazu"
         },
         {
           "id": "d3",
-          "text": "Wyniki operacji oczekujące na zapis do RAM"
+          "text": "Wyniki operacji arytmetycznych"
         }
       ],
       "correctOptionId": "correct",
@@ -37042,15 +37042,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest mniejsza i szybsza niż L1"
+          "text": "Mniejsza i szybsza od L1"
         },
         {
           "id": "d2",
-          "text": "Jest większa i szybsza niż L1"
+          "text": "Większa i szybsza od L1"
         },
         {
           "id": "d3",
-          "text": "Jest mniejsza i wolniejsza niż L1"
+          "text": "Mniejsza i wolniejsza od L1"
         }
       ],
       "correctOptionId": "correct",
@@ -37090,15 +37090,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest mniejsza i szybsza niż L1"
+          "text": "Mniejsza i szybsza od L1"
         },
         {
           "id": "d2",
-          "text": "Jest większa i szybsza niż L1"
+          "text": "Większa i szybsza od L1"
         },
         {
           "id": "d3",
-          "text": "Jest mniejsza i wolniejsza niż L1"
+          "text": "Mniejsza i wolniejsza od L1"
         }
       ],
       "correctOptionId": "correct",
@@ -38446,15 +38446,15 @@
         },
         {
           "id": "d1",
-          "text": "programowo przez system operacyjny przy każdym trafieniu do cache"
+          "text": "Programowo przez system"
         },
         {
           "id": "d2",
-          "text": "programowo przez kompilator przy każdym odczycie danych"
+          "text": "Programowo przez kompilator"
         },
         {
           "id": "d3",
-          "text": "ręcznie przez program przy każdym dostępie do rejestru"
+          "text": "Ręcznie przez użytkownika"
         }
       ],
       "correctOptionId": "correct",
@@ -38734,15 +38734,15 @@
         },
         {
           "id": "d1",
-          "text": "tak, we wszystkich przypadkach wyłącznie w procesorach"
+          "text": "Tak, wyłącznie w CPU"
         },
         {
           "id": "d2",
-          "text": "tak, cache poza procesorem jest zawsze pamięcią RAM bez funkcji podręcznej"
+          "text": "Tak, wyłącznie w ALU"
         },
         {
           "id": "d3",
-          "text": "tak, poza procesorem występują bufory, które nie mogą pełnić funkcji cache"
+          "text": "Tak, wyłącznie w rdzeniach"
         }
       ],
       "correctOptionId": "correct",
@@ -39310,15 +39310,15 @@
         },
         {
           "id": "d1",
-          "text": "Ponieważ cache ma większą pojemność niż RAM i przechowuje cały program"
+          "text": "RAM, bo jest szybsza"
         },
         {
           "id": "d2",
-          "text": "Ponieważ cache zachowuje dane bez zasilania, a RAM wymaga zasilania"
+          "text": "ROM, bo jest szybsza"
         },
         {
           "id": "d3",
-          "text": "Ponieważ cache zastępuje pamięć wirtualną i usuwa potrzebę używania RAM"
+          "text": "Pamięć masowa, bo jest szybsza"
         }
       ],
       "correctOptionId": "correct",
@@ -40036,15 +40036,15 @@
         },
         {
           "id": "d1",
-          "text": "Tak, częstotliwość określa wydajność niezależnie od liczby instrukcji na cykl"
+          "text": "Tak, niezależnie od architektury"
         },
         {
           "id": "d2",
-          "text": "Tak, dwa procesory o tym samym zegarze wykonują każdy program w tym samym czasie"
+          "text": "Tak, niezależnie od programu"
         },
         {
           "id": "d3",
-          "text": "Tak, wzrost zegara o 20% gwarantuje wzrost wydajności każdego programu o 20%"
+          "text": "Tak, zawsze proporcjonalnie"
         }
       ],
       "correctOptionId": "correct",
