@@ -1,0 +1,1 @@
+{"name":"cpu-powtorka","version":"1.0.0","private":true,"description":"Offline CPU study app from 26 source documents","scripts":{"start":"node server.cjs","test":"node --test tests/core.test.cjs","build:data":"node scripts/build-data.cjs"},"engines":{"node":">=18"}}

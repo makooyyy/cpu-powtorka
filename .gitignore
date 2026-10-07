@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+*.log
+.codex-remote-attachments/
+source/
+tests/*.png
