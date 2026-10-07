@@ -1,0 +1,128 @@
+cpu|Central Process Unit|Central Processing Utility|Computer Processing Unit
+digital|Do przetwarzania sygnałów o ciągłych wartościach|Do wzmacniania sygnałów bez zmiany ich postaci|Do przetwarzania wyłącznie sygnałów analogowych
+input|Wyniki operacji zamiast danych wejściowych|Adresy wyników zamiast danych wejściowych|Sygnały wyjściowe zamiast danych wejściowych
+output|Zwraca instrukcje opisujące sposób wykonania operacji|Zwraca dane wejściowe bez wykonania wskazanej operacji|Zwraca adresy operacji zamiast ich wyników
+digitalneq|Tak, procesor i układ cyfrowy to dwie nazwy tego samego układu|Nie, procesor jest układem analogowym, a układ cyfrowy nim nie jest|Tak, każdy układ przetwarzający sygnały cyfrowe wykonuje program
+alu_en|Arithmetic Load Unit|Address Logic Unit|Arithmetic Logic Utility
+alu_ops|Operacje dekodowania i szeregowania rozkazów|Operacje adresowania i pobierania rozkazów|Operacje sterowania i synchronizacji rozkazów
+alu_data|Z dekodera rozkazów lub generatora zegarowego|Z pamięci mikrokodu lub rejestru rozkazów, zamiast argumentów|Z rejestru znaczników lub licznika rozkazów, zamiast argumentów
+alu_signal|Adres następnego rozkazu zapisany w liczniku PC|Wartość argumentu zapisanego w akumulatorze AX|Liczba bitów ustawionych w rejestrze znaczników F
+instruction|To pełny ciąg operacji programu, który procesor wykonuje jako jedną instrukcję|To adres komórki pamięci, w której program przechowuje wynik obliczenia|To sygnał synchronizujący wykonanie kolejnych etapów pracy procesora
+instruction_set|To uporządkowany ciąg instrukcji aktualnie uruchomionego programu|To zestaw instrukcji oczekujących w danej chwili w potoku procesora|To zestaw adresów instrukcji przechowywanych w pamięci podręcznej
+fields|Z pola adresu rozkazu i pól wyników operacji|Z pola kodu argumentu i pól adresów następnych rozkazów|Z pola kodu operacji i pola częstotliwości wykonania
+opcode|Definiuje położenie argumentu, czyli adres danych potrzebnych do wykonania rozkazu|Definiuje adres następnego rozkazu, czyli miejsce kontynuowania programu|Definiuje stan wyniku, czyli wartości flag po zakończeniu operacji
+argcount|Od liczby rdzeni, które mogą równolegle wykonać rozkaz|Od liczby poziomów pamięci, przez które przechodzi rozkaz|Od liczby etapów potoku, przez które przechodzi rozkaz
+noargs|Tak, każdy ma przynajmniej jedno jawne pole argumentu|Tak, każdy ma dwa jawne pola argumentów|Tak, każdy ma osobne jawne pola źródła i wyniku
+cycle|Z fazy pobrania danych i fazy kompilacji rozkazu|Z fazy dekodowania programu i fazy jego załadowania|Z fazy wykonania rozkazu i fazy kompilacji wyniku
+cpu_role|Przetwarzanie instrukcji i przechowywanie całego programu w rejestrach|Przetwarzanie danych i zastępowanie układów pamięci operacyjnej|Przetwarzanie sygnałów zegarowych i bezpośrednie zasilanie innych układów
+program|Ciągiem sygnałów zegarowych, które wyznaczają kolejne cykle pracy procesora|Zestawem instrukcji obsługiwanych przez architekturę, niezależnym od zadania|Zestawem wyników zapisanych w pamięci po zakończeniu obliczeń
+programmem|W pamięci masowej odczytywanej bez pośrednictwa pamięci operacyjnej|W rejestrze rozkazów, który mieści jednocześnie cały program|W pamięci mikrokodu, do której trafia każdy uruchomiony program
+slowdisk|Mają zbyt małą pojemność na kod instrukcji|Przechowują dane, ale nie mogą przechowywać rozkazów|Nie pozwalają odczytywać wcześniej zapisanych instrukcji
+blocks|Na blok arytmetyczny i blok logiczny|Na blok pamięci i blok adresowania|Na blok dekodowania i blok synchronizacji
+alu_structure|Jako zestaw komórek pamięci przechowujących wyniki wszystkich możliwych działań|Jako zestaw dekoderów, które tłumaczą rozkazy bez wykonywania obliczeń|Jako zestaw liczników adresów, które wybierają kolejne instrukcje
+pc|PC to wskaźnik stosu, który wskazuje adres ostatnio odłożonych danych|PC to rejestr rozkazów, który przechowuje kod bieżącej instrukcji|PC to rejestr stanu, który przechowuje znaczniki wyniku operacji
+cu_role|wykonywanie działań arytmetycznych oraz przechowywanie ich wyników|przechowywanie argumentów oraz wykonywanie operacji logicznych|zapisywanie wyników obliczeń oraz wyznaczanie flag arytmetycznych
+cu_parts|ALU, akumulator, rejestry robocze|IR, ALU, akumulator|DEK, wskaźnik stosu, akumulator
+decoder|Przechowuje kod rozkazu pobranego z pamięci do zakończenia jego wykonania|Wyznacza adres kolejnego rozkazu i aktualizuje kolejność wykonywania programu|Oblicza wynik operacji określonej przez rozkaz i aktualizuje znaczniki stanu
+pipeline|Na zakończeniu wszystkich etapów jednej instrukcji przed pobraniem kolejnej|Na wykonywaniu tego samego etapu jednej instrukcji przez kilka rdzeni naraz|Na pobieraniu kilku rozkazów, a następnie wykonywaniu ich bez nakładania etapów
+levels|L0, L1, L2|L1, L3, L4|L2, L3, L4
+logical|Fizyczne rdzenie, z których każdy ma własny niezależny układ wykonawczy|Oddzielne procesory fizyczne współdzielące gniazdo na płycie głównej|Zestawy instrukcji wybierane przez system zależnie od uruchomionego programu
+eu_role|Interpretowanie kodu instrukcji, czyli generowanie sygnałów sterujących pozostałymi blokami|Sterowanie kolejnością instrukcji, czyli wyznaczanie i pobieranie kolejnego rozkazu|Synchronizowanie cyklu, czyli wytwarzanie sygnałów zegarowych dla pozostałych bloków
+graphene|Warstwa krzemu o grubości jednego atomu|Przestrzenna sieć atomów węgla o strukturze diamentu|Cylindryczna struktura węgla tworząca pojedynczą nanorurkę
+tdp_en|Thermal Design Performance|Total Design Power|Thermal Dynamic Power
+processor|Jest komponentem przechowującym program i dane do chwili ich odczytania przez jednostkę sterującą|Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu|Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera
+cisc|Complex Instruction Storage Computer|Complete Instruction Set Computer|Complex Integrated System Computer
+typical|Kopiowanie, dodawanie, kompilowanie, działania na bitach|Przesuwanie bitów, skoki, linkowanie, odejmowanie|Mnożenie, kopiowanie, kompilowanie, linkowanie
+risc|Reduced Instruction Storage Computer|Rapid Instruction Set Computer|Reduced Integrated System Computer
+jump_types|Arytmetyczne i logiczne|Synchroniczne i asynchroniczne|Sekwencyjne i równoległe
+ir|Przechowuje adres kolejnego rozkazu do pobrania|Przechowuje znaczniki wyniku bieżącej operacji|Przechowuje adres wierzchołka stosu programu
+ir_source|Z rejestru znaczników F|Z dekodera, który dopiero tworzy kod rozkazu|Z licznika PC, który przechowuje kod zamiast adresu
+registers|To wydzielone obszary RAM, którym system nadaje nazwy rejestrów|To komórki pamięci podręcznej identyfikowane jako pliki programu|To komórki pamięci ROM zawierające niezmienną listę wyników obliczeń
+registers_speed|Przechowywanie danych roboczych bez zasilania procesora|Zwiększanie pojemności pamięci RAM przez zmianę adresów|Tłumaczenie instrukcji maszynowych na instrukcje języka źródłowego
+word|Ilość danych przesyłanych w całym cyklu wykonywania programu|Ilość danych mieszczących się w jednej linii pamięci cache|Ilość danych przechowywanych łącznie we wszystkich rejestrach
+silicon|Z monokryształu germanu|Z arsenku galu|Z węglika krzemu
+process|Wymiar określający szerokość magistrali danych procesora|Parametr określający liczbę instrukcji wykonywanych w jednym cyklu|Parametr określający częstotliwość przełączania układów procesora
+cool|Technologia utrzymująca częstotliwość ponad bazową przy wolnym limicie termicznym|Technologia udostępniająca dwa wątki sprzętowe na jednym rdzeniu fizycznym|Technologia zwiększająca szybkość komunikacji procesora z pamięcią operacyjną
+cool_how|Na zmianie częstotliwości i napięcia wyłącznie podczas uruchamiania komputera|Na zmianie napięcia proporcjonalnie do pojemności zajętej pamięci RAM|Na zwiększaniu częstotliwości przy spadku obciążenia i obniżaniu jej przy wzroście
+turbo|automatycznie zwiększa taktowanie wszystkich rdzeni do tej samej wartości niezależnie od limitów|automatycznie ustala wyższe taktowanie bazowe, które pozostaje stałe po spadku obciążenia|automatycznie zwiększa liczbę wątków logicznych zamiast częstotliwości pracy rdzeni
+amd|Advanced Micro Design|Advanced Memory Devices|Applied Micro Devices
+tdp|Jest to współczynnik określający maksymalną dopuszczalną temperaturę rdzenia|Jest to współczynnik określający aktualny pobór prądu z gniazda zasilania|Jest to współczynnik określający moc elektryczną pobieraną stale w każdym obciążeniu
+alu_def|Jest to układ cyfrowy, który rozpoznaje kod rozkazu i wytwarza sygnały sterujące jego wykonaniem|Jest to układ cyfrowy, który przechowuje adres następnego rozkazu i ustala kolejność ich pobierania|Jest to układ cyfrowy, który przechowuje mikrokod i wybiera sygnały dla kolejnych etapów instrukcji
+complete|Oznacza to, że każda operacja z zestawu kończy się w jednym cyklu zegara|Oznacza to, że jedna instrukcja realizuje dowolny algorytm bez pozostałych instrukcji|Oznacza to, że każda operacja wymaga wszystkich argumentów dostępnych w pamięci
+initiator|Przez pamięć operacyjną|Przez jednostkę arytmetyczno-logiczną bez układu sterowania|Przez rejestr rozkazów bez układu sterowania
+fastest|L2|L3|L1, L2 i L3 mają tę samą latencję
+ht|Jeden rdzeń wykonuje dwa wątki, ale system nadal widzi tylko jeden procesor logiczny|Dwa fizyczne rdzenie współdzielą rejestry, a system widzi je jako jeden procesor logiczny|Jeden rdzeń przełącza programy wyłącznie programowo, bez dodatkowego kontekstu sprzętowego
+ht_en|Hyper-Transport|Hardware Threading|High-speed Threading
+args|Informacje o kodzie operacji oraz sposobie dekodowania instrukcji|Informacje o stanie flag oraz kolejności pobierania instrukcji|Informacje o adresie rozkazu oraz liczbie etapów jego dekodowania
+packaging|Jest wykonany jako zespół oddzielnych układów scalonych bez wspólnej jednostki sterującej|Jest wykonany jako programowy układ wykonywany w pamięci operacyjnej|Jest wykonany jako układ pamięci, którego komórki zastępują jednostki wykonawcze
+mini|Niższe zużycie energii, wyższe napięcie robocze i niższa gęstość tranzystorów|Wyższe zużycie energii, niższe napięcie robocze i mniejsza gęstość tranzystorów|Niższa częstotliwość taktowania, wyższe napięcie robocze i większe tranzystory
+largest|L1|L2|L1, L2 i L3 mają tę samą pojemność
+eu_parts|Z rejestru IR oraz dekodera rozkazów|Z dekodera rozkazów oraz układu sterowania|Z licznika rozkazów oraz pamięci mikrokodu
+hardwired|Microprogrammed control|Microcoded control|Firmware-based control
+microprogram|Hardwired control|Combinational control|Direct-wired control
+memory|Dekoduje dane wejściowe i generuje rozkazy sterujące obliczeniami|Przetwarza argumenty i wykonuje na nich operacje arytmetyczne|Ustala kolejność instrukcji i synchronizuje ich wykonanie
+control_types|Jako sterowanie sprzętowe (hardwired control) lub jako sterowanie potokowe (pipeline control)|Jako sterowanie sekwencyjne (sequential control) lub jako sterowanie równoległe (parallel control)|Jako sterowanie pamięcią (memory control) lub jako sterowanie magistralą (bus control)
+moore|Liczba tranzystorów rośnie co roku o tę samą stałą liczbę elementów|Częstotliwość zegara każdego nowego procesora podwaja się w równych odstępach czasu|Pobór mocy procesora maleje o połowę przy każdym podwojeniu liczby tranzystorów
+moore_examples|pojemność dysków, rozmiar RAM, napięcie zasilania, moc obliczeniowa na koszt, przepustowość sieci|pojemność dysków, rozmiar RAM, gęstość tranzystorów, temperatura rdzeni, przepustowość sieci|pojemność dysków, rozmiar RAM, gęstość tranzystorów, moc obliczeniowa na koszt, opóźnienie pamięci
+graphene_props|Lepiej niż miedź przewodzi ciepło, ale nie przewodzi prądu i jest mocniejszy niż stal|Gorzej niż miedź przewodzi ciepło i elektryczność, ale jest mocniejszy niż stal|Lepiej niż miedź przewodzi ciepło i elektryczność, ale jest słabszy niż stal
+frequency_unit|W sekundach|W instrukcjach na cykl|W bitach na sekundę
+speed|Zwiększyć taktowanie ponad częstotliwość bazową, gdy pozwala na to limit termiczny|Zwiększyć liczbę wątków wykonywanych jednocześnie na jednym rdzeniu procesora|Utrzymać stałe napięcie i taktowanie niezależnie od aktualnego obciążenia
+pentiumm|do serwerów wieloprocesorowych|do stacjonarnych stacji roboczych|do komputerów wbudowanych w sterowniki przemysłowe
+cnt|Carbon nanotransistors|Carbon nanotechnology|Crystal nanotubes
+execute|Procesor pobiera kod instrukcji z pamięci do rejestru rozkazów|Procesor rozpoznaje kod operacji i przygotowuje sygnały sterujące|Procesor wyznacza adres instrukcji, która dopiero zostanie pobrana
+graphene_heat|Nie, grafen przewodzi ciepło gorzej niż miedź|Nie, grafen i miedź przewodzą ciepło jednakowo|Nie, grafen przewodzi elektryczność, ale nie przewodzi ciepła
+graphene_strength|Tak, stal jest około 100 razy mocniejsza od grafenu|Nie, grafen jest około 10 razy mocniejszy od stali|Nie, grafen jest około 1000 razy mocniejszy od stali
+rom|Read-Once Memory|Random-Only Memory|Read-Output Memory
+cache|To pamięć robocza, która przechowuje cały aktywny program zamiast pamięci RAM|To pamięć wirtualna, która udostępnia procesorowi dodatkową przestrzeń dyskową|To pamięć mikrokodu, która przechowuje stały opis wykonania wszystkich rozkazów
+samepower|Obie technologie zmniejszają pobór prądu; Cool’n’Quiet jest od Intela, a SpeedStep od AMD|Obie technologie zwiększają taktowanie ponad bazowe; Cool’n’Quiet jest od AMD, a SpeedStep od Intela|Obie technologie zwiększają liczbę wątków; Cool’n’Quiet jest od AMD, a SpeedStep od Intela
+cache_units|w kb/s i Mb/s|w ns i µs|w MHz i GHz
+intel_examples|Pentium, Celeron, Athlon|Pentium, Phenom, Core|Duron, Celeron, Core
+amd_examples|Duron, Athlon XP, Celeron|Duron, Pentium, Phenom|Core, Athlon XP, Phenom
+buses|Adresowa, danych i rozkazowa|Adresowa, wynikowa i sterująca|Rozkazowa, wynikowa i zegarowa
+interrupt|Sygnał zmieniający adres kolejnej instrukcji bez zapisu stanu i bez procedury obsługi|Sygnał powtarzający bieżący rozkaz, zanim zostanie pobrana następna instrukcja|Sygnał kończący bieżący program i usuwający jego stan przed uruchomieniem obsługi
+bits|oznacza to, że każda instrukcja programu ma dokładnie 64 bity długości|oznacza to, że procesor pobiera zawsze dokładnie 64 bajty danych w jednej operacji|oznacza to, że każda magistrala i każdy rejestr pomocniczy ma dokładnie 64 bity
+alu_digital|Jest on układem analogowym|Jest on układem przetwornika analogowo-cyfrowego|Jest on układem przetwornika cyfrowo-analogowego
+l1types|Pamięć rozkazów (I-cache) i pamięć adresów (A-cache)|Pamięć danych (D-cache) i pamięć wyników (R-cache)|Pamięć adresów (A-cache) i pamięć znaczników (F-cache)
+cores|Większa liczba rdzeni zwiększa wydajność wprost proporcjonalnie w każdym programie|Większa liczba rdzeni przyspiesza każdy pojedynczy wątek bez zmian w programie|Większa liczba rdzeni zwiększa taktowanie, co stanowi jedyne źródło przyspieszenia
+l1|Jest wydzielona w głównej pamięci RAM|Jest umieszczona w kontrolerze chipsetu poza procesorem|Jest wydzielona w pamięci ROM płyty głównej
+rom_dictionary|Tablicę adresów kolejnych rozkazów programu|Argumenty aktualnie wykonywanych rozkazów|Wyniki operacji oczekujące na zapis do RAM
+operands|wartości argumentów, nazwy rejestrów, częstotliwość wykonania rozkazu|kod operacji, tryb adresowania, kod dekodera rozkazu|nazwy rejestrów, flagi wyniku, liczba etapów potoku
+moore_empirical|Jest to prawo fizyczne wyprowadzone z zachowania energii|Jest to norma konstrukcyjna obowiązująca producentów układów|Jest to ścisła zależność matematyczna wynikająca z budowy tranzystora
+l2|Jest mniejsza i szybsza niż L1|Jest większa i szybsza niż L1|Jest mniejsza i wolniejsza niż L1
+io|Układ do wymiany informacji wyłącznie między rejestrami ALU|Układ do dekodowania instrukcji odczytywanych z pamięci|Układ do wyznaczania adresów następnych rozkazów programu
+clock|Zegar wyznacza kolejność instrukcji przez przechowywanie adresu następnego rozkazu|Zegar dekoduje instrukcje i wybiera operacje wykonywane przez ALU|Zegar przechowuje stan programu i przywraca go po obsłudze przerwania
+frequency|Liczba instrukcji zakończonych w ciągu sekundy|Liczba operacji wykonanych w jednym cyklu|Liczba bitów przetworzonych w jednym cyklu
+photolithography|Techniką elektrodrążenia|Techniką obróbki skrawaniem|Techniką zapisu magnetolitograficznego
+multicore|To procesor posiadający jeden rdzeń fizyczny i kilka kontekstów wątków logicznych|To procesor posiadający kilka poziomów cache traktowanych jako jednostki wykonawcze|To procesor posiadający kilka rejestrów rozkazów zamiast fizycznych rdzeni
+fetch|Procesor rozpoznaje kod operacji i ustala sygnały potrzebne do jej wykonania|Procesor wykonuje operację na argumentach zapisanych w rejestrach|Procesor zapisuje wynik działania i aktualizuje znaczniki stanu
+virtual|Jest realizowane przez układ cache i polega na kopiowaniu często używanych linii pamięci|Jest realizowane przez ALU i polega na zamianie adresów na wyniki operacji arytmetycznych|Jest realizowane przez dekoder i polega na przechowywaniu mikrokodu w pamięci ROM
+cache_external|Pamięć wbudowana znajduje się w RAM, a zewnętrzna w układzie procesora|Pamięć wbudowana przechowuje tylko dane, a zewnętrzna tylko rozkazy|Pamięć wbudowana zachowuje dane po wyłączeniu, a zewnętrzna je traci
+i7cache|Każdy rdzeń posiada własną pamięć L1 i L3, natomiast pamięć L2 jest wspólna|Każdy rdzeń posiada własną pamięć L3, natomiast pamięci L1 i L2 są wspólne|Każdy rdzeń posiada własną pamięć L2, natomiast pamięci L1 i L3 są wspólne
+core|To logiczny kontekst wątku, który zawsze wymaga dwóch fizycznych procesorów|To blok pamięci cache, który przechowuje instrukcje wszystkich wątków|To zestaw rejestrów, który nie ma dostępu do jednostek wykonawczych
+operand_data|Są to kody wskazujące, którą operację procesor ma wykonać|Są to flagi opisujące rezultat poprzednio wykonanej operacji|Są to etapy, na które procesor dzieli wykonywanie instrukcji
+cache_management|programowo przez system operacyjny przy każdym trafieniu do cache|programowo przez kompilator przy każdym odczycie danych|ręcznie przez program przy każdym dostępie do rejestru
+logical_view|Jako osobny fizyczny rdzeń z własnymi jednostkami wykonawczymi|Jako osobny układ procesora zamontowany w drugim gnieździe|Jako osobny poziom pamięci podręcznej przeznaczony dla wątku
+cnt_research|Krzemowe nanodruty (silicon nanowires)|Tranzystory z arsenku galu (GaAs)|Tranzystory z azotku galu (GaN)
+turbo_benefit|Zwiększa wydajność przez udostępnienie drugiego wątku na każdym rdzeniu|Zwiększa wydajność przez podwojenie liczby rdzeni fizycznych|Zwiększa wydajność przez powiększenie pojemności pamięci L3
+cache_only|tak, we wszystkich przypadkach wyłącznie w procesorach|tak, cache poza procesorem jest zawsze pamięcią RAM bez funkcji podręcznej|tak, poza procesorem występują bufory, które nie mogą pełnić funkcji cache
+pipeline_stages|dekodowania i kompilowania|pobierania i kompilowania|wykonywania i linkowania
+ax_function|Przechowuje adres następnego rozkazu do pobrania|Przechowuje adres wierzchołka stosu programu|Przechowuje znaczniki stanu po wykonaniu operacji
+pipeline_benefit|Żeby skrócić każdy pojedynczy etap instrukcji bez nakładania etapów|Żeby zastąpić wszystkie instrukcje programu jedną operacją|Żeby wykonywać jedną instrukcję na wszystkich rdzeniach jednocześnie
+cores_examples|Np. 2-, 4-, 6- i 8-wątkowe, przy czym każdy wątek jest fizycznym rdzeniem|Np. L1-, L2- i L3-rdzeniowe, zależnie od liczby poziomów pamięci|Np. 16-, 32- i 64-rdzeniowe, zależnie od długości słowa maszynowego
+cache_reason|Ponieważ cache ma większą pojemność niż RAM i przechowuje cały program|Ponieważ cache zachowuje dane bez zasilania, a RAM wymaga zasilania|Ponieważ cache zastępuje pamięć wirtualną i usuwa potrzebę używania RAM
+l2location|Znajduje się w modułach pamięci operacyjnej|Znajduje się w układzie pamięci ROM płyty głównej|Znajduje się w kontrolerze pamięci masowej
+cisc_risc|CISC ma mniej prostych rozkazów, a RISC ma więcej rozkazów złożonych|CISC i RISC mają identyczny zestaw rozkazów, różni je tylko liczba rdzeni|CISC rozróżnia instrukcje według liczby wątków, a RISC według pojemności cache
+interrupt_handling|Procesor kończy cały bieżący program, a dopiero potem wykonuje procedurę obsługi|Procesor zapisuje stan, uruchamia obsługę, a następnie zaczyna przerwany program od początku|Procesor wykonuje procedurę obsługi bez zachowania stanu przerwanego programu
+opcode_field|Pole adresu wyniku|Pole argumentu bezpośredniego|Pole adresu następnej instrukcji
+core_design|Od liczby wątków aktualnie uruchomionych przez system|Od liczby zestawów danych w pamięci podręcznej|Od ustawionej częstotliwości bazowej procesora
+slowest|L1|L2|L1, L2 i L3 mają tę samą latencję
+neumann|ALU, jednostka sterująca, pamięć i generator zegara|ALU, dekoder rozkazów, akumulator i układy wejścia-wyjścia|ALU, jednostka sterująca, rejestry znaczników i licznik rozkazów
+frequency_perf|Tak, częstotliwość określa wydajność niezależnie od liczby instrukcji na cykl|Tak, dwa procesory o tym samym zegarze wykonują każdy program w tym samym czasie|Tak, wzrost zegara o 20% gwarantuje wzrost wydajności każdego programu o 20%
+after|wynik jest zapisywany, a procesor ponownie wykonuje tę samą instrukcję|wynik jest zapisywany, a licznik rozkazów wraca do początku programu|wynik jest zapisywany, a procesor czeka na przerwanie przed każdą następną instrukcją
+shifts|Do zamiany kolejności wszystkich bajtów bez przesuwania bitów|Do zamiany wartości każdego bitu na przeciwną|Do zamiany kodu operacji bez zmiany danych argumentu
+jumps|Skok bezwarunkowy wymaga ustawienia flagi, a warunkowy wykonuje się niezależnie od flag|Skok bezwarunkowy zmienia dane, a warunkowy zmienia kod operacji|Skok bezwarunkowy zależy od adresu instrukcji, a warunkowy od częstotliwości zegara
+after_fetch|Trafia do licznika rozkazów, a następnie jest wykonywany bez dekodowania|Trafia do rejestru znaczników, a następnie wyznacza adres argumentu|Trafia do akumulatora, a następnie jest traktowany jak wynik operacji
+cisc_def|Ma ograniczony zestaw prostych instrukcji i upraszcza dostęp do pamięci|Ma złożone instrukcje, ale każda musi mieć identyczną długość i czas wykonania|Ma wiele trybów adresowania, ale operacje arytmetyczne są zastępowane kompilacją
+risc_def|Wykorzystuje rozbudowany zestaw złożonych instrukcji i wiele trybów adresowania|Wykorzystuje proste instrukcje, ale wszystkie argumenty zawsze pobiera bezpośrednio z RAM|Wykorzystuje instrukcje o dowolnej złożoności, a rejestry zastępuje pamięcią mikrokodu
+interrupt_source|Może je wywołać każdy odczyt rejestru, także gdy nie wystąpił wyjątek ani żądanie obsługi|Może je wywołać każde pobranie następnego rozkazu, niezależnie od stanu procesora|Może je wywołać każde zwiększenie licznika rozkazów podczas zwykłego wykonania
+intel_core|Core i3, Ryzen 5, Core i7|Ryzen 3, Core i5, Core i7|Core i3, Core i5, Athlon
