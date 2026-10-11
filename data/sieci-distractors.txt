@@ -1,0 +1,220 @@
+network|Usługi działające na jednym komputerze bez wymiany danych z innymi urządzeniami|Układ urządzeń połączonych wspólnym zasilaniem, niezależnie od możliwości przesyłania danych|Zbiór plików i katalogów uporządkowanych na dysku według uprawnień użytkowników
+host|Urządzenie regenerujące sygnał na łączu bez bycia adresatem przesyłanych danych|Identyfikator połączenia określający przepustowość i typ medium transmisyjnego|Oprogramowanie ustalające kolejność dostępu wszystkich stacji do wspólnego kabla
+client|Oprogramowanie udostępniające zasoby i obsługujące żądania innych urządzeń|Urządzenie przekazujące pakiety pomiędzy sieciami na podstawie tablicy routingu|Oprogramowanie rejestrujące nazwy domen i utrzymujące strefę DNS
+browser|System zarządzania bazą danych|Serwer DNS|Serwer baz danych
+server|Komputer korzystający z usług oferowanych przez inne urządzenia w sieci|Urządzenie powielające odbierany sygnał na wszystkie pozostałe porty|Komputer przesyłający pakiety między podsieciami według tablicy routingu
+services|Regeneracja sygnału elektrycznego na wszystkich portach koncentratora|Tłumienie odbić sygnału na zakończeniach kabla koncentrycznego|Ekranowanie par przewodów przed zakłóceniami elektromagnetycznymi
+medium_alias|Protokół wymiany informacji|Adres odbiorcy informacji|Format zapisu informacji
+medium|Zestaw reguł określających format wiadomości i sposób prowadzenia komunikacji|Identyfikator urządzenia umożliwiający wskazanie odbiorcy przesyłanych danych|Oprogramowanie zarządzające zasobami udostępnianymi użytkownikom sieci
+media|Adres IPv4, adres IPv6 oraz adres MAC|Protokół TCP, protokół UDP oraz protokół IP|Tablica routingu, tablica ARP oraz pamięć DNS
+protocol|Fizyczny nośnik przenoszący sygnał pomiędzy nadajnikiem a odbiornikiem|Identyfikator przypisany interfejsowi w celu rozpoznania urządzenia w sieci|Sposób rozmieszczenia kabli i urządzeń określający fizyczny kształt sieci
+internet|Prywatna sieć organizacji dostępna wyłącznie dla upoważnionych pracowników|Zbiór stron WWW zapisanych na jednym centralnym serwerze całej sieci|Sieć lokalna, w której wszystkie urządzenia korzystają ze wspólnego adresu MAC
+internet_era|Początek lat 50. XX wieku|Koniec lat 70. XX wieku|Początek lat 90. XX wieku
+arpanet|NSFNET|BITNET|Ethernet
+intranet|Publiczna sieć globalna, która łączy sieci różnych organizacji bez ograniczenia dostępu do jednej firmy|Sieć firmowa udostępniająca wybrane zasoby także uprawnionym partnerom zewnętrznym i klientom|Bezpośrednie połączenie pobliskich urządzeń użytkownika, wykorzystujące wyłącznie krótkie łącza radiowe
+extranet|Wewnętrzna sieć organizacji ograniczająca dostęp do zasobów wyłącznie do jej pracowników|Publiczna sieć globalna udostępniająca zasoby każdemu użytkownikowi bez uprawnień organizacji|Wydzielona sieć służąca wyłącznie do łączenia urządzeń osobistych jednego użytkownika
+dns_en|Domain Node Service|Dynamic Name System|Distributed Network Service
+dns|Przydziela hostom adres IP, maskę podsieci oraz adres bramy domyślnej|Odwzorowuje znany adres IPv4 na adres sprzętowy MAC w sieci lokalnej|Wybiera trasę przesyłania pakietów pomiędzy sieciami na podstawie adresu IP
+dhcp_en|Dynamic Host Communication Protocol|Distributed Host Configuration Protocol|Dynamic Hardware Configuration Protocol
+dhcp|Tłumaczy nazwy domenowe na adresy IP na podstawie rekordów strefy DNS|Ustala adres MAC odbiorcy lokalnego na podstawie znanego adresu IPv4|Przekazuje datagramy pomiędzy sieciami na podstawie tablicy routingu
+bit|Bajt|Oktet|Słowo maszynowe
+coax_structure|Dwie pary miedzianych żył skręconych wokół siebie i osłoniętych wspólną izolacją|Szklany rdzeń otoczony płaszczem optycznym oraz warstwami ochronnymi|Osiem równoległych żył miedzianych w płaskiej wspólnej osłonie izolacyjnej
+bnc|RJ45|SC|LC
+coax_types|Jednomodowy i wielomodowy|Prosty i skrosowany|Jednoparowy i czteroparowy
+twisted_structure|Jeden miedziany rdzeń otoczony izolatorem, ekranem i osłoną zewnętrzną|Dwa szklane włókna otoczone płaszczem optycznym i warstwą ochronną|Osiem miedzianych żył ułożonych równolegle bez skręcania ich w pary
+rj45|RJ11|BNC|SC
+twisted_types|ST, SC, FC|LAN, MAN, WAN|PAN, WLAN, CAN
+categories|5, 5b, 6, 6b, 7|4, 4e, 5, 5a, 6|5, 5e, 6, 6c, 7
+fiber_structure|Miedziany rdzeń, izolator, metalowy ekran i zewnętrzna powłoka ochronna|Cztery pary miedzianych żył, wspólny ekran i zewnętrzna osłona kabla|Rdzeń szklany otoczony przewodzącą żyłą powrotną i metalowym oplotem
+fiber_connectors|RJ45, RJ11, BNC|ST, RJ45, FC|SC, BNC, LC
+fiber_types|Cienki i gruby|Prosty i skrosowany|Ekranowany i nieekranowany
+single_count|Dwie|Cztery|Osiem
+copper_pro|Odporność na zakłócenia elektromagnetyczne bez ekranowania|Mniejsze tłumienie na dużych odległościach niż w światłowodzie|Całkowita izolacja galwaniczna pomiędzy połączonymi urządzeniami
+copper_con|Brak możliwości przesyłania zasilania i danych tym samym przewodem, konieczność stosowania osobnych torów dla każdego kierunku|Konieczność zamiany sygnału na światło, stosowania nadajników optycznych i precyzyjnego dopasowania włókien przy łączeniu|Większy koszt zakończenia niż przy spawaniu włókna, obowiązek czyszczenia optycznego czoła złączy i ochrony przed światłem
+fiber_pro|Łatwiejsze zakończenie przewodu bez narzędzi niż w przypadku skrętki|Możliwość zasilania urządzeń końcowych bezpośrednio przez włókno|Mniejsza wrażliwość na ciasne zagięcia niż przy kablu miedzianym
+fiber_con|Podatność na zakłócenia elektromagnetyczne z przewodów zasilających|Mniejsza przepustowość niż typowej skrętki przy dużych odległościach|Powstawanie prądów wyrównawczych między połączonymi budynkami
+physical_list|Punkt–punkt, rozgłaszanie, przekazywanie żetonu|Klient–serwer, równorzędna, domenowa|Lokalna, miejska, rozległa
+token|Po sprawdzeniu wolnego łącza urządzenie nadaje ramkę, a po kolizji ponawia transmisję po losowym czasie|Stacja wysyła dane po uzyskaniu odpowiedzi CTS na wcześniejsze żądanie RTS do odbiorcy|Stacja otrzymuje na stałe własny przedział czasu i nadaje w nim bez oczekiwania na specjalną ramkę
+ipv4|48-bitowy adres sprzętowy przypisywany interfejsowi sieciowemu przez producenta|128-bitowy adres logiczny zapisywany zwykle jako osiem grup szesnastkowych|16-bitowy identyfikator usługi, wskazujący port programu działającego na hoście
+wired|Fale radiowe i podczerwień|Wi-Fi i WiMAX|Bluetooth i IrDA
+eightp|6P6C|8P6C|6P4C
+resistance|Stosunek poziomu sygnału na wejściu i wyjściu toru wyrażany w decybelach|Czas potrzebny sygnałowi na przebycie określonego odcinka przewodu|Zakłócenie jednej pary wywołane transmisją w sąsiedniej parze przewodów
+lan_en|Large Area Network|Local Access Node|Linked Area Network
+man|Osobista sieć urządzeń działająca zwykle w odległości kilku metrów|Sieć lokalna ograniczona do pojedynczego domu lub niewielkiego biura|Sieć rozległa łącząca oddziały na obszarze wielu krajów lub kontynentów
+man_en|Multiple Area Network|Metropolitan Access Node|Managed Area Network
+wan|Lokalna sieć obejmująca pomieszczenia jednego domu lub biura|Sieć osobista łącząca urządzenia należące do jednego użytkownika|Sieć miejska ograniczona do obszaru jednego miasta lub aglomeracji
+wan_en|Wireless Area Network|Wide Access Node|Wired Area Network
+logical_list|Magistrali, gwiazdy, siatki|LAN, MAN, WAN|Ekranowana, nieekranowana, optyczna
+intra_extra|Intranet udostępnia zasoby partnerom zewnętrznym, a extranet wyłącznie pracownikom firmy|Intranet używa tylko połączeń przewodowych, a extranet wyłącznie łączy bezprzewodowych|Intranet wymaga adresów IPv4, a extranet wymaga stosowania adresów IPv6
+bit_multiples|Kilobajt, megabajt, gigabajt, terabajt|Kiloherc, megaherc, gigaherc, teraherc|Kilowat, megawat, gigawat, terawat
+coax_material|Kable światłowodowe|Kable optyczne jednomodowe|Kable optyczne wielomodowe
+uf_tp_name|F/UTP|S/UTP|SF/UTP
+cat6a|100BASE-TX Fast Ethernet|1000BASE-T Gigabit Ethernet|40GBASE-T 40-Gigabit Ethernet
+rj45_ethernet|Do Fibre Channel|Do SDI|Do Bluetooth
+ac_spec|Częstotliwości 2,4 GHz, a przepustowości do 11 Mb/s|Częstotliwości 5 GHz, a przepustowości do 54 Mb/s|Częstotliwości 2,4 i 5 GHz, a przepustowości do 600 Mb/s
+star|Urządzenia są połączone ze wspólnym kablem zakończonym terminatorami|Każde urządzenie jest połączone z dwoma sąsiadami w zamknięty krąg|Każde urządzenie ma bezpośrednie łącze do każdego innego urządzenia
+star_device|Wspólny przewód z terminatorami na obu jego końcach|Do dwóch sąsiednich stacji tworzących zamknięty tor transmisji|Do wszystkich pozostałych stacji za pomocą oddzielnych przewodów
+twisted_compare|UTP ma ekran foliowy, FTP ma oplot metalowy, a STP nie ma ekranu|UTP ma oplot metalowy, FTP nie ma ekranu, a STP ma ekran foliowy|UTP nie ma ekranu, FTP ma oplot metalowy, a STP ma ekran foliowy
+thin_standard|10BASE5|10BASE-T|100BASE-TX
+thick_standard|10BASE2|10BASE-T|100BASE-FX
+attenuation|Opóźnienie przejścia sygnału przez określony odcinek medium transmisyjnego|Rozmycie impulsu wskutek różnic czasu dotarcia poszczególnych modów światła|Przenikanie zakłóceń między sąsiednimi parami przewodów podczas transmisji
+single_def|Przez rdzeń przesyłanych jest wiele modów światła docierających różnymi drogami|Przez miedziany rdzeń przesyłany jest pojedynczy sygnał elektryczny|Przez rdzeń przesyłany jest sygnał radiowy wzmacniany metalowym ekranem
+multi_def|Jeden mod światła jest prowadzony przez rdzeń bez dyspersji międzymodowej|Przez rdzeń przesyłane są impulsy elektryczne rozdzielane na pary przewodów|Przez rdzeń przesyłane są fale radiowe prowadzone w metalowej osłonie
+server_apps|Firefox i FileZilla Client|Chrome i Thunderbird|Edge i PuTTY
+ring_failure|Wyłącza tylko uszkodzoną stację, ponieważ każda ma osobne łącze do przełącznika|Powoduje automatyczne przełączenie wszystkich urządzeń na zapasowy drugi pierścień|Ogranicza jedynie prędkość uszkodzonego portu centralnego koncentratora
+token_ring|W magistrali Ethernet z CSMA/CD|W gwieździe Ethernet full-duplex|W sieci Wi-Fi z CSMA/CA
+server_possible|Nie, wymagany jest procesor mający specjalny serwerowy zestaw instrukcji|Tak, samo podłączenie komputera do przełącznika uruchamia usługi serwerowe|Nie, wymagane są co najmniej dwa fizyczne procesory oraz dwie karty sieciowe
+apache|Przechowuje i udostępnia relacyjne bazy danych|Przydziela hostom adresy IP oraz maski podsieci|Odwzorowuje nazwy domenowe na adresy IP
+mysql|System rozwiązywania nazw domenowych|Serwer przydzielający konfigurację IP|Protokół przesyłania stron internetowych
+bps|Bajt na sekundę|Bit na milisekundę|Pakiet na sekundę
+byte|Bit|Herc|Bod
+copper_types|Jednomodowy i wielomodowy|ST i SC|Radiowy i podczerwony
+attenuation_unit|W omach|W hercach|W nanosekundach
+single_multi|W światłowodzie jednomodowym przesyła się wiele modów, a w wielomodowym tylko jeden|Jednomodowy przenosi sygnał elektryczny, a wielomodowy sygnał świetlny|Jednomodowy ma większy rdzeń i silniejszą dyspersję modalną niż wielomodowy
+topology_types|Analogową i cyfrową|Na publiczną i prywatną|Na przewodową i bezprzewodową
+address|Zestaw reguł określających sposób wymiany danych pomiędzy urządzeniami|Fizyczny nośnik, po którym sygnał dociera od nadawcy do odbiorcy|Parametr określający liczbę bitów przesyłanych przez łącze w ciągu sekundy
+address_types|Statyczne jako MAC oraz dynamiczne jako nazwy portów|Fizyczne jako IPv4/IPv6 oraz logiczne jako MAC|Lokalne jako TCP oraz rozległe jako UDP
+bit_symbol|B|b/s|B/s
+byte_symbol|b|b/s|B/s
+modulation|Odtwarzanie danych cyfrowych z odebranego sygnału zmodulowanego|Usuwanie nadmiarowych danych w celu zmniejszenia rozmiaru wiadomości|Dodawanie bitów kontrolnych pozwalających wykryć uszkodzenie wiadomości
+demodulation|Przekształcanie danych cyfrowych w sygnał modulowany przeznaczony do transmisji|Podział danych na pakiety oznaczone adresem źródłowym i docelowym|Zamiana adresu logicznego odbiorcy na adres sprzętowy interfejsu
+modem_functions|Kompresja i dekompresja|Szyfrowanie i deszyfrowanie|Fragmentacja i defragmentacja
+p2p|Wydzielony serwer centralnie udostępnia zasoby wszystkim pozostałym hostom|Sieć, w której każdy host pełni wyłącznie rolę klienta usług jednego komputera|Sieć wymagająca nadrzędnego kontrolera domeny do zatwierdzania każdego udostępnienia
+pan_en|Public Area Network|Personal Access Node|Private Area Network
+star_name|Magistrala|Topologia pierścienia|Topologia siatki
+kb|Kilobajt|Kibibit|Kibibajt
+mb|Megabajt|Mebibit|Mebibajt
+gb|Gigabajt|Gibibit|Gibibajt
+tb|Terabajt|Tebibit|Tebibajt
+utp|Kabel z folią wokół wszystkich par|Skrętka ekranowana wspólnym oplotem|Skrętka z folią wokół każdej pary
+ftp_cable|Kabel bez ekranu wokół przewodów|Skrętka ekranowana metalowym oplotem|Skrętka ekranowana warstwą dielektryka
+stp|Kabel bez ekranu wokół przewodów|Skrętka ekranowana wspólną folią|Skrętka z dodatkową izolacją zamiast ekranu
+f_utp|Skrętka bez ekranu ogólnego, z folią wokół każdej pary|Skrętka z oplotem ogólnym, bez ekranowania poszczególnych par|Skrętka z folią ogólną i dodatkową folią wokół każdej pary
+u_ftp|Skrętka ze wspólną folią, bez ekranowania poszczególnych par|Skrętka z folią ogólną i dodatkową folią wokół każdej pary|Skrętka z oplotem ogólnym i folią wokół każdej pary
+f_ftp|Wspólny ekran z oplotu oraz folia wokół każdej pary|Skrętka z folią ogólną, bez ekranowania poszczególnych par|Skrętka bez ekranu ogólnego, z folią wokół każdej pary
+s_ftp|Skrętka z folią ogólną i folią wokół każdej pary|Skrętka z oplotem ogólnym, bez ekranowania poszczególnych par|Skrętka bez ekranu ogólnego, z folią wokół każdej pary
+s_stp|Skrętka z folią ogólną i folią wokół każdej pary|Skrętka z oplotem ogólnym i folią wokół każdej pary|Skrętka z folią ogólną, bez ekranów poszczególnych par
+intra_standards|Nie, intranet wymaga protokołów niezgodnych z TCP/IP|Tylko przy połączeniach radiowych, przy kablowych używa innych|Tylko dla adresów IPv6, przy IPv4 standardy są różne
+intra_access|Tak, dostęp jest publiczny tak jak do ogólnodostępnych stron WWW|Tak, każdemu użytkownikowi Internetu automatycznie przysługuje dostęp|Tylko wtedy, gdy sieć korzysta ze światłowodów zamiast miedzi
+extra_access|Wyłącznie pracownicy firmy korzystający z jej wewnętrznej sieci|Każdy użytkownik Internetu bez przyznawania dostępu przez firmę|Wyłącznie administratorzy obsługujący urządzenia infrastruktury
+lan|Miejska sieć obejmująca obszar aglomeracji|Sieć miejska łącząca oddalone lokalizacje w obrębie aglomeracji|Sieć osobista łącząca urządzenia wokół jednego użytkownika
+point|Do wszystkich stacji wspólnego segmentu dane są rozsyłane jednocześnie|Dane są nadawane po otrzymaniu żetonu przekazywanego kolejnej stacji|Dane są przesyłane w rozgłoszeniu po wykryciu wolnego wspólnego łącza
+node|Pasywny odcinek kabla przenoszący sygnał pomiędzy urządzeniami|Zestaw zasad opisujących format wymienianych komunikatów|Identyfikator procesu określający odbiorcę danych na jednym hoście
+modem|Przekazuje pakiety pomiędzy podsieciami na podstawie tablicy routingu|Regeneruje sygnał i powiela go na wszystkie pozostałe porty|Wysyła ramki do właściwego portu na podstawie adresu MAC
+nic|Przydziela adresy IP wszystkim komputerom w sieci lokalnej|Przekazuje pakiety pomiędzy niezależnymi podsieciami|Tłumaczy nazwy domenowe na adresy urządzeń w Internecie
+repeater|Filtruje ramki na podstawie adresów MAC odbiorców|Wybiera trasę pakietów na podstawie adresów IP|Przydziela hostom konfigurację sieciową przez DHCP
+pan|Obejmuje swoim zasięgiem miasto lub aglomerację|Sieć łącząca odległe lokalizacje w kilku krajach|Sieć lokalna całej szkoły wraz z jej infrastrukturą
+adhoc|Przez centralny punkt dostępowy odbywa się komunikacja wszystkich urządzeń|Komunikacja klientów z usługami udostępnianymi przez wydzielony serwer|Komunikacja stacji po uzyskaniu żetonu od centralnego kontrolera
+ip|Sprzętowy identyfikator interfejsu zapisany jako adres MAC|Numer procesu sieciowego wskazywany przez port transportowy|Nazwa użytkownika służąca do uwierzytelniania na serwerze
+bridge|Regeneruje sygnał i rozdziela go na wszystkie porty, nie filtrując ramek według adresu odbiorcy|Urządzenie przydzielające hostom adresy IP|Urządzenie tłumaczące nazwy domenowe na adresy IP
+router|Regeneruje sygnał w jednym segmencie bez wyboru trasy pomiędzy różnymi sieciami|Urządzenie przekazujące ramki w jednej sieci na podstawie tablicy adresów MAC|Urządzenie przydzielające hostom adresy IP i parametry połączenia z puli DHCP
+filezilla_name|Apache HTTP Server|MySQL Server|Windows DHCP Server
+filezilla|Na przydzielanie adresów IP komputerom w sieci|Na rozwiązywanie nazw domenowych na adresy IP|Na wybieranie tras pakietów między sieciami
+radio_range|Promieniowanie elektromagnetyczne o częstotliwości od 3 kHz do 3 MHz|Promieniowanie elektromagnetyczne o częstotliwości od 300 THz do 3 PHz|Promieniowanie elektromagnetyczne o częstotliwości od 30 MHz do 300 MHz
+physical_def|Określa sposób przekazywania danych między stacjami niezależnie od przebiegu kabli|Opis sposobu przydzielania adresów logicznych hostom w poszczególnych podsieciach|Opis zasad uwierzytelniania użytkowników korzystających z usług serwera
+logical_def|Określa rozmieszczenie przewodów i fizyczne połączenia między urządzeniami|Opis wymiarów złączy i sposobu ekranowania używanego okablowania|Opis położenia urządzeń i przebiegu tras kablowych w budynku
+bus|Osobny przewód łączy każde urządzenie z centralnym przełącznikiem|Każde urządzenie jest połączone z dwoma sąsiadami tworzącymi zamknięty pierścień|Każde urządzenie ma oddzielne połączenie z każdym innym urządzeniem
+ring|Wszystkie urządzenia są podłączone do wspólnego kabla zakończonego terminatorami|Wszystkie urządzenia są podłączone osobnymi łączami do centralnego przełącznika|Każde urządzenie jest połączone bezpośrednio ze wszystkimi pozostałymi urządzeniami
+switch_en|Bridge|Hub|Router
+client_server|Równorzędne komputery samodzielnie udostępniają i pobierają zasoby bez wydzielonego serwera|Sieć, w której wszystkie komputery pełnią wyłącznie rolę dostawców usług|Sieć wymagająca bezpośredniego fizycznego połączenia każdego hosta z każdym innym
+dns_both|Przydziela adresy IP i maski podsieci z dostępnej puli adresowej|Odwzorowuje adresy IPv4 na adresy MAC w obrębie lokalnego segmentu|Zamienia prywatne adresy IP na publiczne podczas przekazywania pakietów
+fiber|Przewód z miedzianym rdzeniem i ekranem służący do przenoszenia sygnałów elektrycznych|Przewód z parami skręconych żył miedzianych ograniczającymi wzajemne zakłócenia|Falowód metalowy służący do prowadzenia mikrofal między urządzeniami radiowymi
+star_pro|Wymaga mniej kabla niż magistrala i działa bez urządzenia centralnego|Zachowuje pełną łączność po awarii jedynego centralnego przełącznika|Zapewnia bezpośrednie połączenie każdej stacji z każdą inną bez pośrednictwa
+broadcast_alias|Przekazywaniem żetonu|Topologia połączenia punkt–punkt|Topologia połączeń dedykowanych
+iso_en|International Standards Office|Internet Systems Organization|International Organization for Systems
+ftp_protocol|Wysyłanie wiadomości pocztowych między serwerami|Odwzorowanie nazw domenowych na adresy IP|Automatyczne przydzielanie konfiguracji sieciowej hostom
+bps_en|byte per second|bit per sample|block per second
+man_area|Osobistym, wokół użytkownika|Lokalnym, w jednym budynku|Rozległym, między kontynentami
+repeater_en|Router|Bridge|Switch
+p2p_en|Point-to-point|Port-to-port|Packet-to-packet
+irda|Fale radiowe w paśmie 2,4 GHz|Fale radiowe w paśmie 5 GHz|Ultradźwięki w powietrzu
+network_division|Ze względu na kolor izolacji przewodów oraz producenta obudów|Ze względu na pojemność dysków oraz rozmiar pamięci procesora|Ze względu na format plików oraz język systemu operacyjnego
+infrared_en|Ultraviolet|Microwave|Ultrasound
+bnc_medium|Do skrętki czteroparowej|Do światłowodu jednomodowego|Do światłowodu wielomodowego
+identification|Numer portu aplikacji identyfikuje urządzenie niezależnie od jego adresu w sieci|Za pomocą prędkości łącza, identycznej dla urządzeń w tym samym segmencie|Za pomocą nazwy protokołu stosowanego przez wszystkie urządzenia danej sieci
+mac|32-bitowy adres logiczny interfejsu zapisany w czterech oktetach dziesiętnych, konfigurowany ręcznie lub przez DHCP do komunikacji w sieci IP|128-bitowy identyfikator logiczny zapisany w ośmiu grupach szesnastkowych, określający interfejs i prefiks sieci w nowej wersji protokołu IP|16-bitowy numer usługi zapisany w nagłówku warstwy transportowej, umożliwiający przekazanie danych do właściwego procesu działającego na hoście
+mac_oui|Numer konkretnej karty nadany w obrębie puli producenta|Adres podsieci, do której aktualnie jest podłączona karta|Numer portu aplikacji korzystającej z interfejsu
+hub|Na podstawie tablicy MAC wybiera port docelowy i kieruje na niego znane ramki unicast|Łączy różne podsieci i wybiera trasę pakietów na podstawie adresów IP|Łączy nazwy domen z adresami IP, odpowiadając na zapytania klientów DNS
+hub_en|Switch|Bridge|Repeater
+nic_en|Network Integration Controller|Node Interface Channel|Network Internet Connector
+bridge_en|Gateway|Switch|Repeater
+router_en|Bridge|Gateway|Repeater
+ap_en|Address Port|Access Protocol|Active Peer
+gateway_en|Bridge|Access Point|Repeater
+switch|Przekazuje każdy odebrany sygnał na wszystkie porty bez sprawdzania adresu odbiorcy|Przydziela komputerom adresy IP i parametry podsieci zgodnie z dostępną pulą|Wybiera trasę między sieciami wyłącznie na podstawie docelowego adresu IP
+gateway|Kończy kabel koncentryczny i zapobiega odbiciom sygnału na końcu toru|Urządzenie regenerujące sygnał wewnątrz jednego segmentu transmisyjnego|Urządzenie rozdzielające sygnał na wszystkie porty bez analizy adresów
+ap|Regeneruje sygnał elektryczny w przewodowym segmencie magistrali|Urządzenie przydzielające nazwy domenowe wszystkim użytkownikom sieci lokalnej|Urządzenie kończące tor optyczny wyłącznie przez pasywne połączenie włókien
+nos|System zarządzający wyłącznie uruchamianiem lokalnych programów, pozbawiony mechanizmów współdzielenia zasobów|Program służący wyłącznie do przeglądania witryn WWW i wysyłania żądań do serwera internetowego|Protokół określający format pojedynczej ramki przesyłanej między kartami sieciowymi w jednym segmencie
+logical_kind|Fizyczna|Adresowa|Sprzętowa
+physical_kind|Logiczna|Protokołowa|Adresowa
+broadcast|Po otrzymaniu specjalnego żetonu stacja nadaje, a potem przekazuje go następnemu uczestnikowi|Stacja wysyła dane dedykowanym łączem wyłącznie do jednego partnera na drugim końcu|Stacja otrzymuje stały przedział czasu, w którym może nadawać bez rywalizacji o wspólne medium
+bit_en|Binary Data|Byte Digit|Basic Integer
+server_hardware|W małą pamięć RAM i wolne dyski, aby ograniczyć równoległą obsługę klientów|W dużą pamięć graficzną zamiast pamięci RAM i pamięci masowej|W pamięć podręczną karty sieciowej zamiast pamięci operacyjnej i dysków
+windows_editions|Home Edition i Personal Edition|Starter Edition i Home Basic Edition|Professional Edition i Home Premium Edition
+sf|Ekran z folii bez warstwy oplotu|Ekran z oplotu bez warstwy folii|Brak wspólnego ekranu przewodu
+resistance_unit|W decybelach|W hercach|W woltach
+dispersion|Odbicia elektryczne od niewłaściwego terminatora|Przesłuch między parami miedzianych żył|Zakłócenia od pobliskiego pola magnetycznego
+ac_speed|Do 54 Mb/s|Do 600 Mb/s|Do 11 Mb/s
+star_con|Awaria pojedynczego kabla zawsze odłącza wszystkie stacje|Wymaga terminatora na obu końcach wspólnego przewodu|Dodanie stacji wymaga przerwania zamkniętego pierścienia
+double_ring_name|Rozszerzona gwiazda|Topologia pełnej siatki|Topologia pojedynczej magistrali
+n_frequency|2,4 GHz i 6 GHz|5 GHz i 60 GHz|6 GHz i 60 GHz
+bnc_def|Ośmiostykowe złącze przeznaczone do zakończenia skrętki Ethernet|Złącze optyczne z mechanizmem zatrzaskowym do zakończenia włókna szklanego|Złącze telefoniczne o sześciu pozycjach przeznaczone do podłączania aparatu
+fiber_material|Przewodnik miedziany|Stop aluminium|Oplot stalowy
+radio_medium|Impulsy elektryczne w skrętce|Impulsy świetlne w światłowodzie|Sygnały elektryczne w koncentryku
+ring_name|Gwiazda|Topologia magistrali|Topologia siatki
+ca_network|W klasycznym współdzielonym Ethernecie półdupleksowym|W sieciach Token Ring z przekazywaniem żetonu|W łączach Ethernet full-duplex bez rywalizacji o medium
+cd_network|W sieciach Wi-Fi z potwierdzeniami ramek|W sieciach Token Ring z przekazywaniem żetonu|W przełączanym Ethernecie pracującym w pełnym dupleksie
+shielding|Powłoka z polietylenu i włókna aramidowe|Szkło kwarcowe i warstwa lakieru ochronnego|Guma izolacyjna i wzmacniające włókna nylonowe
+terminator|Regeneruje osłabiony sygnał przed przesłaniem go do kolejnego segmentu|Rozdziela odbierany sygnał między wszystkie porty koncentratora|Dopasowuje adresy MAC odbiorców do portów przełącznika
+next|Osłabienie sygnału wzdłuż przewodu spowodowane stratami energii|Opóźnienie przejścia sygnału między końcami tego samego przewodu|Rozmycie impulsu świetlnego spowodowane różnymi drogami modów
+radio_type|Drgania mechaniczne ośrodka|Strumienie swobodnych elektronów|Fale ciśnienia w powietrzu
+network_types|UTP, FTP, STP|TCP, UDP, IP|ST, SC, FC
+cd|Unikanie kolizji przez oczekiwanie przed nadawaniem i potwierdzanie odbioru ramek|Metoda nadawania po uzyskaniu żetonu krążącego między kolejnymi stacjami|Metoda nadawania w przydzielonych na stałe szczelinach czasowych
+utp_name|FTP|STP|S/FTP
+ftp_name|UTP|STP|S/UTP
+stp_name|UTP|FTP|F/UTP
+fiber_signal|Impulsy prądu elektrycznego|Drgania mechaniczne rdzenia|Strumień elektronów w przewodniku
+ip_name|Adres MAC|Adres sprzętowy|Numer seryjny karty
+mac_kind|Logiczny|Domenowy|Transportowy
+bluetooth_standard|IEEE 802.11|IEEE 802.16|IEEE 802.3
+smtp|Protokół pobierania poczty z serwera do klienta|Protokół rozwiązywania nazw domenowych|Protokół udostępniania plików przez sesję FTP
+pop3|Protokół wysyłania poczty między serwerami|Protokół przesyłania stron internetowych|Protokół automatycznej konfiguracji adresów IP
+http|Protokół wysyłania poczty elektronicznej|Protokół automatycznej konfiguracji hostów|Protokół rozwiązywania adresów MAC
+arp_name|Protokół DNS|Protokół DHCP|Protokół ICMP
+arp_en|Address Routing Protocol|Automatic Resolution Protocol|Address Registration Protocol
+segmentation|Łączenie wszystkich urządzeń w jeden niepodzielony segment|Przydzielanie nazw domenowych komputerom w jednej podsieci|Zwiększanie poziomu sygnału bez zmiany podziału sieci
+switch_hub|Switch rozsyła każdą ramkę na wszystkie porty, a hub wybiera port na podstawie MAC|Switch wybiera trasę według IP, a hub filtruje ramki według MAC|Switch przydziela adresy IP, a hub rozwiązuje nazwy domenowe
+bus_name|Gwiazdy|Pierścienia|Siatki
+host_alias|Urządzenia pośredniczącego|Medium transmisyjnego|Protokołu transportowego
+p2p_difference|W P2P działa wydzielony serwer, a klient–serwer nie ma komputerów nadrzędnych|W P2P każdy host tylko odbiera zasoby, a w klient–serwer każdy tylko je udostępnia|P2P korzysta tylko z fal radiowych, a klient–serwer tylko z kabla miedzianego
+mac_parts|Pierwsze 24 bity identyfikują kartę, a pozostałe 24 bity jej producenta|Pierwsze 24 bity oznaczają podsieć IP, a pozostałe 24 bity adres hosta|Pierwsze 24 bity oznaczają port źródłowy, a pozostałe 24 bity port docelowy
+copper_signal|Impulsy świetlne|Fale ultradźwiękowe|Promieniowanie podczerwone
+tcpip_layers|Trzy warstwy: aplikacji, sesji oraz fizyczna|Pięć warstw: aplikacji, prezentacji, sesji, transportowa i sieciowa|Siedem warstw: aplikacji, prezentacji, sesji, transportowa, sieciowa, łącza danych i fizyczna
+tcp|Bezpołączeniowy protokół transportowy wysyłający datagramy bez gwarancji dostarczenia i bez potwierdzania odbioru|Protokół warstwy internetowej wybierający adresy hostów i przenoszący pakiety bez mechanizmu niezawodnego strumienia|Protokół rozwiązywania adresów, który ustala adres MAC na podstawie adresu IPv4 w obrębie lokalnego segmentu
+udp|Połączeniowy protokół transportowy zapewniający potwierdzenia, kolejność danych i ponowne wysyłanie brakujących segmentów|Protokół warstwy internetowej odpowiedzialny za adresowanie hostów oraz wybór trasy pakietów między sieciami|Protokół lokalnego rozwiązywania adresów ustalający adres sprzętowy na podstawie znanego adresu IPv4 odbiorcy
+arp|Przypisuje adres IP do nazwy domenowej z zapytania klienta|Przydziela hostowi wolny adres IP z puli serwera|Zamienia adres prywatny IP na publiczny podczas routingu
+utp_yesno|Tak|Zależnie od użytego złącza|Zależnie od kierunku transmisji
+cat7|100BASE-TX Fast Ethernet|1000BASE-T Gigabit Ethernet|40GBASE-T 40-Gigabit Ethernet
+unix_en|Windows Server, Windows Home, Windows Pro|MS-DOS, FreeDOS, Windows PE|Windows NT, Windows Server, DOS
+p2p_pro|Centralne zarządzanie zasobami przez wydzielony serwer i kontroler domeny|Konieczność zatwierdzania każdego udostępnienia przez komputer nadrzędny|Wymóg instalacji serwerowego systemu operacyjnego na osobnym urządzeniu
+wireless|Ethernet po skrętce, światłowód, kabel koncentryczny|UTP, FTP, STP, S/FTP|ST, SC, LC, FC
+mesh|Każdy węzeł łączy się tylko z dwoma sąsiadami tworzącymi zamknięty pierścień|Każdy węzeł łączy się tylko z jednym wspólnym urządzeniem centralnym|Wszystkie węzły dołącza się do jednego współdzielonego przewodu
+bus_cable|Kabel światłowodowy z zakończeniami SC|Skrętka do centralnego przełącznika|Kabel USB do centralnego koncentratora
+transport|IP i ICMP|ARP i Ethernet|HTTP i FTP
+utp_cheapest|FTP|STP|S/FTP
+bus_en|Ring|Star|Mesh
+ring_en|Bus|Star|Mesh
+star_en|Mesh|Ring|Bus
+devices|Modem, most, router i terminator pamięci RAM|Karta sieciowa, router, switch i kontroler SATA|Most, przełącznik, wzmacniak i kontroler dysku
+windows_not|Windows Server Essentials|Windows Server Standard|Windows Server Datacenter
+man_name|PAN|LAN|WAN
+wifi_standard|IEEE 802.3|IEEE 802.15.1|IEEE 802.16
+wireless_example|Ethernet po skrętce|Światłowód|Kabel koncentryczny
+bus_pro|Odporność na przerwanie wspólnego kabla, prosta lokalizacja awarii, brak kolizji|Oddzielne łącze każdej stacji, centralne zarządzanie, łatwa izolacja uszkodzeń|Nadmiarowe trasy, bezpośrednie połączenia każdej pary stacji, brak wspólnego medium
+media_types|Fizyczne i logiczne|Statyczne i dynamiczne|Publiczne i prywatne
+ftp_utp|Ekran występuje w UTP, natomiast FTP nie ma ekranowania|FTP ma rdzeń szklany, a UTP ma rdzeń miedziany|FTP ma ekran z oplotu, a UTP ma ekran z folii
+fiber_diameters|Jednomodowy 50–62,5 µm, wielomodowy 8–10 µm|Jednomodowy 8–10 mm, wielomodowy 50–62,5 mm|Jednomodowy 125 µm, wielomodowy 8–10 µm
+n_fastest|Najszybszy z podanych to 802.11a|Najszybszy z podanych to 802.11b|Najszybszy z podanych to 802.11g
+wep|Stosowanie kluczy 40 lub 256-bitowych|Stosowanie kluczy 128 lub 256-bitowych|Stosowanie kluczy 64 lub 256-bitowych
+wireless_kind|Miedziane przewodowe|Przewodowe optyczne|Przewodowe koncentryczne
+wimax_standard|Na standardzie IEEE 802.11|Na standardzie IEEE 802.15.1|Na standardzie IEEE 802.3

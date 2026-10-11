@@ -1,0 +1,82 @@
+{
+  "net1-s10-14": [
+    "Adres MAC, numer portu oraz nazwę procesu",
+    "Nazwę domeny, kod producenta oraz adres MAC",
+    "Adres fizyczny, numer VLAN oraz typ złącza"
+  ],
+  "net1-s17-13": [
+    "(Dynamic Host Confinguration Protocal) — protokół rozwiązywania nazw domenowych na adresy IP serwerów.",
+    "(Dynamic Host Confinguration Protocal) — protokół ustalania adresu sprzętowego MAC na podstawie adresu IPv4 w sieci lokalnej.",
+    "(Dynamic Host Confinguration Protocal) — protokół wyboru trasy przesyłania pakietów pomiędzy sieciami."
+  ],
+  "net1-s17-03": [
+    "(Metropolian Area Network) — sieć osobista wokół użytkownika, o zasięgu kilku metrów.",
+    "(Metropolian Area Network) — sieć lokalna ograniczona do jednego domu lub niewielkiego biura.",
+    "(Metropolian Area Network) — sieć rozległa łącząca lokalizacje w wielu krajach i na różnych kontynentach."
+  ],
+  "net1-s11-07": [
+    "Adres IPv4 to 48-bitowy identyfikator sprzętowy karty, zapisywany jako dwanaście cyfr szesnastkowych. Producent zapisuje go w pamięci interfejsu i nie przydziela go serwer DHCP.",
+    "Adres IPv4 to 128-bitowy identyfikator logiczny interfejsu. Zapis składa się z ośmiu grup szesnastkowych oddzielonych dwukropkami i może korzystać ze skróconego zapisu kolejnych grup zer.",
+    "Adres IPv4 to 16-bitowy identyfikator procesu sieciowego. Zapisuje się go liczbą dziesiętną, a system operacyjny używa go do dostarczania danych właściwej aplikacji na komputerze."
+  ],
+  "net1-s11-15": [
+    "To urządzenie, które łączy różne sieci i przekazuje pomiędzy nimi pakiety, wybierając trasę na podstawie docelowego adresu IP.",
+    "Przydziela komputerom adresy IP, maski i bramy z dostępnej puli, przechowując informacje o dzierżawach konfiguracji sieciowej.",
+    "Jest usługą, która przyjmuje zapytania o nazwy domenowe i zwraca odpowiadające im adresy IP zapisane w rekordach strefy."
+  ],
+  "net1-s11-30": [
+    "To komputer końcowy, który uruchamia programy klienckie, wysyła żądania do dostawców usług i korzysta z ich zasobów zamiast samodzielnie udostępniać je innym.",
+    "Urządzenie centralne, które regeneruje odbierany sygnał i przekazuje go na pozostałe porty bez analizy adresu odbiorcy i bez udostępniania usług aplikacyjnych.",
+    "Komputer pełniący funkcję pośrednika między podsieciami, który przekazuje pakiety zgodnie z tablicą routingu, nie oferując usług aplikacyjnych klientom."
+  ],
+  "net1-s18-27": [
+    "W architekturze klient-serwer wszystkie komputery działają równorzędnie, samodzielnie udostępniając zasoby oraz pobierając je od innych, bez wyróżnienia komputerów świadczących usługi.",
+    "W architekturze klient-serwer komputery korzystające z usług są serwerami, a komputery udostępniające im usługi są klientami; nazwy ról zależą wyłącznie od kierunku połączenia.",
+    "W architekturze klient-serwer jeden komputer tylko regeneruje sygnał i powiela go na wszystkie łącza, a pozostałe hosty komunikują się bez korzystania z jakichkolwiek usług aplikacyjnych."
+  ],
+  "net1-s18-40": [
+    "Jest to urządzenie, które wybiera trasę pakietów między sieciami na podstawie adresów IP i zapisów w tablicy routingu.",
+    "Odbiera ramki i filtruje je według adresów MAC, przekazując znany ruch unicast do odpowiedniego portu przełącznika.",
+    "Przydziela hostom parametry sieciowe, w tym adres IP, maskę podsieci i bramę domyślną z określonej puli adresowej."
+  ],
+  "net1-s21-08": [
+    "Z 4 żył (2 par).",
+    "Z 6 żył (3 par).",
+    "Z 12 żył (6 par)."
+  ],
+  "net1-s21-33": [
+    "Repeater (wzmacniak).",
+    "Terminator BNC.",
+    "Trójnik BNC."
+  ],
+  "net1-s22-27": [
+    "Od 3 kHz do 3 MHz",
+    "Od 30 MHz do 300 MHz",
+    "Od 300 THz do 3 PHz"
+  ],
+  "net1-s10-23": [
+    "Osobistym",
+    "Lokalnym",
+    "Międzykontynentalnym"
+  ],
+  "net1-s19-17": [
+    "Wokół użytkownika",
+    "W jednym budynku",
+    "Między kontynentami"
+  ],
+  "net1-s12-20": [
+    "Przesłuch par",
+    "Odbicia prądowe",
+    "Prądy wyrównawcze"
+  ],
+  "net1-s21-29": [
+    "Prąd.",
+    "Ultradźwięki.",
+    "Elektrony."
+  ],
+  "net1-s22-13": [
+    "Skrętka",
+    "Światłowód",
+    "Koncentryk"
+  ]
+}

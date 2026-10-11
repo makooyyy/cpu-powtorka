@@ -1,0 +1,37 @@
+network|Zbiór usług jednego komputera|Zbiór folderów na wspólnym dysku|Zbiór urządzeń ze wspólnym zasilaniem
+host|Urządzenie pośredniczące w regeneracji sygnału|Identyfikator portu aplikacji sieciowej|Protokół wyboru trasy transmisji
+client|Dostawca usług sieciowych|Pośrednik przekazujący pakiety|Serwer przydzielający adresy
+server|Komputer pobierający usługi od innych|Regenerator sygnału w łączu|Urządzenie rozdzielające sygnał
+medium|Zbiór reguł komunikacji|Identyfikator odbiorcy danych|Program zarządzający zasobami
+internet|Prywatna sieć jednej organizacji|Zbiór stron na jednym serwerze|Sieć osobista jednego użytkownika
+intranet|Publiczna sieć globalna|Sieć dla partnerów zewnętrznych|Sieć osobista jednego użytkownika
+extranet|Wewnętrzna sieć tylko dla pracowników|Publiczna sieć bez kontroli dostępu|Sieć osobista jednego użytkownika
+dns|Zamienia adres IP na MAC|Przydziela adres IP z puli|Wybiera trasę pakietów
+dhcp|Rozwiązuje nazwy domenowe|Wybiera trasę między sieciami|Rozwiązuje adresy MAC
+copper_pro|Izolacja galwaniczna|Odporność na pola elektromagnetyczne|Duży zasięg bez regeneracji
+copper_con|Brak możliwości zasilania przez kabel|Konieczność konwersji na sygnał optyczny|Koszt spawania zakończeń
+fiber_pro|Możliwość zasilania przez włókno|Łatwe zakańczanie bez narzędzi|Odporność na ciasne zagięcia
+fiber_con|Podatność na pola elektromagnetyczne|Powstawanie prądów wyrównawczych|Mała przepustowość na długich trasach
+man|Sieć osobista|Sieć lokalna budynku|Sieć rozległa wielu krajów
+wan|Sieć osobista użytkownika|Sieć lokalna budynku|Sieć miejska aglomeracji
+lan|Sieć miejska aglomeracji|Sieć rozległa wielu krajów|Sieć osobista użytkownika
+modem|Przekazuje pakiety między sieciami|Filtruje ramki według MAC|Przydziela hostom adresy IP
+nic|Przydziela adresy innym hostom|Tłumaczy nazwy domenowe|Wybiera trasy między sieciami
+repeater|Filtruje ramki według MAC|Wybiera trasę według IP|Przydziela konfigurację IP
+bridge|Regenerator sygnału w kablu|Serwer przydzielający adresy|Translator nazw domenowych
+router|Urządzenie regenerujące sygnał|Serwer konfiguracji adresów|Koncentrator powielający sygnał
+point|Do wszystkich urządzeń jednocześnie|Po otrzymaniu krążącego żetonu|W stałych przedziałach czasu
+star|Stacje podłączone do wspólnego kabla|Stacje połączone w zamknięty krąg|Każda stacja połączona z każdą inną
+ring|Stacje podłączone do wspólnego kabla|Stacje podłączone do centrum sieci|Każda stacja połączona z każdą inną
+bus|Osobne łącza do centrum sieci|Dwa łącza do sąsiednich stacji|Łącza między każdą parą stacji
+token|Wykrywanie kolizji na wspólnym łączu|Losowe oczekiwanie przed nadawaniem|Nadawanie w stałym przedziale czasu
+apache|Udostępnia bazy danych|Przydziela konfigurację IP|Rozwiązuje nazwy domen
+mysql|Serwer nazw domenowych|Serwer konfiguracji IP|Protokół stron WWW
+fiber|Przewód elektryczny z ekranem|Cztery skręcone pary żył|Metalowy falowód mikrofalowy
+modulation|Odtworzenie danych z sygnału modulowanego|Zmniejszenie rozmiaru przesyłanych danych|Dodanie bitów kontrolnych do wiadomości
+demodulation|Modulowanie nośnej danymi cyfrowymi|Pakietowanie przesyłanych danych|Rozwiązywanie adresu sprzętowego
+address|Zestaw reguł komunikacji|Nośnik przesyłanego sygnału|Parametr szybkości transmisji
+arp|Zamienia nazwę domenową na IP|Przydziela IP z dostępnej puli|Tłumaczy prywatny IP na publiczny
+ftp_protocol|Wysyłanie poczty|Przydzielanie adresów IP|Rozwiązywanie nazw domenowych
+terminator|Regeneruje osłabiony sygnał|Rozdziela sygnał na porty|Filtruje ramki według MAC
+utp_yesno|Tak|Zależnie od złącza|Zależnie od kierunku transmisji

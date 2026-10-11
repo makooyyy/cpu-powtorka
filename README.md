@@ -1,48 +1,43 @@
-# Powtórka — CPU
+# Powtórka — CPU i SIECI
 
-A responsive Polish study app for desktop and mobile. Open `index.html` locally or use the GitHub Pages website linked in this repository.
+Gotowa aplikacja do nauki na komputerze i telefonie. [Otwórz stronę](https://makooyyy.github.io/cpu-powtorka/).
 
-## Use on your phone
+Po kliknięciu **Rozpocznij test** wybierz **CPU** lub **SIECI Część 1**. Szybki test ma 10 pytań, długi 40. Tematy nie mieszają się w jednej sesji. Pytania i cztery odpowiedzi są losowane. Konkretna pozycja źródłowa nie powtarza się w sesji; powtórzenia w materiałach i pytania różnych autorów są zachowane.
 
-Open the website in Safari or Chrome. You can add it to your home screen through the browser menu. There is no account or installation required. Progress is saved on the current device and browser; it does not sync between your phone and computer.
+| Materiał | Pliki | Zapisy źródłowe | Oceniane | Do wyjaśnienia |
+|---|---:|---:|---:|---:|
+| CPU | 26 | 1038 | 904 | 134 |
+| SIECI Część 1 | 23 | 922 | 826 | 96 |
+| Razem | 49 | 1960 | 1730 | 230 |
 
-## Features
+Każde pytanie ma podpis autora z nazwy pliku. **Dziwne pytania** losuje 10 spornych zapisów wybranego tematu, pokazuje odpowiedź autora i wyjaśnienie problemu. Nie wystawia oceny. Niejasnych odpowiedzi nie zastąpiono wymyślonymi kluczami.
 
-- Quick test: 10 random questions; long test: 40.
-- 904 questions with author names from the original filenames. Repeated formulations are retained as separate source records.
-- Four shuffled options per question, one correct answer.
-- Closely related technical distractors revised for 748 questions; original correct answers are unchanged.
-- **Dziwne pytania:** 10 random flashcards from the 134 disputed source records. Reveal the original answer and the editorial explanation, resume later, and review all ten at the end. No accuracy score is assigned to unreliable answers.
-- Resume a test, review mistakes, view scores and history.
-- Search and filter the question bank, mark questions for revision.
-- 134 ambiguous source records are preserved separately and excluded from scoring.
-- Dark responsive interface, keyboard controls, no external runtime dependencies.
+Wyniki obejmują liczbę poprawnych i błędnych odpowiedzi, procent i przegląd pomyłek. „Nowy test” zachowuje temat i rozmiar testu. Baza ma wyszukiwanie, filtr materiału i kategorii oraz oznaczenia do powtórki. Historia i niedokończona sesja zapisują się w tej samej przeglądarce. Nie ma synchronizacji między telefonem a komputerem. Odpowiedzi pokazane w zakończonych testach zachowują swój historyczny tekst mimo aktualizacji bazy.
 
-## Run locally
+## Uruchomienie lokalne
 
-Open `index.html` or double-click `START.cmd` on Windows. Alternatively, with Node.js 18 or later:
+Pobierz repozytorium jako ZIP i rozpakuj. Otwórz `index.html` albo uruchom `START.cmd`. Działa bez instalowania bibliotek i bez Internetu. Opcjonalnie, z Node.js 18+: `npm start` i adres wyświetlony w terminalu. Wszystkie pliki aplikacji muszą pozostać razem.
 
-```
-node server.cjs
-```
+## Baza i kolejne części
 
-Then open http://127.0.0.1:4173.
+- `data/subjects.json` — rejestr materiałów; kolejne części SIECI dodaje się jako osobne pozycje.
+- `data/cpu.json`, `data/sieci-1.json` — oddzielne banki pytań, źródeł i uwag.
+- `data/questions.json`, `data/questions.js` — wygenerowana wspólna baza aplikacji; wersja JS umożliwia otwieranie z dysku bez serwera.
+- `data/sieci-records.json` — wszystkie 922 oryginalne pary pytań i odpowiedzi.
+- `data/sieci-concepts.txt` — jawne przypisanie każdego zapisu do pojęcia lub uwagi.
+- `data/sieci-distractors.txt`, `data/sieci-compact.txt`, `data/sieci-overrides.json` — redagowane odpowiedzi błędne, krótkie warianty i wyjątki.
+- `scripts/build-sieci.cjs` — generuje SIECI; poprawne odpowiedzi pozostawia zgodne ze źródłem, normalizując jedynie białe znaki.
+- `scripts/build-subjects.cjs` — łączy banki z rejestru materiałów.
+- `SIECI-ANALYSIS.md` — raport pokrycia dokumentów, decyzje redakcyjne i materiały weryfikacyjne.
 
-## Question database
+Po zmianie gotowego banku uruchom `node scripts/build-subjects.cjs`. Po zmianie źródeł/redakcji SIECI uruchom `npm run build:data` — przebuduje SIECI, a następnie połączy banki. Ręczne zmiany w `sieci-1.json` zostaną wtedy zastąpione przez generator.
 
-`data/questions.json` contains the questions and original text records with source references. After editing it, run:
+Nowy materiał powinien mieć strukturę `meta`, `questions`, `issues`, `sources` zgodną z istniejącymi bankami, własne niepowtarzalne ID i co najmniej 40 pytań. Dopisz go do `subjects.json` i przebuduj wspólną bazę; wybór tematu jest generowany z rejestru.
 
-```
-node scripts/build-data.cjs
-node --test tests/core.test.cjs
-```
+Surowe DOCX nie są publikowane. Mając oryginalny ZIP, można odtworzyć ekstrakcję: `python scripts/extract-sieci.py "ścieżka/do/archiwum.zip"`, następnie `python scripts/parse-sieci.py`. Stare skrypty ekstrakcji CPU są historycznymi narzędziami importu i nie służą do przebudowy wspólnej bazy.
 
-Keep existing question IDs stable to preserve saved history. The browser copy is `data/questions.js`.
+## Kontrola jakości
 
-Editorial distractors are maintained in `data/distractors-v3.txt` (concept plus three pipe-separated alternatives). Run `node scripts/refine-distractors.cjs` to apply them and rebuild the browser database. New attempts snapshot their answer options so later edits do not alter their review text. Existing attempts retain the previous alternatives; start a new test to see the revised options.
+`npm test` — 18 testów: pokrycie źródeł, autorzy, cztery różne opcje, zgodność kluczy, losowanie, izolacja tematów, wyniki, historia, sporne pytania i kontrola początków dystraktorów.
 
-The 26 supplied study documents yielded 1,038 records. Answers come from those materials; incorrect options were authored separately. Original Office/PDF binaries and development screenshots are not required to run the app and are not included here.
-
-## GitHub Pages
-
-The site is plain static HTML/CSS/JavaScript with relative asset URLs. Publish from `main`, `/ (root)` in repository Settings → Pages. No build step or secrets are required. `.nojekyll` disables Jekyll processing.
+Sprawdzono w przeglądarce testy 10/40, przegląd błędów, odtwarzanie sesji po przeładowaniu i układ telefonu 390 × 844. Aplikacja nie korzysta z zewnętrznych fontów, analityki ani usług sieciowych.
