@@ -40,8 +40,8 @@
     "Przydziela hostom parametry sieciowe, w tym adres IP, maskę podsieci i bramę domyślną z określonej puli adresowej."
   ],
   "net1-s21-08": [
-    "Z 4 żył (2 par).",
-    "Z 6 żył (3 par).",
+    "Z 4 żył (2 pary).",
+    "Z 6 żył (3 pary).",
     "Z 12 żył (6 par)."
   ],
   "net1-s21-33": [
