@@ -1,0 +1,115 @@
+task|Przetwarzanie danych potrzebnych do obliczenia obrazu|Zapisywanie wyników pracy komputera w pamięci obrazu|Przesyłanie poleceń użytkownika do układu graficznego
+types|CRT, LCD, skaner multimedialny|CRT, CCD, projektor multimedialny|CIS, LCD, rzutnik multimedialny
+types_two|Monitor CRT i monitor CCD|Monitor CIS i monitor LCD|Monitor CCD i monitor DLP
+pixel|Najmniejsza jednostka opisu pojedynczego koloru w palecie|Pojedynczy wiersz tworzący obraz wyświetlany na ekranie|Najmniejsza jednostka czasu wyświetlania obrazu
+pixel_name|Subpiksel|Raster|Luminofor
+subpixel|Składnik pojedynczej klatki czasowej|Element odpowiadający za cały wiersz obrazu|Jednostka opisująca odcień w palecie
+crt_main|Matryca ciekłokrystaliczna|Panel plazmowy|Układ mikroluster
+lcd_main|Kineskop|Działo elektronowe|Panel wyładowań gazowych
+crt_name|LCD|OLED|PDP
+crt_def|Ekran oparty na komórkach wypełnionych gazem|Ekran oparty na matrycy ciekłokrystalicznej|Ekran oparty na organicznych diodach
+crt_en|Cathode-Raster Transistor|Crystal-Ray Tube|Cathode-Reflection Transducer
+pdp_en|Pixel Display Processor|Plasma Digital Projector|Phosphor Display Plate
+lcd_en|Liquid Colour Diode|Light Crystal Device|Linear Colour Display
+hdcp_en|High-bandwidth Display Colour Processing|High-definition Digital Channel Protocol|High-bandwidth Dynamic Content Processing
+rgb_en|Red, Gold, Blue|Red, Green, Black|Raster, Gamma, Brightness
+rgb|Czerwony, żółty, niebieski|Cyjan, magenta, żółty|Czerwony, zielony, czarny
+rgb_mix|Można zmieniać jedynie jasność białego światła|Uzyskuje się odcienie przez odejmowanie barw CMY|Tworzy się barwy przez zmianę liczby pikseli
+inches|W centymetrach|W punktach|W milimetrach
+measure|Podając szerokość ekranu|Mierząc wysokość ekranu|Podając obwód ekranu
+resolution|Częstotliwość wyświetlania kolejnych klatek obrazu|Liczba odcieni dostępnych dla każdego piksela|Fizyczna długość przekątnej powierzchni ekranu
+aspect|Stosunek przekątnej ekranu do jego szerokości|Iloczyn liczby pikseli w poziomie i w pionie|Stosunek wysokości ekranu do jego przekątnej
+format|Częstotliwość ekranu|Rozdzielczość ekranu|Przekątna ekranu
+ratio|5:4|16:9|16:10
+tube|Bańka szklana wypełniona mieszaniną gazów szlachetnych|Zespół ciekłych kryształów zamknięty między szklanymi płytami|Układ organicznych diod umieszczony na szklanym podłożu
+vacuum|Mieszaniną neonu i ksenonu|Ciekłym kryształem|Warstwą organicznego półprzewodnika
+tube_shape|Wycinka walca|Płaskiego prostopadłościanu|Wycinka stożka
+crt_beam|Wykorzystuje wyładowania w komórkach wypełnionych gazem, pobudzające luminofor|Obraz powstaje przez modulowanie światła w warstwie ciekłych kryształów|Używa matrycy organicznych diod emitujących światło pod wpływem prądu
+deflect|Poprzez zmianę polaryzacji światła w matrycy|Dzięki sterowaniu jonizacją gazu w komórkach|Poprzez zmianę kąta ustawienia mikroluster
+axes|W osi poziomej i w osi głębokości|W osi pionowej i w osi głębokości|Wzdłuż przekątnej i osi głębokości
+axes_count|1|3|4
+deflect_pro|Możliwość odchylania wiązki bez przepływu prądu w cewkach|Możliwość uzyskania obrazu bez skupiania wiązki elektronów|Możliwość pominięcia synchronizacji poziomej i pionowej
+deflect_con|Duża utrata światła na dwóch filtrach polaryzacyjnych|Mały zakres barw wynikający z braku luminoforu|Długi czas przełączania ciekłych kryształów
+crt_types|Transmisyjne i refleksyjne|Aktywne i pasywne|Emisyjne i ciekłokrystaliczne
+mono|W trzech kolorach podstawowych|W dwóch kolorach podstawowych|W czterech kolorach podstawowych
+color|W jednym kolorze|W dwóch kolorach podstawowych|W czterech kolorach podstawowych
+mono_name|Polichromatyczny|Ciekłokrystaliczny|Plazmowy
+mono_color|Monochromatyczny ma trzy działa elektronowe, a kolorowy jedno działo|Monochromatyczny zmienia polaryzację światła, a kolorowy odchyla wiązkę|Monochromatyczny używa komórek gazowych, a kolorowy matrycy ciekłych kryształów
+mono_guns|Dwa działa elektronowe|Trzy działa elektronowe|Cztery działa elektronowe
+color_guns|Jedno działo elektronowe|Dwa działa elektronowe|Cztery działa elektronowe
+mask|Regulowanie liczby elektronów emitowanych przez katodę|Skupianie wiązki elektronów przed układem odchylania|Wytwarzanie pola magnetycznego odchylającego wiązkę
+mask_form|Układ cewek otaczających szyjkę kineskopu|Warstwa luminoforu naniesiona na szkło|Przezroczysta płytka z filtrem polaryzacyjnym
+masks|Delta, Trinitron, Shadow Scan|Delta, Diamond Scan, Croma Clear|Trinitron, Croma Clear, Pixel Grid
+sony|Panasonic|Philips|NEC
+delta|Trzy składowe barwne są ustawione w jednej pionowej kolumnie|Trzy jednobarwne punkty tworzą jeden poziomy pasek na ekranie|Każdy punkt ma współśrodkowe pierścienie dla trzech składowych barwnych
+delta_holes|Maska ma pionowe szczeliny|Maska ma poziome szczeliny|Maska ma sześciokątne otwory
+trinitron_stripes|Maska ma okrągłe otwory|Maska ma poziome paski|Maska ma sześciokątne otwory
+audio_crt|Słuchawkowe i BNC|RCA i VGA|Mini jack i DVI
+audio_lcd|Słuchawkowe, RCA, VGA|Słuchawkowe, BNC, TOSLINK|RCA, DVI, TOSLINK
+video_crt|DVI, VGA, TOSLINK, S-Video, złącze antenowe|DVI, RJ45, Eurozłącze, S-Video, złącze antenowe|DVI, VGA, Eurozłącze, PS/2, złącze antenowe
+video_lcd|DisplayPort, HDMI, DVI, VGA, TOSLINK, S-Video, złącze antenowe|DisplayPort, HDMI, DVI, PS/2, Eurozłącze, S-Video, złącze antenowe|DisplayPort, HDMI, RJ11, VGA, Eurozłącze, S-Video, złącze antenowe
+other_crt|PS/2, MIDI|SATA, eSATA|IDE, SCSI
+other_lcd|Thunderbolt, PS/2, MIDI|SATA, USB, IDE|Thunderbolt, eSATA, SCSI
+video_ports|HDMI, DisplayPort, DVI, TOSLINK|HDMI, VGA, DVI, PS/2|DisplayPort, VGA, DVI, RJ11
+video_example|TOSLINK|PS/2|RJ11
+projector|Wyświetla obraz bezpośrednio na własnej matrycy ciekłokrystalicznej|Zapisuje obraz powierzchni na matrycy i przesyła go do komputera|Przenosi obraz na papier za pomocą światłoczułego bębna
+projector_name|Skaner multimedialny|Panel ciekłokrystaliczny|Monitor kineskopowy
+lcd|Warstwa gazu między elektrodami emituje promieniowanie pobudzające luminofor|Organiczny półprzewodnik między elektrodami wytwarza światło każdego subpiksela|Wiązka elektronów odchylana magnetycznie pobudza kolejne punkty luminoforu
+lcd_alias|Panelem plazmowym|Panelem elektroluminescencyjnym|Ekranem kineskopowym
+lcd_name|W monitorze CRT|W monitorze PDP|W monitorze OLED
+lcd_light|LCD korzysta ze światła emitowanego przez luminofor pobudzany wiązką elektronów|LCD ma organiczną warstwę świecącą w każdym subpikselu|LCD wykorzystuje wyładowania gazowe jako źródło światła każdego piksela
+liquid|Gaz szlachetny|Luminofor|Organiczny półprzewodnik
+liquid_action|Emisja światła po uderzeniu wiązki elektronów|Zmiana koloru luminoforu pod wpływem napięcia|Wytwarzanie promieniowania ultrafioletowego po jonizacji
+lcd_led_difference|Różnica polega na zastąpieniu ciekłych kryształów luminoforem|Różnica dotyczy zastosowania organicznych diod zamiast matrycy LCD|Różnica polega na sterowaniu wiązką elektronów zamiast polaryzacją światła
+led_semiconductor|Izolatorem|Nadprzewodnikiem|Elementem piezoelektrycznym
+led_diodes|Wykorzystuje lampy wyładowcze|Wykorzystuje działa elektronowe|Wykorzystuje mikrolustra
+white_led|Czerwone|Podczerwone|Ultrafioletowe
+white_backlight|Wykorzystuje się linijkę podczerwonych diod LED|Źródłem światła jest zestaw lamp wyładowczych CCFL|Podświetlenie tworzy warstwa organicznych diod OLED
+rgb_backlight|Jako źródło światła stosuje się linijkę białych diod LED|Podświetlenie tworzą białe lampy fluorescencyjne CCFL|Światło powstaje w warstwie organicznych diod OLED
+dead|Piksel chwilowo przyciemniony przez regulację jasności podświetlenia|Punkt obrazu przesunięty przez niewłaściwe ustawienie geometrii|Piksel zmieniający odcień wskutek zbyt wolnego czasu reakcji
+dead_lcd|Punkt okresowo zmieniający jasność wraz z odświeżaniem|Punkt przesuwający się po ekranie wraz z obrazem|Punkt o poprawnej jasności, lecz przesunięty o jeden wiersz
+dead_types|Jasny piksel, czarny piksel, uszkodzony wiersz|Jasny piksel, rozmyty piksel, subpiksel|Przesunięty piksel, czarny piksel, subpiksel
+bright_dead|Jeden piksel jest stale wygaszony|Jeden piksel okresowo zmienia kolor|Jeden piksel jest przesunięty względem obrazu
+dark_dead|Jeden piksel jest stale zapalony|Jeden piksel okresowo miga|Jeden piksel wyświetla przesunięty fragment obrazu
+dead_difference|Jasny piksel stale gaśnie, a czarny stale świeci|Jasny piksel miga, a czarny zmienia położenie|Jasny piksel odświeża się wolniej, a czarny szybciej
+defective_subpixel|Nie, za wadę uznaje się dopiero uszkodzenie wszystkich składowych piksela|Tak, ale wada subpiksela objawia się przesunięciem punktu na ekranie|Tak, ale uszkodzony subpiksel zawsze zmienia kolor przy każdej klatce
+finishes|Polaryzacyjny i emisyjny|Przezroczysty i nieprzezroczysty|Aktywny i pasywny
+iso|Określa minimalną jasność i kontrast dla każdej klasy monitora|Określa wymagany czas reakcji pikseli przy różnych temperaturach|Określa dopuszczalne zniekształcenia geometryczne na krawędziach ekranu
+plasma|Zjawisko polaryzacji światła|Zjawisko emisji polowej elektronów|Zjawisko elektroluminescencji organicznej
+plasma_cells|Ciekłe kryształy w trzech komorach regulują przepływ białego światła przez filtry RGB|Organiczne półprzewodniki w trzech warstwach świecą po doprowadzeniu prądu|Trzy działa elektronowe kierują wiązki na luminofor za metalową maską
+pdp_def|PDP to wyświetlacz ciekłokrystaliczny, wykorzystujący zmianę polaryzacji światła|PDP to wyświetlacz organiczny, wykorzystujący elektroluminescencję diod|PDP to wyświetlacz kineskopowy, wykorzystujący wiązkę elektronów
+pdp_name|Wyświetlacz ciekłokrystaliczny|Wyświetlacz elektroluminescencyjny|Wyświetlacz projekcyjny
+plasma_action|Monitor plazmowy działa jak matryca ciekłych kryształów, które modulują zewnętrzne podświetlenie dla każdego subpiksela|Monitor plazmowy wykorzystuje warstwę organicznych diod, które emitują światło po doprowadzeniu prądu do elektrod|Monitor plazmowy tworzy obraz przez odchylanie wiązki elektronów, która pobudza kolejne punkty luminoforu na ekranie
+oled_def|Nieorganiczna dioda elektroluminescencyjna|Organiczna dioda fotodetekcyjna|Organiczny tranzystor polowy
+oled_kind|Fotodetekcyjna|Prostownicza|Pojemnościowa
+oled_layers|Z warstw ciekłego kryształu, filtrów polaryzacyjnych i zewnętrznego podświetlenia|Z komórek gazowych, elektrod wyładowczych oraz powłoki luminoforu|Z katody, cewek odchylających i maski umieszczonej przed luminoforem
+oled_action|Działa dzięki ciekłym kryształom modulującym światło wspólnego podświetlenia|Wykorzystuje komórki gazowe, w których wyładowania pobudzają luminofor|Tworzy obraz przez skanowanie luminoforu wiązką elektronów
+oled_pro|Bardzo niski czas reakcji i całkowita odporność na wypalenie|Głęboka czerń dzięki zamykaniu światła wspólnego podświetlenia|Duża jasność uzyskiwana przez jonizację gazu w pikselach
+oled_con|Duże zniekształcenia geometryczne spowodowane odchylaniem wiązki|Silne smużenie wynikające z wolnej rotacji ciekłych kryształów|Niski kontrast wynikający z ciągłej pracy wspólnego podświetlenia
+contrast|Różnica jasności najjaśniejszego i najciemniejszego punktu|Stosunek jasności średniej do maksymalnej jasności ekranu|Iloczyn jasności najjaśniejszego i najciemniejszego punktu
+contrast_types|Poziomy i pionowy|Liniowy i logarytmiczny|Optyczny i elektryczny
+brightness|Liczba odcieni, które może wyświetlić ekran|Stosunek jasności bieli do jasności czerni|Liczba zmian obrazu wykonywanych w sekundzie
+gamma|Reguluje ostrość konturów przez zmianę geometrii obrazu|Dostosowuje punkt bieli przez zmianę temperatury barwowej|Zmienia częstotliwość wyświetlania kolejnych klatek obrazu
+response|Czas między wysłaniem obrazu przez komputer a rozpoczęciem jego wyświetlania|Czas potrzebny na przesłanie kompletnej klatki przez przewód wideo|Czas, który upływa między kolejnymi odświeżeniami całego ekranu
+refresh|Liczba pikseli wyświetlanych w jednym wierszu obrazu|Liczba zmian jasności piksela podczas przejścia z czerni do bieli|Liczba odcieni dostępnych dla jednej składowej koloru
+hz|W milisekundach|W kandelach na metr kwadratowy|W kelwinach
+kelvin|Kandelach|Hercach|Lumenach
+pivot|Zmiana wysokości ekranu na podstawie|Pochylenie ekranu do przodu i do tyłu|Obrót podstawy monitora w lewo i w prawo
+small_sharp|Obraz jest jaśniejszy bez zmiany szczegółowości|Obraz jest mniej szczegółowy przy tej samej wielkości ekranu|Obraz jest częściej odświeżany bez zmiany szczegółowości
+small_when|Gdy piksel będzie większy|Gdy czas reakcji będzie dłuższy|Gdy odstęp między pikselami będzie większy
+graphics|Liczba kolorów, jasność maksymalna i współczynnik kontrastu|Przekątna ekranu, proporcje obrazu i kąty widzenia|Głębia koloru, czas reakcji i temperatura barwowa
+graphics_example|1024 to liczba wierszy, 768 to liczba punktów w wierszu, 75 to odświeżanie w Hz|1024 to punkty w linii, 768 to liczba wierszy, 75 to głębia koloru w bitach|1024 to liczba kolorów, 768 to liczba punktów w linii, 75 to odświeżanie w Hz
+hdcp|Kalibracja odwzorowania kolorów i kontrola zgodności z profilem monitora|Synchronizacja częstotliwości odświeżania monitora z generowaniem klatek|Kompresja cyfrowego sygnału wideo przed przesłaniem go przez kabel
+distortions|Rozmycie ruchu, opóźnienie wejściowe i utrata klatek|Wypalone subpiksele, nierówne podświetlenie i wyciek światła|Przesunięcie punktu bieli, ograniczenie gamutu i banding
+corrections|Jasność, kontrast, nasycenie i temperatura barwowa|Czas reakcji, odświeżanie, synchronizacja i opóźnienie|Głębia koloru, gamut, balans bieli i zakres dynamiki
+phosphor|Przepuszcza światło pod wpływem zmiany napięcia na ciekłych kryształach|Wytwarza pole magnetyczne odchylające wiązkę elektronów|Odbija światło diod umieszczonych przy krawędzi ekranu
+electron_gun|Do odchylania wiązki elektronowej w pionie|Do kierowania elektronów przez otwory maski|Do zamiany energii elektronów w światło
+flicker|Efekt rozmycia poruszających się obiektów|Efekt zmiany proporcji wyświetlanego obrazu|Efekt utraty rozdzielczości w pionie
+multiplex|Sterowanie każdym pikselem przez osobne działo elektronowe|Zmiana barwy piksela przez mechaniczne przesuwanie filtrów|Regulacja odświeżania przez obracanie matrycy mikroluster
+size|O rozdzielczości|O proporcjach|O gęstości pikseli
+shape|O powierzchni ekranu|O rozdzielczości ekranu|O jasności ekranu
+diagonal|Odległość między dwoma sąsiednimi rogami ekranu|Suma szerokości i wysokości powierzchni ekranu|Połowa obwodu aktywnej powierzchni ekranu
+viewing_angle|Kąt obrotu ekranu między pozycją poziomą a pionową|Kąt nachylenia podstawy względem płaszczyzny biurka|Kąt odchylenia wiązki elektronowej wewnątrz kineskopu
+output|Wejścia|Przetwarzania|Przechowywania
+monitor_def|Urządzenie przechwytujące obraz z otoczenia i przekazujące go komputerowi|Urządzenie przeliczające dane graficzne na obraz przed przesłaniem do ekranu|Urządzenie zapisujące obraz z komputera na trwałym nośniku
+year1958|1956|1960|1962

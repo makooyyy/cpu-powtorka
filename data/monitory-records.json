@@ -1,0 +1,5888 @@
+[
+  {
+    "id": "mon-s00-01",
+    "file": "Alan_Grobelski.docx",
+    "number": 1,
+    "question": "Jakie są zadania monitora?",
+    "answer": "Natychmiastowa wizualizacja wyników pracy komputera",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-02",
+    "file": "Alan_Grobelski.docx",
+    "number": 2,
+    "question": "Jakie są podstawowe typy monitorów?",
+    "answer": "CRT, LCD, Projektor multimedialny, OLED, Plazma",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-03",
+    "file": "Alan_Grobelski.docx",
+    "number": 3,
+    "question": "Co to Piksel",
+    "answer": "To najmniejsza składowa część obrazu",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-04",
+    "file": "Alan_Grobelski.docx",
+    "number": 4,
+    "question": "Co daje mniejszy Piksel",
+    "answer": "Obraz jest bardziej dokładny ostry i kontrastowy obraz.",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-05",
+    "file": "Alan_Grobelski.docx",
+    "number": 5,
+    "question": "Co to subpiskel",
+    "answer": "To 3 kolory występujące w pikselu R (Red) G (Green) B (Blue)",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-06",
+    "file": "Alan_Grobelski.docx",
+    "number": 6,
+    "question": "Co daje połączenie RGB",
+    "answer": "Można wyświetlić wszystkie możliwe kolory na monitorze",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-07",
+    "file": "Alan_Grobelski.docx",
+    "number": 7,
+    "question": "W czym mierzymy przekątną ekranu?",
+    "answer": "W calach",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-08",
+    "file": "Alan_Grobelski.docx",
+    "number": 8,
+    "question": "Czym jest rozdzielczość monitora",
+    "answer": "Maksymalna ilość jaką może wyświetlić dany monitor. Ilość pikseli w poziomie na ilość pikseli w pionie",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-09",
+    "file": "Alan_Grobelski.docx",
+    "number": 9,
+    "question": "Co to jest proporcja ekranu",
+    "answer": "Stosunek ilości pikseli w poziomie do ilości pikseli w pionie, zaokrąglony do liczb całkowitych",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-10",
+    "file": "Alan_Grobelski.docx",
+    "number": 10,
+    "question": "Kto wymyślił monitor CRT",
+    "answer": "William Crookes",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-11",
+    "file": "Alan_Grobelski.docx",
+    "number": 11,
+    "question": "Co używa się do wyświetlenia obrazu w monitorze CRT",
+    "answer": "Używa się wiązki elektronów wystrzeliwanej z działa elektronowego",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-12",
+    "file": "Alan_Grobelski.docx",
+    "number": 12,
+    "question": "Co to jest Kineskop",
+    "answer": "Kineskopy to bańki szklane „wypełnione” próżnią.",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-13",
+    "file": "Alan_Grobelski.docx",
+    "number": 13,
+    "question": "Jak kineskop uzyskuje obraz",
+    "answer": "Poprzez magnetyczne odchylanie elektronów",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-14",
+    "file": "Alan_Grobelski.docx",
+    "number": 14,
+    "question": "W ilu kierunkach kineskop odchyla wiązke",
+    "answer": "2",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-15",
+    "file": "Alan_Grobelski.docx",
+    "number": 15,
+    "question": "Na jakie rodzaje dzielą się kinekopy",
+    "answer": "Monochromatyczne i Kolorowe",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-16",
+    "file": "Alan_Grobelski.docx",
+    "number": 16,
+    "question": "Jakie zadanie ma Maska ekranu",
+    "answer": "Nakierowuje elektrony na odpowiednie pola ekranu",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-17",
+    "file": "Alan_Grobelski.docx",
+    "number": 17,
+    "question": "Jaką ma postać maska ekranu",
+    "answer": "Ma postać metalowej siatki z otworami",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-18",
+    "file": "Alan_Grobelski.docx",
+    "number": 18,
+    "question": "Rodzaje siatek kineskopowych",
+    "answer": "Delta Trinitron Croma clear",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-19",
+    "file": "Alan_Grobelski.docx",
+    "number": 19,
+    "question": "Złącza audio w monitorach CRT",
+    "answer": "Słuchawkowe (Mini jack) i RCA (Chinch)",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-20",
+    "file": "Alan_Grobelski.docx",
+    "number": 20,
+    "question": "Co może być powodem obróconego obrazu w monitorze CRT",
+    "answer": "Upadek podczas transportu",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-21",
+    "file": "Alan_Grobelski.docx",
+    "number": 21,
+    "question": "Jak działa wyświetlaczaLCD",
+    "answer": "Każdy piksel obrazu to warstewka ciekłego kryształu umieszczona pomiędzy dwoma filtrami polaryzacyjnymi o prostopadłych płaszczyznach polaryzacji",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-22",
+    "file": "Alan_Grobelski.docx",
+    "number": 22,
+    "question": "Co to jest martwy piksel",
+    "answer": "Piksel wypalony lub z uszkodzonym sterownikiem. W przypadku monitorów LCD jest to punkt zawsze zgaszony albo zapalony.",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-23",
+    "file": "Alan_Grobelski.docx",
+    "number": 23,
+    "question": "Typy martwych pikseli:",
+    "answer": "Jasny piksel\nCzarny piksel\nsubpiksel",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-24",
+    "file": "Alan_Grobelski.docx",
+    "number": 24,
+    "question": "Jakie jest najlepsze Złącze Wideo w monitorze LCD",
+    "answer": "DisplayPort",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-25",
+    "file": "Alan_Grobelski.docx",
+    "number": 25,
+    "question": "Jakie zjawisko wykorzystuje wyświetlacz Plazowy",
+    "answer": "Jonizacji gazu",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-26",
+    "file": "Alan_Grobelski.docx",
+    "number": 26,
+    "question": "Jak działa wyświetlacz LED",
+    "answer": "Każdy piksel obrazu to warstewka ciekłego kryształu umieszczona pomiędzy dwoma filtrami polaryzacyjnymi o prostopadłych płaszczyznach polaryzacji.",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-27",
+    "file": "Alan_Grobelski.docx",
+    "number": 27,
+    "question": "Jak działa wyświetlacza LED RGB",
+    "answer": "Jako źródło światła wykorzystuje się linijkę trójkolorowych diod LED",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-28",
+    "file": "Alan_Grobelski.docx",
+    "number": 28,
+    "question": "Jak zbudowana jest dioda OLED",
+    "answer": "Zbudowane z organicznych substancji chemicznych czyli polimerów",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s00-29",
+    "file": "Alan_Grobelski.docx",
+    "number": 29,
+    "question": "Czym jest dioda OLED",
+    "answer": "elektroluminescencyjna",
+    "author": "Alan Grobelski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-01",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 1,
+    "question": "Jakie są podstawowe typy monitorów",
+    "answer": "Monitor CRT, monitor LCD, rzutnik multimedialny",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-02",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 2,
+    "question": "Jaki jest główny element monitora CRT",
+    "answer": "Kineskop",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-03",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 3,
+    "question": "Jaki jest główny element monitora LCD",
+    "answer": "Matryca LCD",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-04",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 4,
+    "question": "Jak działa rzutnik multimedialny",
+    "answer": "Wyświetla obraz na ścianie lub na innej powierzchni",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-05",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 5,
+    "question": "Czym jest piksel",
+    "answer": "Jest to najmniejsza część składowa cząstki obrazu wyświetlanego na ekranie",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-06",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 6,
+    "question": "Jakie kolory mają subpiksele",
+    "answer": "Czerwony, zielony, niebieski",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-07",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 7,
+    "question": "W czym wyraża się wymiar monitora",
+    "answer": "W calach",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-08",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 8,
+    "question": "Ile subpikseli ma piksel",
+    "answer": "Trzy",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-09",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 9,
+    "question": "Jakie jest rozwinięcie skrótu dla CRT",
+    "answer": "Cathode-Ray Tube",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-10",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 10,
+    "question": "Czym są kineskopy",
+    "answer": "Są to bańki szklane wypełnione próżnią",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-11",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 11,
+    "question": "Jakie złącza audio mają monitory CRT",
+    "answer": "Słuchawkowe i RCA",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-12",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 12,
+    "question": "Jakie złącza wideo mają monitory CRT",
+    "answer": "DVI, VGA, Eurozłącze, S-Video, Złącze antenowe",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-13",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 13,
+    "question": "Jakie złącza inne mają monitory CRT",
+    "answer": "USB, Firewire",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-14",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 14,
+    "question": "Czym jest martwy piksel",
+    "answer": "Jest to wypalony piksel albo z uszkodzonym sterowaniem",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-15",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 15,
+    "question": "Jakie złącza audio mają monitory LCD",
+    "answer": "Słuchwkowe, RCA, TOSLINK",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-16",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 16,
+    "question": "Jakie złącza wideo mają monitory LCD",
+    "answer": "DisplayPort, HDMI, DVI, VGA, Eurozłącze, S-Video, Złącze antenowe",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-17",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 17,
+    "question": "Jakie złącza inne mają monitory LCD",
+    "answer": "Thunderbolt, USB, Firewire",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-18",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 18,
+    "question": "Jakie zadanie ma monitor",
+    "answer": "Natychmiastowa wizualizacja wyników pracy komputera",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-19",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 19,
+    "question": "Czym jest rozdzielczość monitora",
+    "answer": "Maksymalna ilość pikseli jaką może wyświetlić dany monitor",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-20",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 20,
+    "question": "Jakie zadanie ma maska ekranu",
+    "answer": "Nakierowanie elektronów na odpowiednie pola ekranu",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-21",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 21,
+    "question": "Czym się wyróżnia jasny piksel",
+    "answer": "Jeden piksel jest stale zapalony",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-22",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 22,
+    "question": "Czym się wyróżnia czarny piksel",
+    "answer": "Jeden piksel który jest stale zgaszony",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-23",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 23,
+    "question": "Jak działa wyświetlacz LED",
+    "answer": "Wykorzystuje diody",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-24",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 24,
+    "question": "Czym jest OLED",
+    "answer": "Jest to ograniczona dioda elektroluminescencyjna",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-25",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 25,
+    "question": "Jakie jest rozwinięcie skrótu PDP",
+    "answer": "Plasma display panel",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-26",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 26,
+    "question": "Jakie są rodzaje siatek kineskopowych",
+    "answer": "Delta, trinitron i croma clear",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-27",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 27,
+    "question": "Jaki najczęściej kształt ma kineskop",
+    "answer": "Kuli",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-28",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 28,
+    "question": "Jaki jest podział kineskopowy",
+    "answer": "Monochromatyczne i kolorowe",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-29",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 29,
+    "question": "Jak wygląda maska ekranu",
+    "answer": "Ma postać metalowej siatki z otworami",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s01-30",
+    "file": "Aleksander_Kozłowski.docx",
+    "number": 30,
+    "question": "Czym jest format ekranu",
+    "answer": "Stosunek ilości pikseli w poziomie do ilości pikseli w pionie, zaokrąglony do liczb całkowitych",
+    "author": "Aleksander Kozłowski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-01",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 1,
+    "question": "Co to jest monitor komputerowy?",
+    "answer": "To ogólna nazwa jednego z urządzenia wejścia/wyjścia do komunikacji operatora z komputerem.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-02",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 2,
+    "question": "Jakie jest zadanie monitora?",
+    "answer": "Natychmiastowa wizualizacja wyników pracy komputera.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-03",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 3,
+    "question": "Wymień 3 podstawowe typy monitorów.",
+    "answer": "CRT, LCD, Rzutnik multimedialny.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-04",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 4,
+    "question": "Co to jest piksel?",
+    "answer": "To najmniejsza składowa cząstki obrazu wyświetlanej na ekranie (punkt na ekranie).",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-05",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 5,
+    "question": "Z ile subpikseli składa się jeden piksel?",
+    "answer": "Składa się z 3 subpikesli (RGB).",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-06",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 6,
+    "question": "Co to jest rozdzielczość monitora?",
+    "answer": "Maksymalna ilość pikseli jaka może wyświetlić dany monitor. Ilość pikseli w poziomie na ilość pikseli w pionie.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-07",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 7,
+    "question": "Co to jest proporcje ekranu?",
+    "answer": "Stosunek ilości pikseli w poziomie do ilości pikseli w pionie, zaokrąglony do liczb całkowitych.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-08",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 8,
+    "question": "Rozwiń akronim CRT",
+    "answer": "Cathode-Ray Tube",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-09",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 9,
+    "question": "Czym jest monitor CRT?",
+    "answer": "Ekran oparty na kineskopie.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-10",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 10,
+    "question": "Co to kineskop?",
+    "answer": "Kineskopy to bańki szklane „wypełnione” próżnią.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-11",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 11,
+    "question": "Jaki kształt ma kineskop?",
+    "answer": "Najczęściej maja kształt wycinka kuli.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-12",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 12,
+    "question": "Jakie są rodzaje siatek kineskopowych?",
+    "answer": "Delta, Trinitron, Croma Clear",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-13",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 13,
+    "question": "W ilu kolorach świeci kineskop monochromatyczny?",
+    "answer": "Świecą w jednym kolorze.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-14",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 14,
+    "question": "Jakie zadanie ma maska ekranu?",
+    "answer": "Ma za zadanie nakierowanie elektronów na odpowiednie pola ekranu.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-15",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 15,
+    "question": "Jakie są najczęstsze wady obrazu monitorów CRT?",
+    "answer": "Zniekształcenia poduszkowe, obrócony obraz, zniekształcenia trapezowe i równoległoboczne.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-16",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 16,
+    "question": "Jak działa monitor LCD?",
+    "answer": "Każdy piksel obrazu to warstewka ciekłego kryształu, umieszczona pomiędzy dwoma filtrami polaryzacyjnymi.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-17",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 17,
+    "question": "Czy monitor LCD ma oddzielne źródło światła białego?",
+    "answer": "Tak.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-18",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 18,
+    "question": "Co to jest martwy piksel?",
+    "answer": "To piksel wypalony lub z uszkodzonym sterowaniem.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-19",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 19,
+    "question": "Rozwiń akronim PDP.",
+    "answer": "Plasma Display Panel",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-20",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 20,
+    "question": "Jak działa wyświetlacz plazmowy?",
+    "answer": "Mieszanina gazów jest zamknięta w trzech komorach. Każda ma luminofor dla innej składowej barwy (czerwona, zielona, niebieska). Razem tworzą jeden piksel.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-21",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 21,
+    "question": "Jak działa wyświetlacz LED?",
+    "answer": "Wyświetlacz wykorzystujący diody LED działa podobnie jak LCD.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-22",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 22,
+    "question": "Jak działa wyświetlacz LED RGB?",
+    "answer": "Jako źródło światła wykorzystuje się linijkę trójkolorowych diod LED.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-23",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 23,
+    "question": "Jakie są typy martwych pikseli?",
+    "answer": "Jasny piksel, czarny piksel, subpiksel.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-24",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 24,
+    "question": "Jakie są typy ekranu LCD?",
+    "answer": "Matowy, błyszczący.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-25",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 25,
+    "question": "Co to jest Pivot?",
+    "answer": "Obrót ekranu do pozycji pionowej.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-26",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 26,
+    "question": "Co to temperatura barw?",
+    "answer": "Sposób postrzegania przez ludzkie oko barw. Pozwala na dostosowanie kolorystyki wyświetlanych obrazów.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-27",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 27,
+    "question": "Co to korekcja gamma?",
+    "answer": "Ułatwia rozróżnianie jaśniejszych i ciemniejszych szczegółów na obrazach wyświetlanych na monitorze.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s02-28",
+    "file": "Artem_Shcherbakov.docx",
+    "number": 28,
+    "question": "Co to kontrast?",
+    "answer": "Stosunek jasności najjaśniejszego punktu do najciemniejszego.",
+    "author": "Artem Shcherbakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-01",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 1,
+    "question": "Wymien 3 podstawowe typy monitorów",
+    "answer": "Monitor crt,monitorLCD,Rzutnik multimedialnmy",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-02",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 2,
+    "question": "W którym roku powstal 1 polski komputer",
+    "answer": "1958",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-03",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 3,
+    "question": "Czym jest piksel",
+    "answer": "to najmniejsza składowa cząstki obrazu\nwyświetlanej na ekranie",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-04",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 4,
+    "question": "Czym mniejszy jest pojedyczy piksel tym obraz jest",
+    "answer": "Dokładniejszy ostrzejszy i bardziej kontrastowy",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-05",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 5,
+    "question": "Jakie kolory maja subpiksele",
+    "answer": "Czerwony ,zielony,niebieski",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-06",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 6,
+    "question": "Z czego sklada się jeden piksel",
+    "answer": "Z trzech subpikseli",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-07",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 7,
+    "question": "Co można uzysakac laczac 3 subpiksele",
+    "answer": "Można uzyskac kazda kombinacje kolorow",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-08",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 8,
+    "question": "Rozmiar monitora mierzymy w",
+    "answer": "Calach",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-09",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 9,
+    "question": "Rozwin skrot CRT po ang",
+    "answer": "Cathode-RAY Tube",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-10",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 10,
+    "question": "Na jakiej zasdadzie działa monitor CRT",
+    "answer": "Do wyświetlania obrazu używa się wiązki\nelektronów wystrzeliwanej z działa elektronowego",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-11",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 11,
+    "question": "Czym sa kineskopy",
+    "answer": "to bańki szklane \"wypełnione\"\npróżnią",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-12",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 12,
+    "question": "Jaki kształt najczesiej ma kineskop",
+    "answer": "Ma kształt wycinka kuli",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-13",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 13,
+    "question": "Przez co kineskop uzyskuje obraz",
+    "answer": "poprzez magnetyczne odchylanie elektronów",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-14",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 14,
+    "question": "Jaki jest podzial kineskpow",
+    "answer": "Monochromatyczne i kolorowe",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-15",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 15,
+    "question": "Jakie zadanie ma maska ekranu",
+    "answer": "ma za zadanie nakierowanie elektronów na\nodpowiednie pola ekranu",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-16",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 16,
+    "question": "Jakie sa rodzaje siatek kineskopowych",
+    "answer": "Delta ,trinitron,Croma Clear",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-17",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 17,
+    "question": "W jakiej firmie została opracowana siatka kineskopowa trinitron",
+    "answer": "W firmie sony",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-18",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 18,
+    "question": "Jakie sa typy ekranow",
+    "answer": "Blyszczacy i matowy",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-19",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 19,
+    "question": "Na jakiej zasadzie działa monitor lcd",
+    "answer": "Każdy piksel obrazu to warstewka ciekłego kryształu,\numieszczona pomiędzy dwoma filtrami polaryzacyjnymi o\nprostopadłych płaszczyznach polaryzacji.",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-20",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 20,
+    "question": "Co to jest martwy piksel",
+    "answer": "Martwy piksel to piksel wypalony lub z uszkodzonym sterowaniem",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-21",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 21,
+    "question": "Co określa norma ISO 13406-2 dotycząca wadliwych pikseli w\nmonitorach LCD?",
+    "answer": "Określa typ i liczbę możliwych do wystąpienia wadliwych pikseli na 1 milion\npikseli.",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-22",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 22,
+    "question": "Na jakiej zasadzie działa wyswietlcz plazmowy",
+    "answer": "wykorzystuje zjawisko jonizacji gazu",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-23",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 23,
+    "question": "Jaka jest roznica miedzyzasad działania monitora lcd a led",
+    "answer": "Roznica jest tylko  w podświetleniu matrycy cieklo krystalicznej",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-24",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 24,
+    "question": "Czym jest dioda led",
+    "answer": "Polprzewodnkiem",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-25",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 25,
+    "question": "Co to jest pivot?",
+    "answer": "funkcja polegająca na możliwości fizycznego obrócenia ekranu o 90 stopni",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-26",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 26,
+    "question": "Jakie sa kształty ekranu kineskopu",
+    "answer": "Kat 90 kat 30",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-27",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 27,
+    "question": "Co to jest temperatura barw",
+    "answer": "sposób postrzegania przez ludzkie oko\nbarw",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-28",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 28,
+    "question": "Co ulatwia korekcja gamma",
+    "answer": "Ułatwia rozróżnianie jaśniejszych i\nciemniejszych szczegółów na obrazach\nwyświetlanych na monitorze",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-29",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 29,
+    "question": "Czym jest kontrast",
+    "answer": "Stosunek jasności najjaśniejszego\npunktu do najciemniejszego",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-30",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 30,
+    "question": "Czym jest czas reakcj",
+    "answer": "Czas przejścia pojedynczego piksela\nmatrycy ze stanu zapalonego (biały) do\nstanu zgaszonego (czarny) i ponownie\ndo stanu zapalonego (biały).\nKilka ms\ndo stanu zapalonego (biały)",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s03-31",
+    "file": "Bartekswoboda_monitory.docx",
+    "number": 31,
+    "question": "Czym jest tryb graficzny",
+    "answer": "Liczba punktów w linii, liczbę linii na\nekranie i częstotliwość odświeżania\nobrazu,",
+    "author": "Bartek Swoboda",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-01",
+    "file": "bartosz_ogień.docx",
+    "number": 1,
+    "question": "Jakie jest zadanie monitora?",
+    "answer": "Natychmiastowa wizualizacja wyników pracy komputera",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-02",
+    "file": "bartosz_ogień.docx",
+    "number": 2,
+    "question": "Jakie są 3 podstawowe typy monitorów?",
+    "answer": "CRT, LCD, Rzutnik multimedialny",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-03",
+    "file": "bartosz_ogień.docx",
+    "number": 3,
+    "question": "Podaj główny element monitora CRT",
+    "answer": "Kineskop",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-04",
+    "file": "bartosz_ogień.docx",
+    "number": 4,
+    "question": "Podaj główny element monitora LCD",
+    "answer": "Matryca",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-05",
+    "file": "bartosz_ogień.docx",
+    "number": 5,
+    "question": "Czym jest piksel?",
+    "answer": "Piksel to najmniejsza składowa cząstki obrazu wyświetlanej na ekranie",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-06",
+    "file": "bartosz_ogień.docx",
+    "number": 6,
+    "question": "Z ilu subpikseli składa się piksel?",
+    "answer": "Z trzech",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-07",
+    "file": "bartosz_ogień.docx",
+    "number": 7,
+    "question": "Jak mierzy się rozmiar monitora?",
+    "answer": "Mierzy się poprzez przekątną ekranu",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-08",
+    "file": "bartosz_ogień.docx",
+    "number": 8,
+    "question": "W jakich jednostkach podaje się rozmiar monitora?",
+    "answer": "W calach",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-09",
+    "file": "bartosz_ogień.docx",
+    "number": 9,
+    "question": "Rozwiń akronim CRT",
+    "answer": "Cathode-Ray Tube",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-10",
+    "file": "bartosz_ogień.docx",
+    "number": 10,
+    "question": "Czego używa się do wyświetlenia obrazu w monitorze CRT?",
+    "answer": "Używa się wiązki elektronów wystrzeliwanej z działa elektronowego",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-11",
+    "file": "bartosz_ogień.docx",
+    "number": 11,
+    "question": "Na co dzielimy kineskopy?",
+    "answer": "Monochromatyczne oraz kolorowe",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-12",
+    "file": "bartosz_ogień.docx",
+    "number": 12,
+    "question": "Jaka jest różnica pomiędzy kineskopem monochromatycznym a kolorowym?",
+    "answer": "Monochromatyczny świeci w jednym kolorze, a kolorwy świeci w trzech kolorach (RGB)",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-13",
+    "file": "bartosz_ogień.docx",
+    "number": 13,
+    "question": "Jakie zadanie ma Maska ekranu?",
+    "answer": "Ma za zadanie nakierowanie elektronów na odpowiednie pola ekranu",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-14",
+    "file": "bartosz_ogień.docx",
+    "number": 14,
+    "question": "Kto wymyślił siatkę Trinitron?",
+    "answer": "Sony",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-15",
+    "file": "bartosz_ogień.docx",
+    "number": 15,
+    "question": "Czym jest rozdzielczość ekranu?",
+    "answer": "To ilość pikseli w pionie i poziomie",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-16",
+    "file": "bartosz_ogień.docx",
+    "number": 16,
+    "question": "Jakimi złączami audio można podłączyć monitor CRT?",
+    "answer": "Złączem słuchawkowym oraz RCA",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-17",
+    "file": "bartosz_ogień.docx",
+    "number": 17,
+    "question": "Jak działa wyświetlacz LCD?",
+    "answer": "Kazdy piksel obrazu to warstewka ciekłego kryształu, umieszczona pomiędzy dwoma filtrami polaryzacyjnymi",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-18",
+    "file": "bartosz_ogień.docx",
+    "number": 18,
+    "question": "Czym jest martwy piksel?",
+    "answer": "Martwy piksel to piksel wypalony lub z uszkodzonym sterowaniem. Jest albo zgaszony lub zapalony",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-19",
+    "file": "bartosz_ogień.docx",
+    "number": 19,
+    "question": "Podaj przykładowe złącze wideo, które można podłączyć do monitora LCD",
+    "answer": "DisplayPort",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-20",
+    "file": "bartosz_ogień.docx",
+    "number": 20,
+    "question": "Czym jest PDP?",
+    "answer": "PDP to wyświetlacz plazmowy, wykorzystujący zjawisko jonizacji gazu.",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-21",
+    "file": "bartosz_ogień.docx",
+    "number": 21,
+    "question": "Rozwiń akronim PDP",
+    "answer": "Plasma Display Panel",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-22",
+    "file": "bartosz_ogień.docx",
+    "number": 22,
+    "question": "Jakie źródło światła wykorzystuje się w wyświetlaczach LED?",
+    "answer": "Wykorzystuje się linijkę białych diod LED.",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-23",
+    "file": "bartosz_ogień.docx",
+    "number": 23,
+    "question": "Czym jest OLED?",
+    "answer": "OLED to organiczna dioda elektroluminescencyjna.",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-24",
+    "file": "bartosz_ogień.docx",
+    "number": 24,
+    "question": "Z czego zbudowane są diody OLED?",
+    "answer": "Są zbudowane z organicznych substancji chemicznych czyli polimerów",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-25",
+    "file": "bartosz_ogień.docx",
+    "number": 25,
+    "question": "Wymień 3 rodzaje siatek kineskopowych",
+    "answer": "DELTA, TRINITRON, CROMA CLEAR",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-26",
+    "file": "bartosz_ogień.docx",
+    "number": 26,
+    "question": "Jak działa trinitron?",
+    "answer": "Optymalizuje wewnętrzną krzywiznę ekranu i pozwala uzyskać prawie płaską powierzchnię zewnętrzną",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-27",
+    "file": "bartosz_ogień.docx",
+    "number": 27,
+    "question": "Czy można podłączyć złącze HDMI do monitora CRT?",
+    "answer": "Nie można",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-28",
+    "file": "bartosz_ogień.docx",
+    "number": 28,
+    "question": "Wymień rodzaje martwych pikseli",
+    "answer": "Jasny piksel, czarny piksel, subpiksel",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-29",
+    "file": "bartosz_ogień.docx",
+    "number": 29,
+    "question": "Czym się różni jasny piksel od czarnego piksela?",
+    "answer": "Jasny piksel pozostaje stale zapalony, a czarny pozostaje stale zgaszony",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s04-30",
+    "file": "bartosz_ogień.docx",
+    "number": 30,
+    "question": "W jakich jednostkach wyraża się częstotliwość odświeżania?",
+    "answer": "W hercach",
+    "author": "Bartosz Ogień",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-01",
+    "file": "Dima_Shlapakov.docx",
+    "number": 1,
+    "question": "Czym jest monitor?",
+    "answer": "To ogólna nazwa jednego z urządzenia wejścia/wyjścia do bezpośredniej komunikacji operatora z komputerem",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-02",
+    "file": "Dima_Shlapakov.docx",
+    "number": 2,
+    "question": "Jakie jest zadania monitora?",
+    "answer": "Natychmiastowa wizualizacja wyników pracy komputera",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-03",
+    "file": "Dima_Shlapakov.docx",
+    "number": 3,
+    "question": "Jaki jest główny element w monitorach CRT?",
+    "answer": "Kineskop",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-04",
+    "file": "Dima_Shlapakov.docx",
+    "number": 4,
+    "question": "Jaki jest główny element w monitorach LCD?",
+    "answer": "Matryca LCD",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-05",
+    "file": "Dima_Shlapakov.docx",
+    "number": 5,
+    "question": "Czym jest piksel?",
+    "answer": "To najmniejsza składowa cząstki obrazu\nwyświetlanej na ekranie (punkt na ekranie)",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-06",
+    "file": "Dima_Shlapakov.docx",
+    "number": 6,
+    "question": "Z czego jest złożony piksel?",
+    "answer": "Jest on złożony z 3 Subpikseli",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-07",
+    "file": "Dima_Shlapakov.docx",
+    "number": 7,
+    "question": "Jakie podstawowe kolory są wyróżnione w standardzie RGB?",
+    "answer": "Czerwony, zielony i niebieski",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-08",
+    "file": "Dima_Shlapakov.docx",
+    "number": 8,
+    "question": "Jak jest mierzony rozmiar monitora?",
+    "answer": "Podając przekątną ekranu (w calach)",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-09",
+    "file": "Dima_Shlapakov.docx",
+    "number": 9,
+    "question": "Jak jest mierzona rozdzielczość ekranu w pikselach?",
+    "answer": "ilość pikseli w poziomie na ilość pikseli w pionie",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-10",
+    "file": "Dima_Shlapakov.docx",
+    "number": 10,
+    "question": "Jak jest mierzony format ekranu?",
+    "answer": "Stosunek ilości pikseli w poziomie do ilości pikseli w pionie, zaokrąglony do liczb całkowitych",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-11",
+    "file": "Dima_Shlapakov.docx",
+    "number": 11,
+    "question": "W przypadku takiej samej przekątnej, która proporcja ma większą powierzchnie 16:9 czy 16:10?",
+    "answer": "Mają taką samom powierzchnie",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-12",
+    "file": "Dima_Shlapakov.docx",
+    "number": 12,
+    "question": "Rozwiń skrót CRT",
+    "answer": "Cathode-Ray Tube",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-13",
+    "file": "Dima_Shlapakov.docx",
+    "number": 13,
+    "question": "Czym mniejszy jest piksel tym:",
+    "answer": "Obraz jest ostrzejszy i ma większą jakość",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-14",
+    "file": "Dima_Shlapakov.docx",
+    "number": 14,
+    "question": "Co jest używane w monitorach CRT do wyświetlania obrazu?",
+    "answer": "Używa się wiązki elektronów wystrzeliwanej z działa elektronowego (najczęściej katoda).",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-15",
+    "file": "Dima_Shlapakov.docx",
+    "number": 15,
+    "question": "Czym są kineskopy?",
+    "answer": "To bańki szklane \"wypełnione\"\npróżnią",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-16",
+    "file": "Dima_Shlapakov.docx",
+    "number": 16,
+    "question": "W jaki sposób kineskop tworzy obraz",
+    "answer": "Obraz uzyskuje poprzez magnetyczne odchylanie elektronów",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-17",
+    "file": "Dima_Shlapakov.docx",
+    "number": 17,
+    "question": "Jakie wyróżniamy trzy rodzaje siatki kineskopowych?",
+    "answer": "Delta, Trinitron, Croma Clear",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-18",
+    "file": "Dima_Shlapakov.docx",
+    "number": 18,
+    "question": "Ile kolorów posiada monitor CRT?",
+    "answer": "2^8(256) – 2^24(16,7 mln)",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-19",
+    "file": "Dima_Shlapakov.docx",
+    "number": 19,
+    "question": "Który z monitorów jest większy, o przekątnej 17’’ czy 40 cm?",
+    "answer": "17’’ (cali)",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-20",
+    "file": "Dima_Shlapakov.docx",
+    "number": 20,
+    "question": "Mamy tryb graficzny 1024×768×75, co oznacza każda jego część?",
+    "answer": "1024 punkty w linii, 768 oznaczają wierszy na ekranie, 75 jest ilością posiadającej Hz",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-21",
+    "file": "Dima_Shlapakov.docx",
+    "number": 21,
+    "question": "Czym jest martwy piksel?",
+    "answer": "to piksel wypalony lub z uszkodzonym sterowaniem.",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-22",
+    "file": "Dima_Shlapakov.docx",
+    "number": 22,
+    "question": "Jaką postać ma martwy piksel w monitorach LCD?",
+    "answer": "W przypadku monitorów LCD jest to punkt zawsze zgaszony albo zapalony.",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-23",
+    "file": "Dima_Shlapakov.docx",
+    "number": 23,
+    "question": "Z ilu Subpikseli jest złożony piksel",
+    "answer": "Z trzech: Zielony, Niebieski, Czerwony",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-24",
+    "file": "Dima_Shlapakov.docx",
+    "number": 24,
+    "question": "Co oznacza skrót PDP",
+    "answer": "Plasma Display Panel",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-25",
+    "file": "Dima_Shlapakov.docx",
+    "number": 25,
+    "question": "Jak jest inaczej nazywany wyświetlacz PDP (plasma display panel)?",
+    "answer": "Wyświetlacz plazmowy",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-26",
+    "file": "Dima_Shlapakov.docx",
+    "number": 26,
+    "question": "Co jest używane jako źródło światła w monitorach LED",
+    "answer": "Wykorzystuje się linijkę białych diod LED",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-27",
+    "file": "Dima_Shlapakov.docx",
+    "number": 27,
+    "question": "Czym jest kontrast w komputerze?",
+    "answer": "Stosunek jasności najjaśniejszego punktu do najciemniejszego",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-28",
+    "file": "Dima_Shlapakov.docx",
+    "number": 28,
+    "question": "Jakie są dwa typy kontrastu",
+    "answer": "Statyczny (dla obrazów nieruchomych) i Dynamiczny (dla filmów i animacji)",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-29",
+    "file": "Dima_Shlapakov.docx",
+    "number": 29,
+    "question": "Jakie jest główne zadania Korekcji Gamma",
+    "answer": "Ułatwiania rozróżnianie jaśniejszych i ciemniejszych szczegółów na obrazach\nwyświetlanych na monitorze",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-30",
+    "file": "Dima_Shlapakov.docx",
+    "number": 30,
+    "question": "Czy martwym pikselem morze być subpiksel?",
+    "answer": "Tak, w takim przypadku jest on stale zapalony albo zgaszony",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-31",
+    "file": "Dima_Shlapakov.docx",
+    "number": 31,
+    "question": "Jaka jest funkcja HDCP (High-bandwidth Digital\nContent Protection)",
+    "answer": "Kontrola legalności treści i\nuniemożliwienie nieautoryzowanego\nkopiowania",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-32",
+    "file": "Dima_Shlapakov.docx",
+    "number": 32,
+    "question": "Czy komputery CRT może konkurować z nowoczesnymi LCD?",
+    "answer": "Tak",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-33",
+    "file": "Dima_Shlapakov.docx",
+    "number": 33,
+    "question": "Z czego zbudowane diody w monitorach OLED?",
+    "answer": "Są zbudowane z organicznych substancji chemicznych, czyli polimerów.",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-34",
+    "file": "Dima_Shlapakov.docx",
+    "number": 34,
+    "question": "Czym jest OLED?",
+    "answer": "To organiczna dioda elektroluminescencyjna",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-35",
+    "file": "Dima_Shlapakov.docx",
+    "number": 35,
+    "question": "Co to jest temperatura kolorów?",
+    "answer": "Organiczna dioda elektroluminescencyjna.",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-36",
+    "file": "Dima_Shlapakov.docx",
+    "number": 36,
+    "question": "Czym się różni ekran matowy od błyszczącego",
+    "answer": "Błyszczący ekran odbija światło, a matowy nie",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-37",
+    "file": "Dima_Shlapakov.docx",
+    "number": 37,
+    "question": "Jak tworzy się kineskopowa siatka Delta",
+    "answer": "Jeden kolorowy punkt na ekranie tworzą trzy leżące obok siebie jednobarwne punkty, tworzące trójkąt równoboczny.",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-38",
+    "file": "Dima_Shlapakov.docx",
+    "number": 38,
+    "question": "Co używa monitor LED RGB jako źródło światła?",
+    "answer": "Wykorzystuje się linijkę\ntrójkolorowych diod LED",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-39",
+    "file": "Dima_Shlapakov.docx",
+    "number": 39,
+    "question": "Co to jest jasność monitora?",
+    "answer": "Natężenie światła jakie emituje\nekran",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s05-40",
+    "file": "Dima_Shlapakov.docx",
+    "number": 40,
+    "question": "Jakie są trzy podstawowe typy monitorów?",
+    "answer": "Monitory CRT, monitory  LCD I Rzutnik multimedialny",
+    "author": "Dima Shlapakov",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-01",
+    "file": "Filip_Majewski.docx",
+    "number": 1,
+    "question": "Czym jest monitor",
+    "answer": "Monitor to ogólna nazwa jednego z urządzeń wejścia/wyjścia do komunikacji operatora z komputerem",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-02",
+    "file": "Filip_Majewski.docx",
+    "number": 2,
+    "question": "Jakie jest zadanie monitora",
+    "answer": "Zadanie monitora jest natychmiastowa wizualizacja wyników pracy komputera",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-03",
+    "file": "Filip_Majewski.docx",
+    "number": 3,
+    "question": "Jakie są dwa podstawowe typy monitorów",
+    "answer": "Monitor CRT i Monitor LCD",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-04",
+    "file": "Filip_Majewski.docx",
+    "number": 4,
+    "question": "Czym jest piksel",
+    "answer": "Piksel jest to najmniejsza składowa cząstki obrazu wyświetlanej na monitorze",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-05",
+    "file": "Filip_Majewski.docx",
+    "number": 5,
+    "question": "Jakie są zalety małego piksela",
+    "answer": "Zaletami małego piksela jest bardziej dokładny, ostrzejszy i kontrastowy obraz",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-06",
+    "file": "Filip_Majewski.docx",
+    "number": 6,
+    "question": "Jakie ma trzy główne kolory piksel",
+    "answer": "Zazwyczaj podstawowe kolory piksela to czerwony, zielony oraz niebieski",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-07",
+    "file": "Filip_Majewski.docx",
+    "number": 7,
+    "question": "Czym jest Subpiksel",
+    "answer": "w każdym pikselu znajdują się trzy subpksele pokazując dany kolor",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-08",
+    "file": "Filip_Majewski.docx",
+    "number": 8,
+    "question": "Czym jest RGB",
+    "answer": "RGB jest to podstawowa kolorystka (czerwony, zielony, niebieski) mieszając te kolory w jeden",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-09",
+    "file": "Filip_Majewski.docx",
+    "number": 9,
+    "question": "Jak mierzymy rozmiar monitora",
+    "answer": "monitor mierzymy podając przekątną ekranu",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-10",
+    "file": "Filip_Majewski.docx",
+    "number": 10,
+    "question": "Jaka jest jednostka rozmiaru monitora",
+    "answer": "jednostką monitora jest cal",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-11",
+    "file": "Filip_Majewski.docx",
+    "number": 11,
+    "question": "Kto stworzył monitory CRT",
+    "answer": "William Crookes",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-12",
+    "file": "Filip_Majewski.docx",
+    "number": 12,
+    "question": "Rozwiń skrót CRT",
+    "answer": "CRT ( ang. Cathode-Ray Tube)",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-13",
+    "file": "Filip_Majewski.docx",
+    "number": 13,
+    "question": "Co używa się do wyświetlania obrazu w monitorach CRT",
+    "answer": "W monitorach CRT używa się wiązki elektronów wystrzeliwanej z działa elektronowego",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-14",
+    "file": "Filip_Majewski.docx",
+    "number": 14,
+    "question": "Czym jest kineskop w monitorach CRT",
+    "answer": "Kineskopy są to bańki szklane ( wypełnione próżnią )",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-15",
+    "file": "Filip_Majewski.docx",
+    "number": 15,
+    "question": "Jaki kształt mają kineskopy",
+    "answer": "kineskopy mają zazwyczaj kształt wycinka kulki",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-16",
+    "file": "Filip_Majewski.docx",
+    "number": 16,
+    "question": "Jakie kształty ekranu ma kineskop",
+    "answer": "od 90 stopni do 30 stopni",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-17",
+    "file": "Filip_Majewski.docx",
+    "number": 17,
+    "question": "Jaka jest zaleta odchylania magnetycznego",
+    "answer": "zaletą jest możliwość uzyskania bardzo dużego kąta odchylenia",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-18",
+    "file": "Filip_Majewski.docx",
+    "number": 18,
+    "question": "Jaka jest wada kineskopu",
+    "answer": "wadą jest duża moc pobierana przez cewki w celu odchylenia strumienia",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-19",
+    "file": "Filip_Majewski.docx",
+    "number": 19,
+    "question": "Jaki jest podział kineskopów",
+    "answer": "wyróżniamy podziały dwa na monochromatyczne i kolorowe",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-20",
+    "file": "Filip_Majewski.docx",
+    "number": 20,
+    "question": "W jakich kolorach świeci kineskop monochromatyczny",
+    "answer": "kineskop monochromatyczny świeci w jednym kolorze",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-21",
+    "file": "Filip_Majewski.docx",
+    "number": 21,
+    "question": "W jakich kolorach świeci kineskop kolorowy",
+    "answer": "kineskop kolorowy świeci w trzech podstawowych kolorach ( czerwony niebieski zielony )",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-22",
+    "file": "Filip_Majewski.docx",
+    "number": 22,
+    "question": "Ile dział elektronowych posiada kineskop monochromatyczny",
+    "answer": "kineskop monochromatyczny posiada jedno działo elektronowe",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-23",
+    "file": "Filip_Majewski.docx",
+    "number": 23,
+    "question": "Ile dział elektronowych posiada kineskop kolorowy",
+    "answer": "kineskop kolorowy posiada trzy nie zależne działa elektronowe",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-24",
+    "file": "Filip_Majewski.docx",
+    "number": 24,
+    "question": "Czym jest maska ekranu w monitorach CRT",
+    "answer": "Maska ekranu w monitorach CRT jest siatką",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-25",
+    "file": "Filip_Majewski.docx",
+    "number": 25,
+    "question": "Jakie zadanie ma maska ekranu",
+    "answer": "maska ekranu ma za zadanie nakierowanie elektronów na odpowiednie pola ekranu",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-26",
+    "file": "Filip_Majewski.docx",
+    "number": 26,
+    "question": "Jakie rodzaje siatek kineskopowych wyróżniamy",
+    "answer": "wyróżniamy trzy rodzaje Delta, Trinitron, Croma Clear",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-27",
+    "file": "Filip_Majewski.docx",
+    "number": 27,
+    "question": "Czym jest martwy piksel",
+    "answer": "Martwy piksel to wypalony lub z uszkodzonym sterowaniem",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-28",
+    "file": "Filip_Majewski.docx",
+    "number": 28,
+    "question": "Typy martwego piksela",
+    "answer": "wyróżniamy jasny piksel i czarny piksel",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-29",
+    "file": "Filip_Majewski.docx",
+    "number": 29,
+    "question": "Jasny piksel jak wygląda martwy",
+    "answer": "jeden piksel jest stale zapalony",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s06-30",
+    "file": "Filip_Majewski.docx",
+    "number": 30,
+    "question": "Czarny piksel jak wygląda martwy",
+    "answer": "jeden piksel jest stale zgaszony",
+    "author": "Filip Majewski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-01",
+    "file": "franek_karolak.docx",
+    "number": 1,
+    "question": "Co to monitor?",
+    "answer": "Urządzenie wejścia/wyjścia",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-02",
+    "file": "franek_karolak.docx",
+    "number": 2,
+    "question": "Co jest zadaniem monitora",
+    "answer": "Natychmiastowe wyświetlanie wyników pracy komputera",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-03",
+    "file": "franek_karolak.docx",
+    "number": 3,
+    "question": "Co wyświetla obraz na ścianie",
+    "answer": "Rzutnik multimedialny",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-04",
+    "file": "franek_karolak.docx",
+    "number": 4,
+    "question": "Co to piksel",
+    "answer": "Najmniejsza składowa cząstki obrazu",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-05",
+    "file": "franek_karolak.docx",
+    "number": 5,
+    "question": "Ile mm ma piksel",
+    "answer": "0,1mm do 0,42mm",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-06",
+    "file": "franek_karolak.docx",
+    "number": 6,
+    "question": "Co to subpiksel",
+    "answer": "Składnik piksela",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-07",
+    "file": "franek_karolak.docx",
+    "number": 7,
+    "question": "Jakie są podstawowe kolory piksela",
+    "answer": "Czerwony niebieski zielony",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-08",
+    "file": "franek_karolak.docx",
+    "number": 8,
+    "question": "Jak mierzymy monitor",
+    "answer": "Po przez przekątną",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-09",
+    "file": "franek_karolak.docx",
+    "number": 9,
+    "question": "W czym podajemy przekątną monitora",
+    "answer": "W calach",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-10",
+    "file": "franek_karolak.docx",
+    "number": 10,
+    "question": "Co to rozdzielczość monitora",
+    "answer": "Maksymalna ilość pikseli jaką może  wyświetlić dany monitor",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-11",
+    "file": "franek_karolak.docx",
+    "number": 11,
+    "question": "Co to format ekranu",
+    "answer": "Stosunek ilości pikseli w poziomie do ilości pikseli\nw pionie, zaokrąglony do liczb całkowitych",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-12",
+    "file": "franek_karolak.docx",
+    "number": 12,
+    "question": "Co to monitor crt",
+    "answer": "Ekran oparty na kineskopie",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-13",
+    "file": "franek_karolak.docx",
+    "number": 13,
+    "question": "Co to kineskop",
+    "answer": "Specjalna lampa próżniowa",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-14",
+    "file": "franek_karolak.docx",
+    "number": 14,
+    "question": "Jakie są typy crt",
+    "answer": "Monochromatyczny , kolorowy",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-15",
+    "file": "franek_karolak.docx",
+    "number": 15,
+    "question": "Jakie zadanie ma maska ekranu",
+    "answer": "Ma za zadanie nakierowanie elektronów na odpowiednie pole",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-16",
+    "file": "franek_karolak.docx",
+    "number": 16,
+    "question": "Jak wygląda ułożenie siatki delta",
+    "answer": "Maska ma okrągłe otwory",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-17",
+    "file": "franek_karolak.docx",
+    "number": 17,
+    "question": "Jak wygląda ułożenie siatki trinitron",
+    "answer": "Maska ma Cienkie paski",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-18",
+    "file": "franek_karolak.docx",
+    "number": 18,
+    "question": "Jak wygląda ułożenie siatki croma clear",
+    "answer": "Maska ma kratową siatke",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-19",
+    "file": "franek_karolak.docx",
+    "number": 19,
+    "question": "Co to siatka maskująca",
+    "answer": "ludzkie oko postrzega lekko zaokrąglone powierzchnie jako płaskie",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-20",
+    "file": "franek_karolak.docx",
+    "number": 20,
+    "question": "Co oznacza skróy pdp",
+    "answer": "Plasma display panel",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-21",
+    "file": "franek_karolak.docx",
+    "number": 21,
+    "question": "Co oznacza skrót lcd",
+    "answer": "Liquid crystal display",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-22",
+    "file": "franek_karolak.docx",
+    "number": 22,
+    "question": "Co oznacza skrót crt",
+    "answer": "Cathode-Ray Tube",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-23",
+    "file": "franek_karolak.docx",
+    "number": 23,
+    "question": "Co to martwy piksel",
+    "answer": "Piksel wypalony lub uszkodzony",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-24",
+    "file": "franek_karolak.docx",
+    "number": 24,
+    "question": "Jakie są złącza audio w monitorach lcd",
+    "answer": "Słuchawkowe,RCA,TOSLINK",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-25",
+    "file": "franek_karolak.docx",
+    "number": 25,
+    "question": "Jakie są najpopularniejsze złącza wideo",
+    "answer": "Hdmi,displayport,VGA",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-26",
+    "file": "franek_karolak.docx",
+    "number": 26,
+    "question": "Jaka jest zaleta oled",
+    "answer": "Nieskończony kontrast i idealna czerń",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-27",
+    "file": "franek_karolak.docx",
+    "number": 27,
+    "question": "Co to jest pivot",
+    "answer": "funkcja umożliwiająca fizyczne obrócenie ekranu o 90 stopni",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-28",
+    "file": "franek_karolak.docx",
+    "number": 28,
+    "question": "Z czego składa się piksel",
+    "answer": "Z 3 subpikseli",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-29",
+    "file": "franek_karolak.docx",
+    "number": 29,
+    "question": "W ilu kolorach świeci kineskop monochromatyczny",
+    "answer": "W jednym",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s07-30",
+    "file": "franek_karolak.docx",
+    "number": 30,
+    "question": "W ilu kolorach świeci kineskop kolorowy",
+    "answer": "W 3 kolorach",
+    "author": "Franek Karolak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-01",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 1,
+    "question": "Co to jest Monitor?",
+    "answer": "To ogólna nazwa urządzenia wyjścia/wejścia do bezpośredniej komunikacji z operatora z komputerem.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-02",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 2,
+    "question": "Co jest zadaniem monitora?",
+    "answer": "Natychmiastowa wizualizacja wyników pracy komputera.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-03",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 3,
+    "question": "Co przypomina monitor CRT swoją zasadą działania, jakże i wyglądem?",
+    "answer": "Telewizor.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-04",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 4,
+    "question": "Co jest głównym elementem monitora CRT?",
+    "answer": "Kineskop.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-05",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 5,
+    "question": "Jak inaczej można nazwać monitor LCD?",
+    "answer": "Panelem ciekłokrystalicznym.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-06",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 6,
+    "question": "Co jest głównym elementem monitora LCD?",
+    "answer": "Matryca LCD.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-07",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 7,
+    "question": "Co robi rzutnik multimedialny?",
+    "answer": "Wyświetla obraz na ścianie lub na innej powierzchni służącej za ekran projekcyjny.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-08",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 8,
+    "question": "Co to Piksel?",
+    "answer": "Najmniejsza składowa cząstki obrazu wyświetlanej na ekranie.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-09",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 9,
+    "question": "Kiedy będzie bardziej dokładny obraz?",
+    "answer": "Gdy piksel będzie mniejszy.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-10",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 10,
+    "question": "Z czego składa się piksel?",
+    "answer": "Z 3 subpikseli.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-11",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 11,
+    "question": "Co to standard RGB?",
+    "answer": "To kolor czerwony, zielony i niebieski.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-12",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 12,
+    "question": "Na co pozwalają subpiksele w pikselu?",
+    "answer": "Na uzyskanie wszystkich możliwych kobminacji kolorów.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-13",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 13,
+    "question": "Jak mierzymy rozmiar monitora?",
+    "answer": "Podając przekątną ekranu.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-14",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 14,
+    "question": "Jakie jest rozwinięcie skrótu RGB?",
+    "answer": "Red, Green, Blue.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-15",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 15,
+    "question": "Jakie jest rozwinięcie skrótu CRT?",
+    "answer": "Cathode-Ray Tube.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-16",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 16,
+    "question": "Czego używa się do wyświetlania obrazu w CRT?",
+    "answer": "Wiązki elektronów wystrzeliwanych z działu elektronowego.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-17",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 17,
+    "question": "Co to kineskop?",
+    "answer": "Szklana bańka „wypełniona” próżnią.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-18",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 18,
+    "question": "Jaki kształt najczęściej mają kineskopy?",
+    "answer": "Wycinka Kuli.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-19",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 19,
+    "question": "Jaki jest podział kineskopów?",
+    "answer": "Monochromatyczne i Kolorowe.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-20",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 20,
+    "question": "W ilu kolorach świecą kineskopy monochromatyczne?",
+    "answer": "W jednym kolorze.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-21",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 21,
+    "question": "W ilu kolorach świecą kolorowe kineskopy?",
+    "answer": "W trzech kolorach.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-22",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 22,
+    "question": "Jakie zadanie ma maska ekranu?",
+    "answer": "Nakierowanie elektronów na odpowiednie pola ekranu.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-23",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 23,
+    "question": "Jakie są rodzaje siatek kineskopowych?",
+    "answer": "Delta, Trinitron, Croma Clear.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-24",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 24,
+    "question": "Co to jest martwy piksel?",
+    "answer": "Wypalony piksel, lub z uszkodzonym sterowaniem.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-25",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 25,
+    "question": "Co się dzieje gdy martwy piksel jest typem jasnego piksela?",
+    "answer": "Wtedy jeden piksel jest stale zapalony i nie gaśnie.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-26",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 26,
+    "question": "Co się dzieje gdy martwy piksel jest typem czarnego piksela?",
+    "answer": "Wtedy jeden piksel jest stale zgaszony i nie zapala się.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-27",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 27,
+    "question": "Jakie jest rozwinięcie skrótu PDP?",
+    "answer": "Plasma display panel.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-28",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 28,
+    "question": "Co wykorzystuje wyświetlacz plazmowy?",
+    "answer": "Zjawisko jonizacji gazu.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-29",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 29,
+    "question": "Jakie źródło światła wykorzystuje się w wyświetlaczu LED?",
+    "answer": "Linijkę białych diod LED.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s08-30",
+    "file": "Grzegorz_Cezak_Monitory.docx",
+    "number": 30,
+    "question": "Jakie źródło światła wykorzystuje się w wyświetlaczu LED RGB?",
+    "answer": "Linijkę trójkolorowych diod LED.",
+    "author": "Grzegorz Cezak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-01",
+    "file": "Jakub_Zych.docx",
+    "number": 1,
+    "question": "Co to piksel?",
+    "answer": "Piksel to najmniejsza składowa cząstki obrazu wyświetlanej na ekranie",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-02",
+    "file": "Jakub_Zych.docx",
+    "number": 2,
+    "question": "Z czego składa się piksel?",
+    "answer": "każdy piksel składa się z trzech subpikseli",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-03",
+    "file": "Jakub_Zych.docx",
+    "number": 3,
+    "question": "Co można uzyskać łącząc trzy subpiksele?",
+    "answer": "można uzyskać pełną paletę barw",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-04",
+    "file": "Jakub_Zych.docx",
+    "number": 4,
+    "question": "W czym podajemy przekątną ekranu?",
+    "answer": "w calach",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-05",
+    "file": "Jakub_Zych.docx",
+    "number": 5,
+    "question": "Rozwiń skrót CRT?",
+    "answer": "Cathode-Ray Tube",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-06",
+    "file": "Jakub_Zych.docx",
+    "number": 6,
+    "question": "Czym „wypełnione” są kineskopy",
+    "answer": "próżnią",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-07",
+    "file": "Jakub_Zych.docx",
+    "number": 7,
+    "question": "Jaki kształt mają kineskopy?",
+    "answer": "najczęściej mają kształt wycinka kuli",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-08",
+    "file": "Jakub_Zych.docx",
+    "number": 8,
+    "question": "W ilu kolorach świecą kineskopy monochromatyczne?",
+    "answer": "W jednym kolorze",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-09",
+    "file": "Jakub_Zych.docx",
+    "number": 9,
+    "question": "Do czego służy monitor?",
+    "answer": "służy do wyświetlania obrazu z komputera",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-10",
+    "file": "Jakub_Zych.docx",
+    "number": 10,
+    "question": "Jaki jest główny element monitora CRT?",
+    "answer": "kineskop",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-11",
+    "file": "Jakub_Zych.docx",
+    "number": 11,
+    "question": "Kiedy obraz jest ostrzejszy?",
+    "answer": "Gdy piksel jest mniejszy",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-12",
+    "file": "Jakub_Zych.docx",
+    "number": 12,
+    "question": "Co to kontrast?",
+    "answer": "Jest to stosunek jasności najjaśniejszego punktu do najciemniejszego",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-13",
+    "file": "Jakub_Zych.docx",
+    "number": 13,
+    "question": "Częstotliwość odświeżania matrycy to?",
+    "answer": "Liczba wykonanych przez monitor wyświetleń w czasie jednej sekundy",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-14",
+    "file": "Jakub_Zych.docx",
+    "number": 14,
+    "question": "Czas reakcji w monitorze to?",
+    "answer": "czas przejścia pojedynczego piksela matrycy ze stanu zapalonego do stanu zgaszonego",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-15",
+    "file": "Jakub_Zych.docx",
+    "number": 15,
+    "question": "W jakich monitorach występuje migotanie obrazu?",
+    "answer": "w monitorach CRT",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-16",
+    "file": "Jakub_Zych.docx",
+    "number": 16,
+    "question": "Który monitor pobiera najwięcej prądu?",
+    "answer": "monitor CRT",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-17",
+    "file": "Jakub_Zych.docx",
+    "number": 17,
+    "question": "Ile diod tworzy jeden piksel w monitorach OLED?",
+    "answer": "jedna dioda",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-18",
+    "file": "Jakub_Zych.docx",
+    "number": 18,
+    "question": "W którym monitorze każdy piksel to warstewka ciekłego kryształu?",
+    "answer": "w monitorze LCD",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-19",
+    "file": "Jakub_Zych.docx",
+    "number": 19,
+    "question": "Co to martwy piksel w monitorach OLED?",
+    "answer": "jest to fizycznie wypalony piksel",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-20",
+    "file": "Jakub_Zych.docx",
+    "number": 20,
+    "question": "Jakie są typy ekranu?",
+    "answer": "błyszczący i matowy",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-21",
+    "file": "Jakub_Zych.docx",
+    "number": 21,
+    "question": "Jakie zjawisko wykorzystuje wyświetlacz plazmowy?",
+    "answer": "wykorzystuje zjawisko jonizacji gazu",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-22",
+    "file": "Jakub_Zych.docx",
+    "number": 22,
+    "question": "Jaka jest największa wada monitorów OLED?",
+    "answer": "wypalanie się pikseli",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-23",
+    "file": "Jakub_Zych.docx",
+    "number": 23,
+    "question": "Jakie jest zadanie monitora?",
+    "answer": "Zadaniem monitora jest natychmiastowa wizualizacja wyników pracy komputera",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-24",
+    "file": "Jakub_Zych.docx",
+    "number": 24,
+    "question": "Jakie są podstawowe typy monitrów?",
+    "answer": "CRT, LCD, Rzutnik moltimedialny",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-25",
+    "file": "Jakub_Zych.docx",
+    "number": 25,
+    "question": "Co robi rzutnik multimedialny?",
+    "answer": "Wyświetla obraz na ścianie lub na innej powierzchni, która służy za ekran projekcyjny",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-26",
+    "file": "Jakub_Zych.docx",
+    "number": 26,
+    "question": "Jaką funkcję pełni maska (siatka) w monitorach CRT?",
+    "answer": "Nakierowuje elektrony na odpowiednie pola ekranu",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-27",
+    "file": "Jakub_Zych.docx",
+    "number": 27,
+    "question": "Jakie są rodzaje siatek kineskopowych?",
+    "answer": "delta, trinitron, croma clear",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-28",
+    "file": "Jakub_Zych.docx",
+    "number": 28,
+    "question": "Jaka substancja jest stosowana w monitorach LCD?",
+    "answer": "ciekły kryształ",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-29",
+    "file": "Jakub_Zych.docx",
+    "number": 29,
+    "question": "Jaki jest maksymalny kąt weidzenia w monitorach LCD?",
+    "answer": "150-170°",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s09-30",
+    "file": "Jakub_Zych.docx",
+    "number": 30,
+    "question": "Rozwiń skót PDP",
+    "answer": "plasma display panel",
+    "author": "Jakub Zych",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-01",
+    "file": "jan_babski.docx",
+    "number": 1,
+    "question": "Czym jest monitor?",
+    "answer": "to urządzenie służące do komunikacji operatora z komputerem",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-02",
+    "file": "jan_babski.docx",
+    "number": 2,
+    "question": "Monitor to urządzenie wejścia czy wyjścia?",
+    "answer": "wyjścia",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-03",
+    "file": "jan_babski.docx",
+    "number": 3,
+    "question": "Jakie sa podstawowe typy monitorów?",
+    "answer": "crt,lcd,rzutnik",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-04",
+    "file": "jan_babski.docx",
+    "number": 4,
+    "question": "Jak nazywa się najmniejsza składowa cząstki obrazu?",
+    "answer": "Piksel",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-05",
+    "file": "jan_babski.docx",
+    "number": 5,
+    "question": "Z ilu subpikseli składa się piksel?",
+    "answer": "z 3",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-06",
+    "file": "jan_babski.docx",
+    "number": 6,
+    "question": "Jakie kolory mają subpiksele?",
+    "answer": "czerowny,zielony,niebieski",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-07",
+    "file": "jan_babski.docx",
+    "number": 7,
+    "question": "W jakiej jednostce mierzy się rozmiar monitora?",
+    "answer": "w calach",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-08",
+    "file": "jan_babski.docx",
+    "number": 8,
+    "question": "Rozwiń skrót crt",
+    "answer": "Cathode-Ray Tube",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-09",
+    "file": "jan_babski.docx",
+    "number": 9,
+    "question": "Jakie typy ekranu występują w monitorach CRT?",
+    "answer": "Matowe,błyszczące",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-10",
+    "file": "jan_babski.docx",
+    "number": 10,
+    "question": "Czym jest pivot w monitorach?",
+    "answer": "możliwością obrotu ekranu do pozycji pionowej",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-11",
+    "file": "jan_babski.docx",
+    "number": 11,
+    "question": "Co to oled?",
+    "answer": "organiczna dioda elektroluminescencyjna",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-12",
+    "file": "jan_babski.docx",
+    "number": 12,
+    "question": "Rozwiń skrót pdp?",
+    "answer": "Plasma Display Panel",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-13",
+    "file": "jan_babski.docx",
+    "number": 13,
+    "question": "Jakie zjawisko wykorzystuje wyświetlacz plazmowy?",
+    "answer": "zjawisko jonizacji gazu",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-14",
+    "file": "jan_babski.docx",
+    "number": 14,
+    "question": "Czy w monitorach crt występuje promieniowanie?",
+    "answer": "tak",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-15",
+    "file": "jan_babski.docx",
+    "number": 15,
+    "question": "Czy w monitorach lcd wystepuje promieniowanie?",
+    "answer": "nie",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-16",
+    "file": "jan_babski.docx",
+    "number": 16,
+    "question": "Czy w monitorach lcd wystepuje zniekształcenie w rogach ekranu?",
+    "answer": "nie",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-17",
+    "file": "jan_babski.docx",
+    "number": 17,
+    "question": "Czy w monitorach crt wystepuje zniekształcenie w rogach ekraniu?",
+    "answer": "tak",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-18",
+    "file": "jan_babski.docx",
+    "number": 18,
+    "question": "Który typ monitora ma mniejszy pobór prądu, crt czy lcd?",
+    "answer": "lcd",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-19",
+    "file": "jan_babski.docx",
+    "number": 19,
+    "question": "Ile W pobiera monitor lcd gdy jest wyłączony?",
+    "answer": "0,5W",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-20",
+    "file": "jan_babski.docx",
+    "number": 20,
+    "question": "Ile W pobiera monitor crt gdy jest wyłączony?",
+    "answer": "0,5W",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-21",
+    "file": "jan_babski.docx",
+    "number": 21,
+    "question": "Czym jest martwy piksel?",
+    "answer": "to piksel wypalony lub z uszkodzonym sterowaniem",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-22",
+    "file": "jan_babski.docx",
+    "number": 22,
+    "question": "Jakie sa typy martwych pikseli?",
+    "answer": "jasny,czarny,martwy subpiksel",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-23",
+    "file": "jan_babski.docx",
+    "number": 23,
+    "question": "Jaki jest podzial kineskopów?",
+    "answer": "monochromatyczne i kolorowe",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-24",
+    "file": "jan_babski.docx",
+    "number": 24,
+    "question": "Jakie to kineskopy monochromatyczne?",
+    "answer": "to takie które potrafią swiecić tylko w jednym kolorze",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-25",
+    "file": "jan_babski.docx",
+    "number": 25,
+    "question": "Jakie to kineskopy kolorowe?",
+    "answer": "to takie które świecą jednocześnie w 3 kolorach",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-26",
+    "file": "jan_babski.docx",
+    "number": 26,
+    "question": "Ile dział elektronowych posiada kinseskop monochromatyczny?",
+    "answer": "1",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-27",
+    "file": "jan_babski.docx",
+    "number": 27,
+    "question": "Ile dział elektronowych posiada kineskop kolorowy",
+    "answer": "3, po jednym na każdy kolor",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-28",
+    "file": "jan_babski.docx",
+    "number": 28,
+    "question": "Jakie złącza audio można znaleźć w monitorach lcd?",
+    "answer": "słuchawkowe(jack), chinch(rca), toslink",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-29",
+    "file": "jan_babski.docx",
+    "number": 29,
+    "question": "Jakie złącza audio można znaleźć w monitorach crt?",
+    "answer": "słuchawkowe(jack),chinch(rca)",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s10-30",
+    "file": "jan_babski.docx",
+    "number": 30,
+    "question": "Jakie są zalety ekranów oled?",
+    "answer": "możliwość budowy cienkiego monitora, żywe kolory, prawdziwa czerń",
+    "author": "Jan Babski",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-01",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 1,
+    "question": "Im mniejszy piksel w monitorze",
+    "answer": "Tym bardziej  jest dokładny, ostry i kontrastowy obraz",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-02",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 2,
+    "question": "Co to jest subpiksel",
+    "answer": "Każdy piksel składa się z trzech subpikseli",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-03",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 3,
+    "question": "Jakie kolory ma subpiksel",
+    "answer": "Czerwony, zielony, niebieski",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-04",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 4,
+    "question": "Rozwiń skrót CRT",
+    "answer": "Cathode-Ray Tube",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-05",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 5,
+    "question": "Czym jest monitor CRT",
+    "answer": "Jest ekranem opartym na kineskopie",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-06",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 6,
+    "question": "Czym są wypełnione kineskopy",
+    "answer": "Są wypełnione próżnia",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-07",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 7,
+    "question": "Jak uzyskuje się obraz w kineskopie",
+    "answer": "Poprzez magnetyczne odcylanie elekrtonow",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-08",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 8,
+    "question": "Aby w kineskopie rozświetlić każdy punkt powierzchni ekranu",
+    "answer": "Wiązka musi być odchylana w dwóch kierunkach (pionowym i poziomym)",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-09",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 9,
+    "question": "Jaki jest podział kineskopów",
+    "answer": "Monochromatyczne i kolorowe",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-10",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 10,
+    "question": "Jakie zadanie ma maska ekranu",
+    "answer": "Nakierowanie elektronów na odpowiednie pola ekranu",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-11",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 11,
+    "question": "Co to jest martwy piksel",
+    "answer": "To piksel wypalony lub z uszkodzonym sterowaniem",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-12",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 12,
+    "question": "Jak działa wyświetlacz plazmowy",
+    "answer": "Wykorzystuje zjawisko jonizacji gazu",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-13",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 13,
+    "question": "Jak odbywa się sterowanie pikselami w wyświetlaczu plazmowym",
+    "answer": "Sterowanie pikselami odbywa się multipleksowo",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-14",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 14,
+    "question": "Jakie jest zadanie monitora komputerowego",
+    "answer": "Jest natychmiastowa wizualizacja wyników pracy komputera",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-15",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 15,
+    "question": "Podstawowe typy monitorów",
+    "answer": "Monitor CRT, Monitor LCD, Rzutnik multimedialny",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-16",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 16,
+    "question": "Co to jest Piksel",
+    "answer": "Piksel to najmniejsza składowa cząsteczki obrazu wyświetlanej na ekranie",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-17",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 17,
+    "question": "Jak mierzymy rozmiar monitora",
+    "answer": "Podając przekątna ekranu w calach",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-18",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 18,
+    "question": "Czego używa się do wyświetlania obrazu w monitorach CRT",
+    "answer": "Wiązki elektronów wystrzeliwanej z działa elektronowego",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-19",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 19,
+    "question": "W ilu kolorach świeci kineskop monochromatyczny",
+    "answer": "W jednym kolorze",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-20",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 20,
+    "question": "W ilu i w jakich kolorach świeci kineskop kolorowy",
+    "answer": "Świeca jednocześnie w trzech kolorach czerwonym, zielonym, niebieskim",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-21",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 21,
+    "question": "Co to jest jasność monitora",
+    "answer": "Natężenie światła jakie emituje ekran",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-22",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 22,
+    "question": "Co to jest kontrast",
+    "answer": "Stosunek jasności najjaśniejszego punktu do najciemniejszego",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-23",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 23,
+    "question": "Co to jest korekcja gamma",
+    "answer": "Ułatwia rozróżnianie jaśniejszych i ciemniejszych szczegółów na obrazach wyświetlanych w monitorze",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-24",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 24,
+    "question": "Co to jest temperatura barw",
+    "answer": "Sposób postrzegania przez ludzkie oko barw",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-25",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 25,
+    "question": "Co to jest czas reakcji",
+    "answer": "Czas przejścia pojedynczego piksela matrycy ze stanu zapalonego do stanu zgaszonego i ponownie do stanu zapalonego",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-26",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 26,
+    "question": "Co to jest tryb graficzny w monitorze CRT",
+    "answer": "Jest to liczba punktów w linii, liczba linii na ekranie i częstotliwość odświeżania ekranu",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-27",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 27,
+    "question": "Co wywołuje mała częstotliwość powtarzania ekranu",
+    "answer": "Wywołuje efekt migotania ekranu",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-28",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 28,
+    "question": "Jakie są typy ekranów",
+    "answer": "Matowy i błyszczący",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-29",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 29,
+    "question": "Co to jest częstotliwość odświeżania matrycy",
+    "answer": "Liczba wykonanych przez monitor wyświetleń w czasie sekundy",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-30",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 30,
+    "question": "Co to jest Pivot",
+    "answer": "Obrót ekranu do pozycji pionowej",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-31",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 31,
+    "question": "Rozwiń skrót PDP",
+    "answer": "Plasma display panel",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-32",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 32,
+    "question": "Wymień rodzaje siatek kineskopowych",
+    "answer": "DELTA, TRINITRON, CROMA CLEAR",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s11-33",
+    "file": "Jan_Sołtysiński.docx",
+    "number": 33,
+    "question": "Co to jest rozdzielczość ekranu",
+    "answer": "Ilość pikseli w pionie i poziomie",
+    "author": "Jan Sołtysiński",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-01",
+    "file": "Kacper_Zurek.docx",
+    "number": 1,
+    "question": "Co to jest piksel?",
+    "answer": "Piksel to najmniejsza składowa część obrazu wyświetlanej na ekranie",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-02",
+    "file": "Kacper_Zurek.docx",
+    "number": 2,
+    "question": "Co to jest subpiksel?",
+    "answer": "Każdy piskel składa się z trzech subpikseli",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-03",
+    "file": "Kacper_Zurek.docx",
+    "number": 3,
+    "question": "Co można uzyskać łącząc trzy subpiksele?",
+    "answer": "Można uzyskac wszystkie możliwe kombinacje kolorów.",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-04",
+    "file": "Kacper_Zurek.docx",
+    "number": 4,
+    "question": "W czym mierzymy rozmiar monitora?",
+    "answer": "W calach",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-05",
+    "file": "Kacper_Zurek.docx",
+    "number": 5,
+    "question": "Rozwiń skrót CRT?",
+    "answer": "Cathode-Ray Tube",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-06",
+    "file": "Kacper_Zurek.docx",
+    "number": 6,
+    "question": "Na co pada wiązka elektronów w monitorach CRT?",
+    "answer": "Pada na Luminofor",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-07",
+    "file": "Kacper_Zurek.docx",
+    "number": 7,
+    "question": "Jaki kształt ma najczęściej kineskop?",
+    "answer": "Ma kształt wycinka Kuli",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-08",
+    "file": "Kacper_Zurek.docx",
+    "number": 8,
+    "question": "W jakich kierunkach wiązka w kineskopie musi być odchylana aby rozświetlić każdy punkt ekranu?",
+    "answer": "W pionowym i poziomym",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-09",
+    "file": "Kacper_Zurek.docx",
+    "number": 9,
+    "question": "Jaki jest podział kineskopów?",
+    "answer": "Na kolorowe i monochromatyczne",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-10",
+    "file": "Kacper_Zurek.docx",
+    "number": 10,
+    "question": "Jakie zadanie ma Maska (siatka)?",
+    "answer": "Ma za zadanie nakierowanie elektronów na odpowiedznie pola ekranu",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-11",
+    "file": "Kacper_Zurek.docx",
+    "number": 11,
+    "question": "Jakie są rodzaje siatek kineskopowych?",
+    "answer": "DELTA, TRINITRON, CROMA CLEAR",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-12",
+    "file": "Kacper_Zurek.docx",
+    "number": 12,
+    "question": "Jakie są typy ekranu?",
+    "answer": "Matowy i Błyszczący",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-13",
+    "file": "Kacper_Zurek.docx",
+    "number": 13,
+    "question": "Co to jest martwy piksel?",
+    "answer": "To wypalony piksel lub z uszkodzonym sterowaniem",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-14",
+    "file": "Kacper_Zurek.docx",
+    "number": 14,
+    "question": "Co to jest rozdzielczość ekranu?",
+    "answer": "Ilość pikseli w pionie i poziomie",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-15",
+    "file": "Kacper_Zurek.docx",
+    "number": 15,
+    "question": "Rozwiń skrót PDP",
+    "answer": "Plasma display panel",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-16",
+    "file": "Kacper_Zurek.docx",
+    "number": 16,
+    "question": "Jakie zjawisko wykorzystuje wyświetlacz plazmowy?",
+    "answer": "Wykorzystuje zjawisko jonizacji gazu",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-17",
+    "file": "Kacper_Zurek.docx",
+    "number": 17,
+    "question": "Z czego są zbudowane diody w OLED?",
+    "answer": "Są zbudowane z organicznych sunstancji chemicznych (polimerów)",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-18",
+    "file": "Kacper_Zurek.docx",
+    "number": 18,
+    "question": "Co gwarantuje mniejszy piksel?",
+    "answer": "Ostrzejszy i bardziej kontrastowy obraz",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-19",
+    "file": "Kacper_Zurek.docx",
+    "number": 19,
+    "question": "Co to jest temperatura barw?",
+    "answer": "To sposób postrzegania prez ludzkie oko barw",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-20",
+    "file": "Kacper_Zurek.docx",
+    "number": 20,
+    "question": "Co to jest korekcja gamma?",
+    "answer": "Ułatwia rozróżnianie jaśniejszych i ciemniejszych szczegółów wyświetlanych na monitorze",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-21",
+    "file": "Kacper_Zurek.docx",
+    "number": 21,
+    "question": "Co to jest kontrast?",
+    "answer": "Stosunek jasności najjaśniejszego punktu do najciemniejszego.",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-22",
+    "file": "Kacper_Zurek.docx",
+    "number": 22,
+    "question": "Jakie są typy kontrastów?",
+    "answer": "Statyczny lub Dynamiczny",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-23",
+    "file": "Kacper_Zurek.docx",
+    "number": 23,
+    "question": "Co określa norma ISO 13406-2?",
+    "answer": "Dzieli monitory LCD na klasy określające liczbę i rodzaj defektów",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-24",
+    "file": "Kacper_Zurek.docx",
+    "number": 24,
+    "question": "Co to jest czas reakcji?",
+    "answer": "To czas przejścia pojedynczego piksela matrycy e stanu zapalonego do stanu zgaszonego i ponownie zapalonego",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-25",
+    "file": "Kacper_Zurek.docx",
+    "number": 25,
+    "question": "Co to częstotliwość odwiezania matrycy?",
+    "answer": "Liczba wykonanych przez monitor wyswietlen w czasie sekundy",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-26",
+    "file": "Kacper_Zurek.docx",
+    "number": 26,
+    "question": "Co wywołuje mała częstotliwość powatarzania ekranu?",
+    "answer": "Wywołuje efekt migotania ekranu",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-27",
+    "file": "Kacper_Zurek.docx",
+    "number": 27,
+    "question": "Co oznacza pivot?",
+    "answer": "Oznacza obrót ekranu do pozycji pionowej",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-28",
+    "file": "Kacper_Zurek.docx",
+    "number": 28,
+    "question": "W ilu kolorach swieci kineskop kolorowy?",
+    "answer": "Świeci w trzech kolorach jednocześnie",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-29",
+    "file": "Kacper_Zurek.docx",
+    "number": 29,
+    "question": "Jakie są trzy podstawowe typy monitorów",
+    "answer": "Monitor CRT, Monitor LCD, Rzutnik Multimedialny",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s12-30",
+    "file": "Kacper_Zurek.docx",
+    "number": 30,
+    "question": "Czy moniotry LCD mają oddzielne żródlo światła białego?",
+    "answer": "Tak mają",
+    "author": "Kacper Zurek",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-01",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 1,
+    "question": "Jakie jest zadanie monitora ?",
+    "answer": "Natychmiastowa wizualizacja wyników pracy komputera",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-02",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 2,
+    "question": "Jakie są podstawowe typy monitorów ?",
+    "answer": "CRT, LCD, Rzutnik multimedialny",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-03",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 3,
+    "question": "W którym roku był pierwszy polski komputer ?",
+    "answer": "W 1958 r",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-04",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 4,
+    "question": "Co to jest Piksel ?",
+    "answer": "To najmniejsza składowa cząstka obrazu wyświetlana na ekranie",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-05",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 5,
+    "question": "Z czego składa się Piksel ?",
+    "answer": "Z trzecg Subpikseli",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-06",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 6,
+    "question": "Z jakich kolorów złożony jest Subpiksel ?",
+    "answer": "Z czerwonego zielonego i niebieskiego",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-07",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 7,
+    "question": "Jak mierzymy rozmiar monitora ?",
+    "answer": "Mierzymy podając miary przekątnej ekranu",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-08",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 8,
+    "question": "Rozwiń skrót CRT",
+    "answer": "Cathode-Ray Tube",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-09",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 9,
+    "question": "Na czym oparty jest monitor CRT ?",
+    "answer": "Oparty jest na kineskopie",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-10",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 10,
+    "question": "Co to Kineskop ?",
+    "answer": "To szklane bańki wypełnione próżnią, mają kształt wycinka kuli",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-11",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 11,
+    "question": "Na jakie kineskopy dzielimy ?",
+    "answer": "Monochromatyczne i Kolorowe",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-12",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 12,
+    "question": "Czym charakteryzują się Kineskopy Monochromatyczne ?",
+    "answer": "Świecą w jednym kolorze",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-13",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 13,
+    "question": "Jakie zadanie ma Maska Ekranu ?",
+    "answer": "Ma za zadanie nakierować elektrony na odpowiednie pola ekranu",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-14",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 14,
+    "question": "Jakie są rodzaje siatek kineskopowych ?",
+    "answer": "Delta, Trinitron, Croma Clear",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-15",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 15,
+    "question": "Co to Trinitron ?",
+    "answer": "Optymalizuje wewnętrzna krzywiznę ekranu i pozwala uzyskać prawie płaską powierzchnię zewnętrzną, dającą obraz płaski",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-16",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 16,
+    "question": "Co to zniekształcenie poduszkowo-beczkowe w monitorze CRT ?",
+    "answer": "Jest to defekt obrazu",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-17",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 17,
+    "question": "Co to monitor LCD ?",
+    "answer": "każdy piksel obrazu to warstewka ciekłego kryształu, umieszczona pomiędzy dwoma filtrami polaryzacyjnymi o prostopadłych płaszczyznach polaryzacji",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-18",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 18,
+    "question": "Czy LCD emituje światło ?",
+    "answer": "NIE",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-19",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 19,
+    "question": "Co to jest martwy piksel ?",
+    "answer": "TO piksel wypalony lub z uszkodzonym sterowaniem.",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-20",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 20,
+    "question": "Rozwiń skrót PDP",
+    "answer": "Plasma Display Panel",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-21",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 21,
+    "question": "Co wykorzystuje wyświetlacz Plazmowy ?",
+    "answer": "Wykorzystuje zjawisko jonizacji gazu",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-22",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 22,
+    "question": "Do jakich monitorów jest podobny monitor LED ?",
+    "answer": "Do LCD",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-23",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 23,
+    "question": "Jakie diody wykorzystuje monitor LED ?",
+    "answer": "Białe",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-24",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 24,
+    "question": "Co to OLED ?",
+    "answer": "To organiczna dioda elektroluminescencyjna",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-25",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 25,
+    "question": "Z czego jest zbudowana dioda w OLED ?",
+    "answer": "z warstw półprzewodnikowych i składa się z katody warstw emisyjnych i anody",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-26",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 26,
+    "question": "Jaki pobór mocy ma monitor LCD ?",
+    "answer": "Kilkadziesiąt W",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-27",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 27,
+    "question": "Jaką częstotliwość odświeżania matrycy ma monitor LCD ?",
+    "answer": "od 60 do 80 Hz",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-28",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 28,
+    "question": "Jaka jest pionowa częstotliwość odchylania monitora CRT ?",
+    "answer": "od 50 do 120 Hz",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-29",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 29,
+    "question": "Jaki pobór mocy ma monitor CRT w trybie czuwania ?",
+    "answer": "1 Wat",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-30",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 30,
+    "question": "Jakie złącza Audio ma monitor CRT ?",
+    "answer": "Słuchawkowe i RCA (Chinch)",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-31",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 31,
+    "question": "Jaki czas reakcji ma monitor LCD ?",
+    "answer": "Kilka ms",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s13-32",
+    "file": "Kamil_BireckiMonitory.docx",
+    "number": 32,
+    "question": "Jakie złącza ma monitor LCD oprócz złącz wideo i audio ?",
+    "answer": "Thunderbolt, USB, FIrewire",
+    "author": "Kamil Birecki",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-01",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 1,
+    "question": "Jakie jest główne zadanie monitora?",
+    "answer": "Natychmiastowa wizualizacja wyników pracy komputera",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-02",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 2,
+    "question": "Czym jest monitor komputerowy?",
+    "answer": "To urządzenie wejścia/wyjścia służące do bezpośredniej komunikacji operatora z komputerem",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-03",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 3,
+    "question": "Jakie są podstawowe typy monitorów?",
+    "answer": "Monitor CRT, Monitor LCD, Rzutnik multimedialny",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-04",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 4,
+    "question": "Kiedy wyszedł pierwszy polski monitor?",
+    "answer": "W 1958 roku",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-05",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 5,
+    "question": "Co to jest Piksel?",
+    "answer": "Piksel to najmniejsza składowa cząstki obrazu wyświetlanej na ekranie",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-06",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 6,
+    "question": "Ile z reguły wynosi rozmiar plamki piksela?",
+    "answer": "Od 0.1 mm do 0.42 mm",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-07",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 7,
+    "question": "Z ilu subpikseli składa się pojedynczy piksel?",
+    "answer": "Składa się z trzech",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-08",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 8,
+    "question": "Co można uzyskać łącząc te trzy subpiksele?",
+    "answer": "Można uzyskać wszystkie możliwe kombinacje kolorów tworzące widmo barw",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-09",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 9,
+    "question": "Jaki mierzy się rozmiar monitora?",
+    "answer": "Mierzy się podając przekątna ekranu w calach",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-10",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 10,
+    "question": "Czym jest rozdzielczość monitora?",
+    "answer": "Jest to maksymalna ilość pikseli jaką może wyświetlić dany monitor",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-11",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 11,
+    "question": "Czym są proporcje ekranu (format) ekranu/Współczynnik kształtu?",
+    "answer": "To stosunek ilości pikseli w poziomie do ilości pikseli w pionie, zaokrąglony do liczb całkowitych",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-12",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 12,
+    "question": "Co oznacza skrót CRT?",
+    "answer": "Oznacza (ang. Cathode-Ray Tube)",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-13",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 13,
+    "question": "Na czym oparty jest ekran CRT?",
+    "answer": "Na kineskopie",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-14",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 14,
+    "question": "Co to jest kineskop?",
+    "answer": "To bańki szklane wypełnione próżnią",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-15",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 15,
+    "question": "Jaki kształt mają najczęściej Kineskopy?",
+    "answer": "Mają kształt wycinka kuli",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-16",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 16,
+    "question": "Na jakie dwie grupy dzielą się kineskopy?",
+    "answer": "Monochromatyczne oraz kolorowe",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-17",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 17,
+    "question": "Czym charakteryzują się kineskopy monochromatyczne?",
+    "answer": "Świecą w jednym kolorze",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-18",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 18,
+    "question": "Jakie zadanie pełni maska (siatka)?",
+    "answer": "Nakierowanie elektronów na odpowiednie pola ekranu",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-19",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 19,
+    "question": "Jakie są rodzaje siatek kineskopowych?",
+    "answer": "DELTA, TRINITRON, CROMA CLEAR",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-20",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 20,
+    "question": "Jakie proporcje ekranu najczęściej są w monitorach CRT?",
+    "answer": "4:3",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-21",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 21,
+    "question": "Jakie wyróżnia się typy ekranu monitora CRT?",
+    "answer": "Matowy oraz błyszczący",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-22",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 22,
+    "question": "Czym jest kontrast monitora?",
+    "answer": "Stosunek jasności najjaśniejszego punktu do najciemniejszego",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-23",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 23,
+    "question": "Jakie wyróżniamy rodzaje korekcji wyrazistości obrazu?",
+    "answer": "Poziomą, pionową, morę poziomą, morę pionową",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-24",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 24,
+    "question": "Jaka jest cecha charakterystyczna ciekłych kryształów namatycznych?",
+    "answer": "Skręcanie płaszczyzny polaryzacji przepuszczanego światła",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-25",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 25,
+    "question": "Co to jest martwy piksel?",
+    "answer": "To piksel wypalony lub z uszkodzonym sterowaniem",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-26",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 26,
+    "question": "Jakie są typy martwych pikseli?",
+    "answer": "Jasny piksel, czarny piksel, subpiksel",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-27",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 27,
+    "question": "Ile wynoszą maksymalnie kąty widzenia w monitorach LCD?",
+    "answer": "Max 150-170 stopni",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-28",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 28,
+    "question": "Ile kolorów potrafi wyświetlić monitor?",
+    "answer": "Około 16,7 mln kolorów",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-29",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 29,
+    "question": "Jakie zjawisko wykorzystuje wyświetlacz plazmowy (PDP)?",
+    "answer": "Wykorzystuje zjawisko jonizacji gazu",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s14-30",
+    "file": "Maciek_Kacprzak.docx",
+    "number": 30,
+    "question": "Czym jest OLED?",
+    "answer": "To organiczna dioda elektroluminescencyjna",
+    "author": "Maciek Kacprzak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-01",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 1,
+    "question": "Jakie sa typy monitorow?",
+    "answer": "CRT, LCD, Rzutnik multimedialny",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-02",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 2,
+    "question": "Co to piksel?",
+    "answer": "To najmniejsza skladowa czesc obrazu",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-03",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 3,
+    "question": "Czy im mniejszy piksel tym bardziej wyraźny jest obraz?",
+    "answer": "Tak",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-04",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 4,
+    "question": "Z ilu subpikseli sklada się piksel?",
+    "answer": "Z trzech",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-05",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 5,
+    "question": "Jak mierzymy rozmiar ekranu?",
+    "answer": "Podajac przekatna ekranu",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-06",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 6,
+    "question": "W czym podajemy przekatna ekranu?",
+    "answer": "W calach",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-07",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 7,
+    "question": "Co to rozdzielczość monitora?",
+    "answer": "Maksymalna ilość pikseli jaka może wyswietlic monitor",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-08",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 8,
+    "question": "Co to format?",
+    "answer": "Stosunek ilości pikseli w poziomie do ilości w pionie",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-09",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 9,
+    "question": "Kto wymyslil monitor CRT?",
+    "answer": "William Crookes",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-10",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 10,
+    "question": "Na czym jest oparty monitor CRT?",
+    "answer": "Na kineskopie",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-11",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 11,
+    "question": "Co to kineskop?",
+    "answer": "To banki szklane wypelnione próżnią",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-12",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 12,
+    "question": "Jaki kształt ma kineskop?",
+    "answer": "Kuli",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-13",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 13,
+    "question": "Jakie mamy kineskopy?",
+    "answer": "Monochromatyczne i kolorowe",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-14",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 14,
+    "question": "Jakie zadanie ma maska ekranu?",
+    "answer": "Nakierowanie",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-15",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 15,
+    "question": "Jaka postac ma maska ekranu?",
+    "answer": "Ma postac metalowej siatki z otworami",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-16",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 16,
+    "question": "Jakie sa rodzaje siatek kineskopowych?",
+    "answer": "Delta, Trinitron, Croma Clear",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-17",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 17,
+    "question": "Jak działa monitor LCD?",
+    "answer": "Monitor LCD działa dzięki ciekłym kryształom które regulują przepływ swiatla z podświetleniem",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-18",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 18,
+    "question": "Co to jest martwy piksel?",
+    "answer": "To piksel wypalony lub z uszkodzonym sterowaniem",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-19",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 19,
+    "question": "Jakie sa typy martwych pikseli? :",
+    "answer": "Jasny piksel: jeden piksel jest stale zapalony\nCzarny piksel: jeden piksel jest zgaszony\nSubpiksel: jeden subpiksel RGB jest stale zapalony lub zgaszony",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-20",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 20,
+    "question": "Jakie zjawisko wykorzystuje wyświetlacz plazmowy?",
+    "answer": "Zjawisko jonizacji gazu",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-21",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 21,
+    "question": "Co wykorzystuje wyświetlacz LCD?",
+    "answer": "Diody LED",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-22",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 22,
+    "question": "Co to jest monitor komputerowy?",
+    "answer": "To urządzenie wyjściowe które wyswietla obraz tekst i filmy generowane przez komputer",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-23",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 23,
+    "question": "Do czego sluza filtry kolorow RGB?",
+    "answer": "Do tworzenia roznych kolorow na ekranie monitora poprzez mieszanie tych trzech barw",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-24",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 24,
+    "question": "Jak działa monitor OLED?",
+    "answer": "Dziala dzięki pikselom które same swieca i tworza obraz oraz kolory",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-25",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 25,
+    "question": "Jakie zadania w komputerze osobistym realizuje monitor?",
+    "answer": "Monitor wyswietla tekst, obraz, filmy i wyniki działania komputera",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-26",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 26,
+    "question": "Jak oblicza się pobor mocy monitora?",
+    "answer": "Oblicza się mnożąc napiecie przez natężenie pradu",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-27",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 27,
+    "question": "Co to jest korekcja gamma?",
+    "answer": "To regulacja jasności obrazu szczególnie jego ciemnych i jasnych obszarow",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-28",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 28,
+    "question": "Co to jest jasność monitora?",
+    "answer": "To ilość swiatla emitowanego przez ekran",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s15-29",
+    "file": "Maksymilian_Kowalczyk.docx",
+    "number": 29,
+    "question": "Co to jest kontrast monitora?",
+    "answer": "To roznica miedzy najjaśniejszym a najciemniejszym punktem obrazu",
+    "author": "Maksymilian Kowalczyk",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-01",
+    "file": "Marcel Pawlak.docx",
+    "number": 1,
+    "question": "co to monitor?",
+    "answer": "To ogolna nazwa jednego z urządzenia wescia/wyjscia do komunikacji miedzy komputerem a urzytkownikiem",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-02",
+    "file": "Marcel Pawlak.docx",
+    "number": 2,
+    "question": "jakie jest zadanie monitora?",
+    "answer": "Zadaniem monitora jest wizualizacja wynikow pracy komputera",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-03",
+    "file": "Marcel Pawlak.docx",
+    "number": 3,
+    "question": "jak nazywamy najmniejszą składową część obrazu",
+    "answer": "Piksel",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-04",
+    "file": "Marcel Pawlak.docx",
+    "number": 4,
+    "question": "z ilu subpikseli sklada sie piksel?",
+    "answer": "Z 3",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-05",
+    "file": "Marcel Pawlak.docx",
+    "number": 5,
+    "question": "rozmiar monitora mierzymy w?",
+    "answer": "W calach",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-06",
+    "file": "Marcel Pawlak.docx",
+    "number": 6,
+    "question": "co to kineskopy?",
+    "answer": "Kineskopy to bańki szklane ‘’wypełnione’’ proznią",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-07",
+    "file": "Marcel Pawlak.docx",
+    "number": 7,
+    "question": "co to jasność",
+    "answer": "nateżenie Swiatła jakie emituje ekran",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-08",
+    "file": "Marcel Pawlak.docx",
+    "number": 8,
+    "question": "rozdzielczość ekranu to?",
+    "answer": "Ilość pikseli w pionie i poziomie",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-09",
+    "file": "Marcel Pawlak.docx",
+    "number": 9,
+    "question": "co to martwy piksel?",
+    "answer": "To piksel wypalony lub z uszkodzonym sterowaniem",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-10",
+    "file": "Marcel Pawlak.docx",
+    "number": 10,
+    "question": "co to OLED (1 piksel )",
+    "answer": "to organiczna dioda elektroluminescyjna",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-11",
+    "file": "Marcel Pawlak.docx",
+    "number": 11,
+    "question": "rozwin skrot PDP",
+    "answer": "plasma display panel",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-12",
+    "file": "Marcel Pawlak.docx",
+    "number": 12,
+    "question": "wyświetlacz PDP to?",
+    "answer": "Plazma",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-13",
+    "file": "Marcel Pawlak.docx",
+    "number": 13,
+    "question": "jak działa wyświtlacz LED?",
+    "answer": "Wyświetlacz wykorzystuje diody LED działa podobnie jak LCD",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-14",
+    "file": "Marcel Pawlak.docx",
+    "number": 14,
+    "question": "jakie sa typy ekranów",
+    "answer": "matowy i błyszczący",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-15",
+    "file": "Marcel Pawlak.docx",
+    "number": 15,
+    "question": "rozwiń skrót HDCP",
+    "answer": "High-bandwidth Digital Content Protection",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-16",
+    "file": "Marcel Pawlak.docx",
+    "number": 16,
+    "question": "jaki kolor najczesciej ma piksel wypalony?",
+    "answer": "Czarny",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-17",
+    "file": "Marcel Pawlak.docx",
+    "number": 17,
+    "question": "jakie sa kolory subpikseli",
+    "answer": "czerwony niebieski zielony",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-18",
+    "file": "Marcel Pawlak.docx",
+    "number": 18,
+    "question": "jak zbudowany jest piksel w wyswietlaczu LCD?",
+    "answer": "Zbudowany jest z ciekłego kryształu",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-19",
+    "file": "Marcel Pawlak.docx",
+    "number": 19,
+    "question": "jakie są rodzaje zniekształcenia",
+    "answer": "trapezowe i równoległoboczne",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-20",
+    "file": "Marcel Pawlak.docx",
+    "number": 20,
+    "question": "czy monitor CRT ma fizyczne piksele",
+    "answer": "nie",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-21",
+    "file": "Marcel Pawlak.docx",
+    "number": 21,
+    "question": "jakie sa podstawowe typy monitorów?",
+    "answer": "Monitor CRT monitor LCD rzutnik multimedialny",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-22",
+    "file": "Marcel Pawlak.docx",
+    "number": 22,
+    "question": "jaki typ monitora jest oparty na kineskopie?",
+    "answer": "CRT",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-23",
+    "file": "Marcel Pawlak.docx",
+    "number": 23,
+    "question": "jakie sa rodzaje kineskopów?",
+    "answer": "Monochromatyczne i kolorowe",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-24",
+    "file": "Marcel Pawlak.docx",
+    "number": 24,
+    "question": "jakie rodzaje siatek kineskopowych  wyróżniamy?",
+    "answer": "DELTA TRINITRON CROMA CLEAN",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-25",
+    "file": "Marcel Pawlak.docx",
+    "number": 25,
+    "question": "co to temperatura barw?",
+    "answer": "Sposób postrzegania przez ludzkie oko barw",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-26",
+    "file": "Marcel Pawlak.docx",
+    "number": 26,
+    "question": "co to korekcja gamma",
+    "answer": "ułatwia rozróżnianie jaśniejszych i ciemniejszych szczegółów na obrazach wyświetlanych na monitorze?",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-27",
+    "file": "Marcel Pawlak.docx",
+    "number": 27,
+    "question": "Co to czas reakcji?",
+    "answer": "Czas pzejscia pojedynczgo piksela matrycy ze stanu zapalnego do stanu zgaszonego",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-28",
+    "file": "Marcel Pawlak.docx",
+    "number": 28,
+    "question": "ile wynosi czas reakcji w monitorach CRT",
+    "answer": "kilka ms",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-29",
+    "file": "Marcel Pawlak.docx",
+    "number": 29,
+    "question": "czy LCD ma oddzielne źródło światła białego?",
+    "answer": "Tak",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-30",
+    "file": "Marcel Pawlak.docx",
+    "number": 30,
+    "question": "jaki typ monitora ma najlepszy zaskres kolorów",
+    "answer": "CRT",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-31",
+    "file": "Marcel Pawlak.docx",
+    "number": 31,
+    "question": "czy w monitorach LCD występuje promieniowanie",
+    "answer": "nie",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s16-32",
+    "file": "Marcel Pawlak.docx",
+    "number": 32,
+    "question": "czy monitor CRT ma duży pobór mocy",
+    "answer": "",
+    "author": "Marcel Pawlak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-01",
+    "file": "Natalia_Urbańska.docx",
+    "number": 1,
+    "question": "Jakie jest zadanie monitora komputerowego?",
+    "answer": "Zadaniem monitora jest natychmiastowa wizualizacja wyników pracy komputera.",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-02",
+    "file": "Natalia_Urbańska.docx",
+    "number": 2,
+    "question": "Co to jest piksel?",
+    "answer": "Piksel to najmniejsza składowa cząstki obrazu wyświetlanej na ekranie",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-03",
+    "file": "Natalia_Urbańska.docx",
+    "number": 3,
+    "question": "W czym podajemy przekątną ekranu ?",
+    "answer": "Calach",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-04",
+    "file": "Natalia_Urbańska.docx",
+    "number": 4,
+    "question": "Rozwiń skrót CRT ?",
+    "answer": "Cathode-Ray Tube",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-05",
+    "file": "Natalia_Urbańska.docx",
+    "number": 5,
+    "question": "Na czym jest oparty CRT ?",
+    "answer": "Na kineskopie",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-06",
+    "file": "Natalia_Urbańska.docx",
+    "number": 6,
+    "question": "Co to jest kineskop ?",
+    "answer": "To szklane bańki „wypełnione” próżnią",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-07",
+    "file": "Natalia_Urbańska.docx",
+    "number": 7,
+    "question": "W jakich kolorach jest wyświetlany przez kineskopy monochromatyczne ?",
+    "answer": "Świecące w jednym kolorze (czarno-białym lub inne kolory, np. zielony, miodowy)",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-08",
+    "file": "Natalia_Urbańska.docx",
+    "number": 8,
+    "question": "Rozdzielczość ekranu to ……",
+    "answer": "Ilość pikseli w pionie i poziomie",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-09",
+    "file": "Natalia_Urbańska.docx",
+    "number": 9,
+    "question": "Jakie są typy ekranów ?",
+    "answer": "Matowe i błyszczące",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-10",
+    "file": "Natalia_Urbańska.docx",
+    "number": 10,
+    "question": "Co to jest martwy piksel ?",
+    "answer": "Martwy piksel to piksel wypalony lub z uszkodzonym sterowaniem",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-11",
+    "file": "Natalia_Urbańska.docx",
+    "number": 11,
+    "question": "O czym decyduje przekątna ekranu ?",
+    "answer": "O rozmiarze",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-12",
+    "file": "Natalia_Urbańska.docx",
+    "number": 12,
+    "question": "Z czego składa się każdy piksel ?",
+    "answer": "Z trzech subpikseli : czerwonego (R) , zielonego (G) , niebieskiego (B)",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-13",
+    "file": "Natalia_Urbańska.docx",
+    "number": 13,
+    "question": "Parametr jasności w monitorach to …….",
+    "answer": "natężenie światła jakie emituje ekran",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-14",
+    "file": "Natalia_Urbańska.docx",
+    "number": 14,
+    "question": "Jakie są podstawowe typy monitorów ?",
+    "answer": "CRT, LCD i rzutnik multimedialny",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-15",
+    "file": "Natalia_Urbańska.docx",
+    "number": 15,
+    "question": "Do czego służy działo elektronowe ?",
+    "answer": "Do wystrzeliwania wiązki elektronowej",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-16",
+    "file": "Natalia_Urbańska.docx",
+    "number": 16,
+    "question": "Jak działa luminofor w monitorze?",
+    "answer": "Świeci pod wpływem uderzających w niego elektronów",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-17",
+    "file": "Natalia_Urbańska.docx",
+    "number": 17,
+    "question": "Czym różni się kineskop kolorowy od monochromatycznego ?",
+    "answer": "Monochromatyczny ma 1 działo elektronowe i świeci w jednym kolorze, kolorowy ma 3 działa i świeci w 3 kolorach RGB",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-18",
+    "file": "Natalia_Urbańska.docx",
+    "number": 18,
+    "question": "Co to jest maska ekranu ?",
+    "answer": "Metalowa siatka z otworami, która kieruje elektrony na odpowiednie pola RGB",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-19",
+    "file": "Natalia_Urbańska.docx",
+    "number": 19,
+    "question": "Jakie są wady obrazu CRT ?",
+    "answer": "Poduszkowo-beczkowe, poduszkowo-zbalansowane, trapezowe, równoległoboczne oraz obrócony obraz",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-20",
+    "file": "Natalia_Urbańska.docx",
+    "number": 20,
+    "question": "Co to jest kontrast ?",
+    "answer": "Stosunek jasności najjaśniejszego do najciemniejszego punktu do najciemniejszego",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-21",
+    "file": "Natalia_Urbańska.docx",
+    "number": 21,
+    "question": "Jakie są typy martwych pikseli ?",
+    "answer": "Jasny, czarny i uszkodzony subpiksel",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-22",
+    "file": "Natalia_Urbańska.docx",
+    "number": 22,
+    "question": "Co to jest częstotliwość odświerzania ekranu ?",
+    "answer": "Ilość razy wyświetleń obrazu w ciągu sekundy",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-23",
+    "file": "Natalia_Urbańska.docx",
+    "number": 23,
+    "question": "Czym jest OLED ?",
+    "answer": "Organiczną diodą elektroluminesencyjna",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-24",
+    "file": "Natalia_Urbańska.docx",
+    "number": 24,
+    "question": "Rozwiń skrót wyświetlacz palzmowy (PDP)",
+    "answer": "Plasma Display Panel",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-25",
+    "file": "Natalia_Urbańska.docx",
+    "number": 25,
+    "question": "Co wykorzystuje wyświetlacz plazmowy do działania ?",
+    "answer": "zjawisko jonizacji gazu",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-26",
+    "file": "Natalia_Urbańska.docx",
+    "number": 26,
+    "question": "W czym mierzymy temperature barw ?",
+    "answer": "Kelwinach",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-27",
+    "file": "Natalia_Urbańska.docx",
+    "number": 27,
+    "question": "Który monitor pobiera więcej energii : CRT czy LCD ?",
+    "answer": "CRT",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-28",
+    "file": "Natalia_Urbańska.docx",
+    "number": 28,
+    "question": "Który monitor nie ma migotania : CRT czy LCD ?",
+    "answer": "LCD",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-29",
+    "file": "Natalia_Urbańska.docx",
+    "number": 29,
+    "question": "O czym decyduje proporcja ekranu ?",
+    "answer": "O kształcie ekranu",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-30",
+    "file": "Natalia_Urbańska.docx",
+    "number": 30,
+    "question": "Który monitor ma zerowe promieniowanie : CRT czy LCD ?",
+    "answer": "LCD",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-31",
+    "file": "Natalia_Urbańska.docx",
+    "number": 31,
+    "question": "Który monitor ma zerowe zniekształcenia : CRT czy LCD ?",
+    "answer": "LCD",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-32",
+    "file": "Natalia_Urbańska.docx",
+    "number": 32,
+    "question": "Czym różni się ekran matowy od błyszczącego ?",
+    "answer": "Matowy nie odbija światła otoczenia, błyszczący odbija",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-33",
+    "file": "Natalia_Urbańska.docx",
+    "number": 33,
+    "question": "Jaki rozmiar piksela wpływa na jakość wyświetalnego obrazu ?",
+    "answer": "Im mniejszy, tym wyższa jakość obrazu",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-34",
+    "file": "Natalia_Urbańska.docx",
+    "number": 34,
+    "question": "Do czego jest służy kontrast statyczny ?",
+    "answer": "Do wyświetlania zdjęć i tekstu (obrazów nieruchomych)",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-35",
+    "file": "Natalia_Urbańska.docx",
+    "number": 35,
+    "question": "Do czego jest służy kontrast dynamiczny ?",
+    "answer": "Do oglądania filmów i grania w gry (obrazów w ruchu)",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-36",
+    "file": "Natalia_Urbańska.docx",
+    "number": 36,
+    "question": "Co to jest korekcja gamma ?",
+    "answer": "Ułatwia rozróżnianie jaśniejszych i ciemniejszych szczegółów obrazu wyświetlanego",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-37",
+    "file": "Natalia_Urbańska.docx",
+    "number": 37,
+    "question": "Który monitor zajmuje więcej miejsca : CRT czy LCD ?",
+    "answer": "CRT",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-38",
+    "file": "Natalia_Urbańska.docx",
+    "number": 38,
+    "question": "Który monitor jest lżejszy : CRT czy LCD ?",
+    "answer": "LCD",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-39",
+    "file": "Natalia_Urbańska.docx",
+    "number": 39,
+    "question": "Co to jest monitor komputerowy ?",
+    "answer": "To urządzenie wejścia/wyjścia który wyświetla obraz generowany przez komputer. Służy do bezpośredniej komunikacji operatora z komputerem",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s17-40",
+    "file": "Natalia_Urbańska.docx",
+    "number": 40,
+    "question": "Co to jest przekątna ekranu ?",
+    "answer": "Odległość między przeciwległymi rogami ekranu",
+    "author": "Natalia Urbańska",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-01",
+    "file": "Oleh_Derzhko.docx",
+    "number": 1,
+    "question": "Co to jest monitor komputerowy?",
+    "answer": "To ogólna nazwa jednego urządzenia wejścia/wyjścia do bezpośredniej komunikacji operatora z komputerem",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-02",
+    "file": "Oleh_Derzhko.docx",
+    "number": 2,
+    "question": "Jakie są podstawowe typy monitorów?",
+    "answer": "Monitor CRT, Monitor LCD, Projektor multimedialny",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-03",
+    "file": "Oleh_Derzhko.docx",
+    "number": 3,
+    "question": "Który element jest głównym elementem monitora CRT?",
+    "answer": "Głównym elementem monitora CRT jest kineskop",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-04",
+    "file": "Oleh_Derzhko.docx",
+    "number": 4,
+    "question": "Co oznacza skrót CRT?",
+    "answer": "Cathod-Ray Tube",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-05",
+    "file": "Oleh_Derzhko.docx",
+    "number": 5,
+    "question": "Jaki element jest głównym elementem monitora LCD?",
+    "answer": "Matryca LCD",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-06",
+    "file": "Oleh_Derzhko.docx",
+    "number": 6,
+    "question": "Czym jest piksel?",
+    "answer": "Najmniejsza część obrazu wyświetlanego na ekranie",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-07",
+    "file": "Oleh_Derzhko.docx",
+    "number": 7,
+    "question": "Z czego składa się każdy piksel?",
+    "answer": "Z trzech subpikseli",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-08",
+    "file": "Oleh_Derzhko.docx",
+    "number": 8,
+    "question": "Kiedy obraz jest dokładniejszy?",
+    "answer": "Gdy piksel będzie mniejszy",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-09",
+    "file": "Oleh_Derzhko.docx",
+    "number": 9,
+    "question": "Co można uzyskać, łącząc trzy subpiksele?",
+    "answer": "Łącząc te trzy subpiksele, można uzyskać wszystkie możliwe kombinacje kolorów tworzące spektrum barw",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-10",
+    "file": "Oleh_Derzhko.docx",
+    "number": 10,
+    "question": "Co oznacza skrót RGB?",
+    "answer": "Red,Green,Blue",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-11",
+    "file": "Oleh_Derzhko.docx",
+    "number": 11,
+    "question": "Jak mierzymy rozmiar monitora?",
+    "answer": "W calach",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-12",
+    "file": "Oleh_Derzhko.docx",
+    "number": 12,
+    "question": "Co to jest rozdzielczość monitora (w pikselach)?",
+    "answer": "Maksymalna ilość pikseli jaką może wyświetlić dany monitor ilość pikseli w poziomie na ilość pikseli w pionie",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-13",
+    "file": "Oleh_Derzhko.docx",
+    "number": 13,
+    "question": "Co to są proporcje (format) ekranu, czyli współczynnik kształtu?",
+    "answer": "Stosunek liczby pikseli w poziomie do liczby pikseli w pionie, zaokrąglony do liczb całkowitych",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-14",
+    "file": "Oleh_Derzhko.docx",
+    "number": 14,
+    "question": "Jak powstaje świecenie na ekranie kineskopu?",
+    "answer": "Elektrony emitowane przez katodę są formowane w wąską wiązkę przez działo elektronowe, przyspieszane przez anodę i uderzają w powierzchnię ekranu pokrytą luminoforem, powodując jego świecenie",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-15",
+    "file": "Oleh_Derzhko.docx",
+    "number": 15,
+    "question": "Jaka jest zaleta odchylenia magnetycznego?",
+    "answer": "Zaletą odchylania magnetycznego jest możliwość uzyskania bardzo dużego kąta odchylenia, niemal 90°",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-16",
+    "file": "Oleh_Derzhko.docx",
+    "number": 16,
+    "question": "Co to jest kineskop monochromatyczny?",
+    "answer": "Świecące w jednym kolorze (czarno-białe lub inne kolory, np. zielony, miodowy). Kineskop taki ma jedno działo elektronowe",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-17",
+    "file": "Oleh_Derzhko.docx",
+    "number": 17,
+    "question": "Jaki jest kolorowy kineskop?",
+    "answer": "Świecą naraz w trzech podstawowych kolorach: czerwonym, zielonym i niebieskim, co pozwala uzyskać wszystkie kolory",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-18",
+    "file": "Oleh_Derzhko.docx",
+    "number": 18,
+    "question": "Jakie typy siatek kineskopowych znasz?",
+    "answer": "Delta,Trinitron,Croma Clear",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-19",
+    "file": "Oleh_Derzhko.docx",
+    "number": 19,
+    "question": "Do czego służy maska (siatka) ekranu?",
+    "answer": "Maska (siatka) ma za zadanie skierować elektrony na odpowiednie pola ekranu",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-20",
+    "file": "Oleh_Derzhko.docx",
+    "number": 20,
+    "question": "Czy ekran LCD ma własne źródło światła?",
+    "answer": "LCD ma oddzielne źródło światła białego",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-21",
+    "file": "Oleh_Derzhko.docx",
+    "number": 21,
+    "question": "Co to jest martwy piksel?",
+    "answer": "to piksel spalony lub z uszkodzonym tranzystorem",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-22",
+    "file": "Oleh_Derzhko.docx",
+    "number": 22,
+    "question": "Jaki kolor ma martwy piksel?",
+    "answer": "czarny",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-23",
+    "file": "Oleh_Derzhko.docx",
+    "number": 23,
+    "question": "Co to jest kontrast w monitorze?",
+    "answer": "Stosunek jasności najjaśniejszego punktu do najciemniejszego",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-24",
+    "file": "Oleh_Derzhko.docx",
+    "number": 24,
+    "question": "Co to jest czas reakcji monitora?",
+    "answer": "Czas, w jakim pojedynczy piksel matrycy przechodzi ze stanu włączonego (biały) do wyłączonego (czarny) i z powrotem do włączonego (biały)",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-25",
+    "file": "Oleh_Derzhko.docx",
+    "number": 25,
+    "question": "Jakie źródło światła używa monitor LED?",
+    "answer": "białe diody LED",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-26",
+    "file": "Oleh_Derzhko.docx",
+    "number": 26,
+    "question": "Co oznacza skrót PDP?",
+    "answer": "Plasma display panel",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-27",
+    "file": "Oleh_Derzhko.docx",
+    "number": 27,
+    "question": "Co można lepiej kontrolować w monitorach LED?",
+    "answer": "Można lepiej kontrolować jasność obrazu",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-28",
+    "file": "Oleh_Derzhko.docx",
+    "number": 28,
+    "question": "Jakie zjawisko wykorzystuje wyświetlacz plazmowy?",
+    "answer": "Jonizacji gazu",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-29",
+    "file": "Oleh_Derzhko.docx",
+    "number": 29,
+    "question": "Co to jest OLED?",
+    "answer": "OLED to organiczna dioda elektroluminescencyjna",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s18-30",
+    "file": "Oleh_Derzhko.docx",
+    "number": 30,
+    "question": "Co decyduje o jasności diody OLED?",
+    "answer": "Przyłożone napięcie",
+    "author": "Oleh Derzhko",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-01",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 1,
+    "question": "co to jest piksel",
+    "answer": "Piksel to najmniejsza składowa cząstki obrazu\nwyświetlanej na ekranie",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-02",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 2,
+    "question": "co to sub piksel",
+    "answer": "mniejsza składowa koloru, która tworzy pojedynczy piksel na ekranie",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-03",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 3,
+    "question": "co zmienia ilość pikseli",
+    "answer": "ostrość jakość",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-04",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 4,
+    "question": "w czym podaje się wielkość monitora",
+    "answer": "W calach",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-05",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 5,
+    "question": "w jakich koloroach sa sub piksele",
+    "answer": "czerowny zielony niebieski",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-06",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 6,
+    "question": "co to jest format",
+    "answer": "proporcja ekranu",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-07",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 7,
+    "question": "czym wypelnione sa monitory sa kineskopy",
+    "answer": "próżnią",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-08",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 8,
+    "question": "rozwnin skrot CRT",
+    "answer": "Cathode-Ray Tube",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-09",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 9,
+    "question": "w jakich kolorach swieca monitory monochromatyczne",
+    "answer": "w jednym kolorze",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-10",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 10,
+    "question": "co to martwy piksel",
+    "answer": "unkt, który jest całkowicie wygaszony i ma postać małej, czarnej kropki, ponieważ nie dociera do niego zasilanie",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-11",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 11,
+    "question": "do czego sluzy monitor",
+    "answer": "do wyświetlania obrazu",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-12",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 12,
+    "question": "od czego zależy rozdzielczość w kineskopie",
+    "answer": "czestotliwosc odchylania poziomowego",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-13",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 13,
+    "question": "co znaczy skrot PDP",
+    "answer": "plasma display panel",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-14",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 14,
+    "question": "jakie zjawisko wykorzystuje monitor plasmowy",
+    "answer": "zjawisko jonizacji gazu",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-15",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 15,
+    "question": "co to kontrast w monitorze",
+    "answer": "stosunek jasności najjaśniejszego punktu (bieli) do jasności najciemniejszego punktu",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-16",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 16,
+    "question": "czym wypelniony jest OLED",
+    "answer": "organicznymi substancjiami  chemicznymi czyli polimerów",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-17",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 17,
+    "question": "czy ekran oled może być cienki",
+    "answer": "tak",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-18",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 18,
+    "question": "czy monitor crt ma fizyczne piksele",
+    "answer": "nie",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-19",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 19,
+    "question": "jakie sa typy znieształcen monitorow crt",
+    "answer": "poduszkowo-beczkowe , obrocony obraz",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-20",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 20,
+    "question": "czy w monitorze LCD jest filtr RGB",
+    "answer": "Tak",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-21",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 21,
+    "question": "w którym monitorze każdy piksel to warstwa ciekłego krysztalu",
+    "answer": "LCD",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-22",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 22,
+    "question": "co to martwy piksel w monitorze oled",
+    "answer": "jest to fizycznie wypalony piksel",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-23",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 23,
+    "question": "co ma lepszy obraz monitor lcd rgb czy lcd l;ed",
+    "answer": "lcd rgb",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-24",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 24,
+    "question": "czy można podkrecac monitor crt",
+    "answer": "tak",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-25",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 25,
+    "question": "jak mierzymy rozmiar monitora",
+    "answer": "mierzymy przekątna ekranu",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-26",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 26,
+    "question": "co znaczy skrot rgb po ang",
+    "answer": "red,blue,green",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-27",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 27,
+    "question": "jakimi zlaczami mozemy podlaczyc monitor do komputera",
+    "answer": "hdmi,displayport,dvi,vga",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-28",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 28,
+    "question": "co to są Hz",
+    "answer": "liczba wyswietlanych obrazow na sekunde",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-29",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 29,
+    "question": "co to jest kąt widzenia",
+    "answer": "to kąt pod ktorym mozemy patrzec na obraz z ekranu",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s19-30",
+    "file": "Patryk_WitczakMonitory.docx",
+    "number": 30,
+    "question": "na co pozwala pivot w monitorze",
+    "answer": "pozwala na obracanie monitora w pozycji pionowej",
+    "author": "Patryk Witczak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-01",
+    "file": "szymon_jozwiak.docx",
+    "number": 1,
+    "question": "Czym jest Monitor?",
+    "answer": "To urządznie wejścia/wyjścia do bezpośredniej komunikacji operatora z komputerem/",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-02",
+    "file": "szymon_jozwiak.docx",
+    "number": 2,
+    "question": "Co jest zadaniem monitora?",
+    "answer": "Zadaniem monitora jest natychmiastowa wizualizacja wyników pracy komputera.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-03",
+    "file": "szymon_jozwiak.docx",
+    "number": 3,
+    "question": "Co jest głównym elementem monitora CRT?",
+    "answer": "Kineskop.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-04",
+    "file": "szymon_jozwiak.docx",
+    "number": 4,
+    "question": "Co jest głównym elementem monitora LCD?",
+    "answer": "Matryca LCD.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-05",
+    "file": "szymon_jozwiak.docx",
+    "number": 5,
+    "question": "Co robi rzutnik multimedialny?",
+    "answer": "Wyświetla obraz na ścianie lub innej powierzchni, która służy za ekran projekcyjny.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-06",
+    "file": "szymon_jozwiak.docx",
+    "number": 6,
+    "question": "Co to piksel?",
+    "answer": "To najmniejsza składowa cząstki obrazu wyświetlanej na ekranie.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-07",
+    "file": "szymon_jozwiak.docx",
+    "number": 7,
+    "question": "Jakie znaczenie ma wielkość piksela?",
+    "answer": "Im mniejszy piksel w monitorze tym bardziej dokładny, ostry i kontrastowy obraz.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-08",
+    "file": "szymon_jozwiak.docx",
+    "number": 8,
+    "question": "Z czego składa się piksel?",
+    "answer": "Z trzech subpikseli.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-09",
+    "file": "szymon_jozwiak.docx",
+    "number": 9,
+    "question": "Jaki standard kolorów jest zastosowany w pikselu?",
+    "answer": "Czerwony, Zielony i niebieski (RGB)",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-10",
+    "file": "szymon_jozwiak.docx",
+    "number": 10,
+    "question": "Jaką jednostką określamy przekątną monitora?",
+    "answer": "Cal",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-11",
+    "file": "szymon_jozwiak.docx",
+    "number": 11,
+    "question": "Kto wynalazł monitor CRT?",
+    "answer": "Wiliam Crookes",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-12",
+    "file": "szymon_jozwiak.docx",
+    "number": 12,
+    "question": "Jakie jest rozwinięcie skrótu CRT?",
+    "answer": "Cathode-Ray Tube",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-13",
+    "file": "szymon_jozwiak.docx",
+    "number": 13,
+    "question": "Jakiego krztałtu zazwyczaj jest kineskop?",
+    "answer": "Kulistego.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-14",
+    "file": "szymon_jozwiak.docx",
+    "number": 14,
+    "question": "Jak nazywa się kineskop który świeci w jednym kolorze?",
+    "answer": "Monochromatyczny.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-15",
+    "file": "szymon_jozwiak.docx",
+    "number": 15,
+    "question": "Co robi maska ekranu?",
+    "answer": "Ma za zadanie nakierowanie elektronów na odpowiednie pola ekranu.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-16",
+    "file": "szymon_jozwiak.docx",
+    "number": 16,
+    "question": "Z czego jest maska ekranu?",
+    "answer": "Z plastiku",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-17",
+    "file": "szymon_jozwiak.docx",
+    "number": 17,
+    "question": "Jakie są podstawowe proporcje ekranu monitora CRT?",
+    "answer": "4:3",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-18",
+    "file": "szymon_jozwiak.docx",
+    "number": 18,
+    "question": "Jakie są rodzaje siatek kineskopowych?",
+    "answer": "Delta, trinitron, croma clear",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-19",
+    "file": "szymon_jozwiak.docx",
+    "number": 19,
+    "question": "Jakie są złącza Audio w monitorach CRT?",
+    "answer": "Słuchawkowe i RCA (Chinch)",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-20",
+    "file": "szymon_jozwiak.docx",
+    "number": 20,
+    "question": "Co to martwy piksel?",
+    "answer": "To piksel wypalony lub z uszkodzonym sterowaniem.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-21",
+    "file": "szymon_jozwiak.docx",
+    "number": 21,
+    "question": "Co jest źródłem światła w monitorach LED.",
+    "answer": "Trójkolorowe Diody LED.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-22",
+    "file": "szymon_jozwiak.docx",
+    "number": 22,
+    "question": "Co to jest Pivot?",
+    "answer": "Pivot to funkcja umozliwiająca fizyczne obrócenie ekranu o 90 stopni z poziomu.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-23",
+    "file": "szymon_jozwiak.docx",
+    "number": 23,
+    "question": "Jakie są zalety matrycy OLED?",
+    "answer": "Monitory z nią są ekstremalnie cienkie, osiąga prawdziwą czerń.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-24",
+    "file": "szymon_jozwiak.docx",
+    "number": 24,
+    "question": "Jakie są wady matrycy OLED?",
+    "answer": "Duża podatność na trwałe wypalenie ekranu.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-25",
+    "file": "szymon_jozwiak.docx",
+    "number": 25,
+    "question": "Jak działa monitor LCD?",
+    "answer": "Moduluje światło pochodzące z zewnętrznego podświetlenia.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-26",
+    "file": "szymon_jozwiak.docx",
+    "number": 26,
+    "question": "Co to częstotliwość odświeżania?",
+    "answer": "To parametr który określa ile razy w ciągu jednej sekundy ekran jest w stanie wyświetlić nowy obraz.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-27",
+    "file": "szymon_jozwiak.docx",
+    "number": 27,
+    "question": "Czym różnią się kineskopy monochromatyczne od kolorowych?",
+    "answer": "Kineskopy monochromatyczne różnią się od kolorowych przede wszystkim wewnętrzną konstrukcją ekran  liczbą dział elektronowych oraz obecnością maski perforowanej",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-28",
+    "file": "szymon_jozwiak.docx",
+    "number": 28,
+    "question": "Jakimi złączami można podpiąć monitor do komputera?",
+    "answer": "HDMI, DisplayPort, VGA, DVI, USB-C",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-29",
+    "file": "szymon_jozwiak.docx",
+    "number": 29,
+    "question": "Jak działa monitor OLED?",
+    "answer": "Monitor OLED działa bez zewnętrznego podświetlenia  każdy piksel świeci własnym niezależnym światłem",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  },
+  {
+    "id": "mon-s20-30",
+    "file": "szymon_jozwiak.docx",
+    "number": 30,
+    "question": "Jak działa monitor plazmowy?",
+    "answer": "Monitor plazmowy działa jak matryca złożona z milionów miniaturowych świetlówek. Każdy subpiksel świeci tu własnym światłem bez zewnętrznego podświetlenia.",
+    "author": "Szymon Jozwiak",
+    "subjectId": "monitory"
+  }
+]

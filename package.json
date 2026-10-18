@@ -1,12 +1,12 @@
 {
   "name": "cpu-powtorka",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "private": true,
-  "description": "CPU and networking study app with source attribution",
+  "description": "CPU, networking and monitor study app with source attribution",
   "scripts": {
     "start": "node server.cjs",
     "test": "node --test tests/*.test.cjs",
-    "build:data": "node scripts/build-sieci.cjs && node scripts/build-subjects.cjs"
+    "build:data": "node scripts/build-sieci.cjs && node scripts/build-monitory.cjs && node scripts/build-subjects.cjs"
   },
   "engines": {
     "node": ">=18"

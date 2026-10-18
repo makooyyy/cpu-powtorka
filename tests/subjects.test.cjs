@@ -29,7 +29,7 @@ test('disputed review is subject-scoped and never intersects scored questions',(
 test('numeric alternatives preserve source form and all source occurrences remain separate',()=>{
  const q=N.questions.find(q=>q.id==='net1-s04-05');assert.ok(q.options.every(o=>/bitów.*bajtów/.test(o.text)));
  assert.equal(N.sources.filter(r=>r.file==='Kacper_Nemec.docx').length,42);
- assert.equal(D.questions.length,1730);assert.equal(D.meta.sourceRecords,1960);
+ assert.equal(D.questions.length,2254);assert.equal(D.meta.sourceRecords,2614);
  const cp=require('../data/cpu.json');for(const q of cp.questions.filter(q=>cp.sources.find(s=>s.id===q.sourceId).concept==='turbo'))assert.ok(q.options.slice(1).every(o=>!/^automatycznie/.test(o.text)));
 });
 test('three distractors never share a first word that singles out the source answer',()=>{

@@ -1,4 +1,20 @@
 [
-  {"id":"cpu","title":"CPU","description":"Budowa i działanie procesora","file":"cpu.json"},
-  {"id":"sieci-1","title":"SIECI Część 1","description":"Podstawy sieci, urządzenia i transmisja","file":"sieci-1.json"}
+  {
+    "id": "cpu",
+    "title": "CPU",
+    "description": "Budowa i działanie procesora",
+    "file": "cpu.json"
+  },
+  {
+    "id": "sieci-1",
+    "title": "SIECI Część 1",
+    "description": "Podstawy sieci, urządzenia i transmisja",
+    "file": "sieci-1.json"
+  },
+  {
+    "id": "monitory",
+    "title": "Monitory",
+    "description": "Technologie ekranów, parametry obrazu i złącza",
+    "file": "monitory.json"
+  }
 ]
