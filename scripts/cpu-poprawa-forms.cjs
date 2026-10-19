@@ -3,6 +3,11 @@
 module.exports=(k,a,q,w)=>{
  const low=s=>s[0].toLocaleLowerCase('pl')+s.slice(1);
  const replace=(re,values)=>values.map(v=>a.replace(re,v));
+ if(k==='processor'){
+  if(/sekwencyjn/i.test(a)&&a.length<40)return /^Urządzeniem/i.test(a)?['Urządzeniem cyfrowo-kombinacyjnym','Urządzeniem analogowo-sekwencyjnym','Układem analogowo-kombinacyjnym']:['To urządzenie cyfrowe kombinacyjne','To urządzenie analogowe sekwencyjne','To układ analogowy kombinacyjny'];
+  if(/sekwencyjn/i.test(a))return ['To układ kombinacyjny, którego wynik zależy wyłącznie od bieżących danych wejściowych','Urządzenie analogowe wykonujące obliczenia na ciągłych wartościach sygnałów','To układ pamięci przechowujący stan programu bez interpretowania jego rozkazów'];
+  return a.length<50?['Układ przechowujący program i dane','Moduł tłumaczący kod źródłowy','Pamięć przechowująca kod po wyłączeniu']:['Komponent przechowujący program i dane do chwili odczytania ich przez układ sterujący','Moduł tłumaczący kod źródłowy na instrukcje maszynowe przed uruchomieniem programu','Układ przechowujący kod programu i jego dane również po wyłączeniu zasilania'];
+ }
  if(k==='decoder')return a.length<40?['Przechowuje kod rozkazu','Wyznacza adres kolejnej instrukcji','Oblicza wynik działania']:['Przechowuje kod instrukcji pobranej z pamięci aż do zakończenia jej wykonania','Wyznacza adres następnego rozkazu i aktualizuje kolejność wykonywania programu','Wykonuje działanie na argumentach rozkazu i ustawia znaczniki uzyskanego wyniku'];
  if(k==='program')return ['Od impulsów zegara','Od wartości znaczników','Od pojemności pamięci'];
  if(k==='levels'&&a.length>15)return ['Poziomy tej pamięci to L0, L1, L2','Pamięć cache ma poziomy L1, L3, L4','Wyróżnia się poziomy L2, L3, L4'];

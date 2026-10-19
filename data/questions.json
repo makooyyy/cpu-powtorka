@@ -83034,15 +83034,15 @@
         },
         {
           "id": "d1",
-          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez jednostkę sterującą"
+          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez układ sterujący"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Moduł tłumaczący kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "Układ przechowujący kod programu i jego dane również po wyłączeniu zasilania"
         }
       ],
       "correctOptionId": "correct",
@@ -85554,15 +85554,15 @@
         },
         {
           "id": "d1",
-          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez jednostkę sterującą"
+          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez układ sterujący"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Moduł tłumaczący kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "Układ przechowujący kod programu i jego dane również po wyłączeniu zasilania"
         }
       ],
       "correctOptionId": "correct",
@@ -87084,15 +87084,15 @@
         },
         {
           "id": "d1",
-          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez jednostkę sterującą"
+          "text": "To układ kombinacyjny, którego wynik zależy wyłącznie od bieżących danych wejściowych"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Urządzenie analogowe wykonujące obliczenia na ciągłych wartościach sygnałów"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "To układ pamięci przechowujący stan programu bez interpretowania jego rozkazów"
         }
       ],
       "correctOptionId": "correct",
@@ -90354,15 +90354,15 @@
         },
         {
           "id": "d1",
-          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez jednostkę sterującą"
+          "text": "To układ kombinacyjny, którego wynik zależy wyłącznie od bieżących danych wejściowych"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Urządzenie analogowe wykonujące obliczenia na ciągłych wartościach sygnałów"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "To układ pamięci przechowujący stan programu bez interpretowania jego rozkazów"
         }
       ],
       "correctOptionId": "correct",
@@ -92514,15 +92514,15 @@
         },
         {
           "id": "d1",
-          "text": "Jest komponentem przechowującym program i dane do chwili ich odczytania przez jednostkę sterującą."
+          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez układ sterujący."
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu."
+          "text": "Moduł tłumaczący kod źródłowy na instrukcje maszynowe przed uruchomieniem programu."
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera."
+          "text": "Układ przechowujący kod programu i jego dane również po wyłączeniu zasilania."
         }
       ],
       "correctOptionId": "correct",
@@ -94164,15 +94164,15 @@
         },
         {
           "id": "d1",
-          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez jednostkę sterującą"
+          "text": "Urządzeniem cyfrowo-kombinacyjnym"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Urządzeniem analogowo-sekwencyjnym"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "Układem analogowo-kombinacyjnym"
         }
       ],
       "correctOptionId": "correct",
@@ -96624,15 +96624,15 @@
         },
         {
           "id": "d1",
-          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez jednostkę sterującą"
+          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez układ sterujący"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "Moduł tłumaczący kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "Układ przechowujący kod programu i jego dane również po wyłączeniu zasilania"
         }
       ],
       "correctOptionId": "correct",
@@ -97074,15 +97074,15 @@
         },
         {
           "id": "d1",
-          "text": "komponent przechowujący program i dane do chwili odczytania ich przez jednostkę sterującą"
+          "text": "komponent przechowujący program i dane do chwili odczytania ich przez układ sterujący"
         },
         {
           "id": "d2",
-          "text": "jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "moduł tłumaczący kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
         },
         {
           "id": "d3",
-          "text": "jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "układ przechowujący kod programu i jego dane również po wyłączeniu zasilania"
         }
       ],
       "correctOptionId": "correct",
@@ -98874,15 +98874,15 @@
         },
         {
           "id": "d1",
-          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez jednostkę sterującą."
+          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez układ sterujący."
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu."
+          "text": "Moduł tłumaczący kod źródłowy na instrukcje maszynowe przed uruchomieniem programu."
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera."
+          "text": "Układ przechowujący kod programu i jego dane również po wyłączeniu zasilania."
         }
       ],
       "correctOptionId": "correct",
@@ -99744,15 +99744,15 @@
         },
         {
           "id": "d1",
-          "text": "Komponent przechowujący program i dane do chwili odczytania ich przez jednostkę sterującą"
+          "text": "To urządzenie cyfrowe kombinacyjne"
         },
         {
           "id": "d2",
-          "text": "Jest komponentem tłumaczącym kod źródłowy na instrukcje maszynowe przed uruchomieniem programu"
+          "text": "To urządzenie analogowe sekwencyjne"
         },
         {
           "id": "d3",
-          "text": "Jest komponentem przechowującym kod programu po wyłączeniu zasilania komputera"
+          "text": "To układ analogowy kombinacyjny"
         }
       ],
       "correctOptionId": "correct",
