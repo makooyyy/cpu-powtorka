@@ -1,0 +1,74 @@
+cu_abbr|EU|ALU|FPU
+eu_abbr|CU|FPU|MMU
+cu_pl|Jednostka wykonawcza|Jednostka zmiennoprzecinkowa|Jednostka zarządzania pamięcią
+eu_pl|Blok sterujący|Blok zarządzania pamięcią|Blok dekodowania rozkazów
+eu_structure|Dekoder rozkazów i pamięć mikroprogramu|Rejestr IR i dekoder rozkazów|Licznik rozkazów i układ sterowania
+alu_calc|Dekodowanie rozkazów|Adresowanie komórek pamięci|Sterowanie kolejnością instrukcji
+cpu_tasks|Przechowywanie programu i danych po wyłączeniu zasilania|Przesyłanie obrazu do monitora i generowanie sygnału wideo|Zarządzanie napięciami zasilania i stabilizowanie pracy układów
+brain|Pamięć komputera|Magistrala komputera|Zasilanie komputera
+data_bus|Adresy komórek pamięci|Sygnały odczytu i zapisu|Impulsy synchronizacji zegara
+control_bus|Dane i wyniki obliczeń|Adresy komórek pamięci|Kody znaków wyświetlanych na ekranie
+address_bus|Wynik operacji arytmetycznej|Sygnał odczytu lub zapisu|Kod aktualnie wykonywanego rozkazu
+bus|Zestaw rejestrów przechowujących argumenty i wyniki operacji|Zespół tranzystorów wykonujących operacje arytmetyczne|Obszar pamięci przeznaczony na instrukcje mikroprogramu
+fsb|Fast System Buffer|Front Storage Block|Frequency Synchronization Bus
+working_data|Adres następnego rozkazu i znaczniki stanu|Kod bieżącego rozkazu i mikroprogram sterujący|Adres wierzchołka stosu i tablica przerwań
+flag_data|Adres kolejnej instrukcji do wykonania|Kod obecnie wykonywanego rozkazu|Adres wierzchołka stosu w pamięci
+stack_address|Adres następnego rozkazu|Kod aktualnego rozkazu|Wynik ostatniej operacji logicznej
+pc_address|Adres wierzchołka stosu|Kod bieżącej instrukcji|Argument działania arytmetycznego
+ir_location|W liczniku rozkazów|We wskaźniku stosu|W rejestrze znaczników
+ir_abbr|PC|SP|AX
+pc_abbr|IR|SP|AX
+sp_abbr|PC|IR|AX
+decoder_pl|Licznik rozkazów|Rejestr rozkazów|Wskaźnik stosu
+digital_examples|Wzmacniacz analogowy i filtr pasywny|Transformator sieciowy i prostownik|Potencjometr i rezystor regulowany
+digital_action|Przechowuje dane bez wykonywania operacji|Zamienia dane wyłącznie na sygnał analogowy|Przekazuje niezmienione dane do zasilacza
+digital_dedicated|Układ dedykowany realizuje dowolny program, a procesor wykonuje wyłącznie jedną stałą operację|Układ dedykowany przechowuje dane bez ich przetwarzania, a procesor służy wyłącznie do sterowania pamięcią|Układ dedykowany działa na sygnałach ciągłych, a procesor przetwarza wyłącznie sygnały z czujników
+fpu|Do obliczeń adresów fizycznych pamięci|Do dekodowania instrukcji i sterowania ALU|Do sterowania transmisją przez magistrale
+fpu_en|Fixed Processing Unit|Fast Program Utility|Floating Program Update
+chipset|Układ wykonujący obliczenia wewnątrz rdzenia procesora|Pamięć przechowująca argumenty operacji procesora|Układ regulujący napięcie zasilające rdzenie procesora
+sequential|Kombinacyjne|Analogowe|Pasywne
+pipeline_name|Przetwarzanie sekwencyjne|Adresowanie pośrednie|Wykonywanie spekulacyjne
+slowest_cache|Cache L1|Cache L2|Wszystkie mają jednakowy czas dostępu
+graphene_thickness|Grubości dwóch atomów|Grubości trzech atomów|Grubości czterech atomów
+cnt_pl|Krzemowe nanorurki|Węglowe nanowłókna|Krzemowe nanowłókna
+tdp_unit|V (wolty)|A (ampery)|J (dżule)
+cpu_fan|Złącze zasilania samego procesora z zasilacza|Złącze wentylatora obudowy sterowane niezależnie od CPU|Złącze cyfrowego czujnika temperatury procesora
+lga|Z pinami na procesorze i otworami w gnieździe płyty|Z kulkami lutowniczymi łączącymi procesor na stałe z płytą|Ze stykami krawędziowymi procesora wsuwanymi w szczelinę
+pga|Z pinami w gnieździe płyty głównej|Z kulkami lutowniczymi pod procesorem|Ze stykami krawędziowymi na module
+lga_short|Na obudowie procesora|Na module pamięci RAM|Na osobnym adapterze magistrali
+pga_short|W gnieździe płyty głównej|Na module pamięci RAM|Na osobnym adapterze magistrali
+lga_pga|W LGA piny są na procesorze, w PGA w gnieździe płyty głównej|W LGA układ jest lutowany kulkami, w PGA piny są w płycie głównej|W LGA występują styki krawędziowe, w PGA układ jest lutowany kulkami
+process_unit|µm|mm|pm
+process_name|Częstotliwość bazowa|Szerokość magistrali|Długość słowa maszynowego
+count_unit|W bitach|W cyklach|W hercach
+cisc_place|W układach ARM telefonów|W mikrokontrolerach AVR|W układach RISC-V
+cisc_example|ARM (smartfony i procesory Apple M)|RISC-V (otwarta architektura instrukcji)|MIPS (układy systemów wbudowanych)
+risc_example|x86 (procesory Intel i AMD do PC)|VAX (komputery firmy DEC)|Motorola 68000 (komputery osobiste)
+risc_features|Rozbudowana lista złożonych rozkazów o wielu trybach adresowania|Wykonywanie obliczeń przez mikroprogram bez rejestrów roboczych|Przetwarzanie danych bez pobierania i dekodowania instrukcji
+cisc_risc|CISC redukuje listę do prostych rozkazów, a RISC zawiera wiele złożonych instrukcji|CISC oznacza procesor jednordzeniowy, a RISC procesor z wieloma fizycznymi rdzeniami|CISC opisuje sterowanie napięciem, a RISC opisuje zwiększanie częstotliwości zegara
+cisc_pl|Zredukowany zestaw instrukcji|Zestaw instrukcji zmiennoprzecinkowych|Zestaw instrukcji sterowania pamięcią
+risc_pl|Rozbudowany zestaw instrukcji|Zestaw instrukcji zmiennoprzecinkowych|Zestaw instrukcji sterowania pamięcią
+reset|Przerwanie|Sygnał odczytu|Sygnał zapisu
+unlocked|Zablokowany mnożnik i ograniczone taktowanie|Brak zintegrowanego układu graficznego|Obniżone napięcie i niższy limit mocy
+paste|Do elektrycznego połączenia procesora z radiatorem|Do odizolowania termicznego procesora od radiatora|Do zmniejszenia napięcia zasilającego rdzeń procesora
+power_connector|PCIe 6/8 pinów do karty graficznej|SATA 15 pinów do napędów|ATX 20/24 piny jako osobne złącze CPU
+tools_cpu|GPU-Z, CrystalDiskInfo, dxdiag|CPU-Z, CrystalDiskMark, Defragmentator|HWiNFO, Paint, Notatnik
+throttling|Automatyczne zwiększanie taktowania przy wzroście temperatury|Zwiększanie napięcia w celu ustabilizowania rozgrzanego rdzenia|Przenoszenie wszystkich obliczeń do pamięci RAM
+thread|Zestaw fizycznych tranzystorów wykonujących obliczenia|Zespół przewodów przenoszących dane między układami|Porcja danych przesyłana jednorazowo po magistrali
+performance|Napięcie, liczba pinów i typ obudowy|Przekątna monitora, rozdzielczość i jasność|Liczba portów USB, pojemność dysku i obudowa
+multicore_benefit|Zwiększenie taktowania każdego pojedynczego rdzenia|Zwiększenie długości słowa maszynowego|Zmniejszenie liczby instrukcji wymaganych przez program
+cache_benefit|Zwiększa liczbę fizycznych rdzeni procesora|Przyspiesza zapis danych bezpośrednio na dysku|Zmniejsza liczbę rejestrów potrzebnych do obliczeń
+intel_family|Rodzinę procesorów AMD|Rodzinę procesorów ARM|Rodzinę procesorów VIA
+amd_family|Rodzinę procesorów Intel|Rodzinę procesorów ARM|Rodzinę procesorów VIA
+baseclock|Maksymalne taktowanie Turbo|Częstotliwość magistrali pamięci|Częstotliwość zegara czasu rzeczywistego
+turboclock|Minimalne taktowanie w spoczynku|Stałe taktowanie magistrali systemowej|Nominalna częstotliwość pamięci RAM
+rom_location|W rejestrze znaczników bloku wykonawczego|W pamięci RAM poza procesorem|W rejestrze licznika rozkazów
+levels_fast|Zazwyczaj 2 lub 3 poziomy, najszybszy jest L3|Zazwyczaj 2 lub 3 poziomy, najszybszy jest L2|Zazwyczaj 2 lub 3 poziomy o jednakowym czasie dostępu
+ghz|Megaherc|Gigabajt|Gigabit
+cpuz|Do zmiany napięć zasilacza komputera|Do aktualizacji mikrokodu każdego procesora|Do testowania powierzchni dysku twardego
+socket|Gniazdo pamięci na płycie głównej|Złącze zasilania na płycie głównej|Gniazdo karty rozszerzeń na płycie głównej
+bios|Zaawansowany kontroler przerwań|System zarządzania pamięcią podręczną|Podstawowy interfejs grafiki procesora
+bit_ops|Dodawanie, odejmowanie, mnożenie i dzielenie liczb zmiennoprzecinkowych|Pobieranie rozkazu, dekodowanie kodu operacji i zapis wyniku|Odczyt bloku dysku, zapis sektora, pozycjonowanie głowicy i buforowanie
+bytes32|2|8|16
+bytes96|8 bajtów|16 bajtów|24 bajty
+threads8|4 wątki|6 wątków|16 wątków

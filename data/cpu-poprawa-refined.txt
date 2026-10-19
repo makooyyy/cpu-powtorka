@@ -1,0 +1,33 @@
+digital|Przechowuje informacje bez ich przetwarzania|Przekazuje sygnał wejściowy bez zmiany jego postaci|Przetwarza sygnały o ciągłym zakresie wartości
+alu_data|Z licznika rozkazów lub rejestru instrukcji|Z dekodera rozkazów lub układu zegarowego|Z rejestru flag lub pamięci mikroprogramu
+cpu_role|Sterowanie napięciami pozostałych układów systemu|Ustalanie parametrów elektrycznych magistrali systemowej|Podtrzymywanie zawartości pamięci po zaniku zasilania
+cycle|Z pobrania i kompilacji|Z dekodowania i translacji|Z kompilacji i wykonania
+cu|Calculation Unit|Cache Unit|Communication Unit
+eu|Encoding Unit|External Unit|Energy Unit
+cu_parts|ALU, akumulator, rejestry robocze|Rejestr IR, ALU, akumulator|Dekoder rozkazów, wskaźnik stosu, akumulator
+eu_structure|Dekoder rozkazów i pamięć mikroprogramu|Rejestr rozkazów i dekoder rozkazów|Licznik rozkazów i układ sterowania
+alu_ops|Adresowanie i dekodowanie|Operacje sterowania i synchronizacji|Pobieranie i szeregowanie
+args|Adres następnego rozkazu|Kod operacji|Znaczniki wyniku
+frequency|Liczba instrukcji na sekundę|Liczba operacji w jednym cyklu|Liczba bitów w jednym cyklu
+tdp|Graniczna temperatura rdzenia|Bieżący pobór prądu procesora|Moc pobierana przez układ chłodzenia
+frequency_unit|W|V|B/s
+quad|Dwa rdzenie|Sześć rdzeni|Osiem rdzeni
+dual|Cztery rdzenie|Sześć rdzeni|Osiem rdzeni
+six|Dwa rdzenie|Cztery rdzenie|Osiem rdzeni
+octa|Dwa rdzenie|Cztery rdzenie|Sześć rdzeni
+programmem|W pamięci o dostępie wyłącznie sekwencyjnym|W rejestrze mieszczącym cały program|W pamięci mikroprogramu jednostki sterującej
+control_types|Sterowanie potokowe lub superskalarne|Sterowanie synchroniczne lub asynchroniczne|Sterowanie szeregowe lub równoległe
+alu_important|CU|FPU|MMU
+packaging|Moduł z elementów dyskretnych|Układ pamięci nieulotnej|Zespół układów analogowych
+performance|Taktowanie, pojemność dysku i liczba portów|Napięcie, liczba pinów i rozmiar obudowy|Przepustowość dysku, pojemność RAM i chipset
+tools_cpu|GPU-Z, CrystalDiskInfo, dxdiag|CPU-Z, CrystalDiskMark, HD Tune|HWiNFO, GPU-Z, CrystalDiskInfo
+cisc_risc|CISC używa prostych instrukcji, a RISC rozbudowanych rozkazów|CISC ma rozkazy wyłącznie stałej długości, a RISC zawsze zmiennej|CISC wykonuje tylko operacje na rejestrach, a RISC oblicza bezpośrednio w pamięci
+risc_features|Złożone rozkazy, wiele trybów adresowania|Duża lista instrukcji, dekodowanie mikroprogramowe|Rozkazy zmiennej długości, operacje pamięć–pamięć
+cache_benefit|Przyspiesza zapis do pamięci masowej|Skraca dekodowanie kodu operacji|Zmniejsza opóźnienia sygnału zegara
+throttling|Zwiększenie napięcia w celu utrzymania taktowania|Ograniczenie liczby procesów przez system operacyjny|Przełączenie wszystkich wątków na jeden rdzeń
+intel_family|Rodzinę procesorów AMD|Rodzinę układów VIA|Serię procesorów Qualcomm
+amd_family|Rodzinę procesorów Intel|Rodzinę układów VIA|Serię procesorów Qualcomm
+cpu_tasks|Przechowywanie danych programu i ich odtwarzanie po restarcie|Translacja kodu źródłowego i łączenie modułów programu|Stabilizacja zasilania układów i ustalanie napięć magistrali
+bit_ops|Dodawanie, odejmowanie, mnożenie i dzielenie zmiennoprzecinkowe|Pobranie, dekodowanie, wykonanie i zapis wyniku rozkazu|Adresowanie, translacja adresów, stronicowanie i segmentacja
+digital_dedicated|Układ dedykowany interpretuje program, a procesor realizuje stałą funkcję zapisaną w połączeniach|Układ dedykowany używa instrukcji maszynowych, a procesor wykonuje wyłącznie mikroprogram bez programu użytkownika|Układ dedykowany zmienia funkcję po załadowaniu danych, a procesor wymaga zmiany połączeń sprzętowych
+slowest_cache|L1|L2|Każdy poziom ma jednakowy czas dostępu

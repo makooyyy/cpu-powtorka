@@ -1,0 +1,11 @@
+{
+ "cpur-s06-27": ["Przechowują argumenty potrzebne do wykonania danej operacji", "Przenoszą wyniki obliczeń do komórek pamięci operacyjnej", "Wyznaczają adres następnego rozkazu pobieranego z pamięci"],
+ "cpur-s22-11": ["Odpowiada za to adres kolejnej instrukcji zapisany w liczniku rozkazów procesora", "Decyduje o tym wartość argumentu zapisanego w akumulatorze przed obliczeniem", "Odpowiadają za to znaczniki stanu ustawione przez poprzednią operację arytmetyczną"],
+ "cpur-s22-03": ["W ciągłej pętli dekoduje instrukcje przed ich pobraniem, a następnie wykonuje obliczenia", "Najpierw wykonuje obliczenia, potem pobiera kod instrukcji i rozpoznaje jego znaczenie", "Pobiera instrukcje z pamięci, wykonuje je i dopiero potem dekoduje ich kod operacji"],
+ "cpur-s22-12": ["Przede wszystkim dekoder rozkazów oraz pamięć ROM zawierająca mikroprogram sterujący", "Przede wszystkim rejestr instrukcji IR i dekoder rozpoznający zawarty w nim kod", "Przede wszystkim licznik rozkazów PC oraz układ generujący sygnały sterujące"],
+ "cpur-s22-26": ["Aby przechowywać wyniki blisko kontrolera dysku i skrócić ich zapis do pamięci masowej", "Aby przechowywać gotowe sygnały sterujące i wyeliminować dekodowanie kodu instrukcji", "Aby buforować impulsy zegara blisko rdzenia i zmniejszyć opóźnienia jego synchronizacji"],
+ "cpur-s22-27": ["Zazwyczaj są to 2 lub 3 poziomy, przy czym najkrótszy czas dostępu oferuje poziom L3", "Zazwyczaj są to 2 lub 3 poziomy, przy czym najkrótszy czas dostępu oferuje poziom L2", "Zazwyczaj są to 2 lub 3 poziomy, przy czym wszystkie poziomy mają jednakowy czas dostępu"],
+ "cpur-s22-17": ["Umieszczony jest w rejestrze znaczników należącym do bloku wykonawczego procesora", "Jest przechowywany w głównej pamięci RAM i ładowany przy każdym uruchomieniu programu", "Umieszczony jest w liczniku rozkazów, obok adresu kolejnej instrukcji programu"],
+ "cpur-s20-24": ["W pamięci RAM", "W rejestrze IR", "Licznik rozkazów PC"],
+ "cpur-s05-05": ["Urządzenie przetwarzające dane wyłącznie jako sygnały o ciągłym zakresie wartości", "Układ przekazujący sygnał wejściowy bez wykonywania na nim jakiejkolwiek operacji", "Urządzenie przechowujące informację bez możliwości zmiany ani odczytania jej postaci"]
+}

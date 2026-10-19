@@ -16,5 +16,11 @@
     "title": "Monitory",
     "description": "Technologie ekranów, parametry obrazu i złącza",
     "file": "monitory.json"
+  },
+  {
+    "id": "cpu-poprawa",
+    "title": "CPU poprawa",
+    "description": "Nowy zestaw pytań o procesorach",
+    "file": "cpu-poprawa.json"
   }
 ]
