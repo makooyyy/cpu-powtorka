@@ -53,3 +53,7 @@ Import: `python scripts/extract-monitory.py "ścieżka/do/archiwum.zip"`, potem 
 Osobny materiał, bez zastępowania wcześniejszej bazy CPU. Pełne pokrycie 23 dokumentów: 907 zapisów, 762 oceniane i 145 do wyjaśnienia. Powtórzenia i podpisy autorów zachowano. [Raport importu](CPU-POPRAWA-ANALYSIS.md).
 
 Import: `python scripts/extract-cpu-poprawa.py "ścieżka/do/CPU pytania.zip"`, potem `python scripts/parse-cpu-poprawa.py`. Odtwarzalny bank: `node scripts/build-cpu-poprawa.cjs` i `node scripts/build-subjects.cjs`. Pary źródłowe, klasyfikacje oraz ręcznie redagowane warianty znajdują się w plikach `data/cpu-poprawa-*`; reguły dopasowania formy w `scripts/cpu-poprawa-forms.cjs`. Generator nie zmienia tekstu poprawnych odpowiedzi poza białymi znakami.
+
+## Interfejs 7.0
+
+Odświeżono wszystkie widoki: ekran startowy, wybór tematu, test, wyniki, błędy, bazę i historię. Ciemna paleta z limonkowym akcentem, kolory tematów, wyraźne zaznaczenie odpowiedzi i osobna linia autora. Układ dopasowuje się do telefonu; animacje respektują prefers-reduced-motion. Fonty i dekoracje działają bez Internetu.
