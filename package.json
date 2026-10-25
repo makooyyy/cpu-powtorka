@@ -1,6 +1,6 @@
 {
   "name": "cpu-powtorka",
-  "version": "7.0.0",
+  "version": "8.0.0",
   "private": true,
   "description": "CPU, networking and monitor study app with source attribution",
   "scripts": {

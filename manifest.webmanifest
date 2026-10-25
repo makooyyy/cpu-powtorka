@@ -1,0 +1,7 @@
+{
+  "id": "./", "name": "Powtórka — nauka i testy", "short_name": "Powtórka",
+  "lang": "pl", "start_url": "./", "scope": "./", "display": "standalone",
+  "background_color": "#101217", "theme_color": "#101217",
+  "description": "CPU, sieci i monitory. Nauka, egzaminy i powtórki offline.",
+  "icons": [{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}

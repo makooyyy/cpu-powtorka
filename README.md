@@ -2,7 +2,7 @@
 
 Gotowa aplikacja do nauki na komputerze i telefonie. [Otwórz stronę](https://makooyyy.github.io/cpu-powtorka/).
 
-Po kliknięciu **Rozpocznij test** wybierz **CPU**, **SIECI Część 1**, **Monitory** lub **CPU poprawa**. Szybki test ma 10 pytań, długi 40. Tematy nie mieszają się w jednej sesji. Pytania i cztery odpowiedzi są losowane. Konkretna pozycja źródłowa nie powtarza się w sesji; powtórzenia w materiałach i pytania różnych autorów są zachowane.
+Po kliknięciu **Rozpocznij test** wybierz **CPU**, **SIECI Część 1**, **Monitory** lub **CPU poprawa**. Szybki test ma 10 pytań, długi 40. Po wyborze tematu można dopasować liczbę pytań (1–200), autorów, kategorie i dołączyć inne materiały. Pytania i cztery odpowiedzi są losowane. Konkretna pozycja źródłowa nie powtarza się w sesji; powtórzenia w materiałach i pytania różnych autorów są zachowane.
 
 | Materiał | Pliki | Zapisy źródłowe | Oceniane | Do wyjaśnienia |
 |---|---:|---:|---:|---:|
@@ -14,7 +14,7 @@ Po kliknięciu **Rozpocznij test** wybierz **CPU**, **SIECI Część 1**, **Moni
 
 Każde pytanie ma podpis autora z nazwy pliku. **Dziwne pytania** losuje 10 spornych zapisów wybranego tematu, pokazuje odpowiedź autora i wyjaśnienie problemu. Nie wystawia oceny. Niejasnych odpowiedzi nie zastąpiono wymyślonymi kluczami.
 
-Wyniki obejmują liczbę poprawnych i błędnych odpowiedzi, procent i przegląd pomyłek. „Nowy test” zachowuje temat i rozmiar testu. Baza ma wyszukiwanie, filtr materiału i kategorii oraz oznaczenia do powtórki. Historia i niedokończona sesja zapisują się w tej samej przeglądarce. Nie ma synchronizacji między telefonem a komputerem. Odpowiedzi pokazane w zakończonych testach zachowują swój historyczny tekst mimo aktualizacji bazy.
+Wyniki obejmują liczbę poprawnych i błędnych odpowiedzi, procent i przegląd pomyłek. „Nowy test” zachowuje temat i rozmiar testu. Baza ma wyszukiwanie, filtry materiału, autora i kategorii oraz oznaczenia do powtórki. Historia i niedokończona sesja zapisują się w tej samej przeglądarce. Nie ma synchronizacji między telefonem a komputerem. Odpowiedzi pokazane w zakończonych testach zachowują swój historyczny tekst mimo aktualizacji bazy.
 
 ## Uruchomienie lokalne
 
@@ -57,3 +57,17 @@ Import: `python scripts/extract-cpu-poprawa.py "ścieżka/do/CPU pytania.zip"`, 
 ## Interfejs 7.0
 
 Odświeżono wszystkie widoki: ekran startowy, wybór tematu, test, wyniki, błędy, bazę i historię. Ciemna paleta z limonkowym akcentem, kolory tematów, wyraźne zaznaczenie odpowiedzi i osobna linia autora. Układ dopasowuje się do telefonu; animacje respektują prefers-reduced-motion. Fonty i dekoracje działają bez Internetu.
+
+
+## Nauka i egzaminy 8.0
+
+- **Nauka krok po kroku**: potwierdź odpowiedź, zobacz klucz i krótkie omówienie. Sprawdzonej odpowiedzi nie można zmienić. Omówienia opierają się na kluczu źródłowym i wskazówkach porównania wariantów; nie zastępują podręcznika ani niezależnej weryfikacji klucza.
+- **Powtórka błędów**: błędy, ręczne oznaczenia 👎 i pytania z terminem powtórki. Losowanie ważone zwiększa szansę trudnych pytań, bez powtórzeń w zestawie. Dwie dobre odpowiedzi z rzędu zamykają bieżący błąd. Odstępy: 1, 3, 7, 14, 30 dni; ręczne oznaczenie pozostaje do usunięcia.
+- **Próbny egzamin**: 1–200 pytań z wybranych materiałów, 1–180 minut, nawigacja i pomijanie. Czas jest zapisaną datą końcową, więc nie zatrzymuje się po zamknięciu strony. Po powrocie przeterminowany egzamin kończy się automatycznie. Puste odpowiedzi dają 0 punktów.
+- **Postęp**: skuteczność i pokrycie materiału osobno dla tematów, propozycja następnej sesji. Nauka i powtórki nie zawyżają statystyk testów. Trafność liczy udzielone odpowiedzi, pominięte są pokazane oddzielnie; wynik egzaminu uwzględnia wszystkie pytania. Statystyki i harmonogram wynikają z ostatnich 100 ukończonych sesji zapisanych lokalnie.
+- **Zgłoś problem**: zapisz opis i kontekst pytania lokalnie (do 200 pozycji), eksportuj JSON lub otwórz przygotowany formularz GitHub. Nic nie wysyła się samo; wysłanie na GitHub wymaga konta i naciśnięcia przycisku przez użytkownika.
+- **Aplikacja / offline**: manifest PWA, ikony i service worker. Po pełnym pierwszym pobraniu testy działają offline; ekran instalacji pokazuje gotowość. Instalacja przez menu obsługującej ją przeglądarki. Plik `index.html` działa również bez instalacji, ale PWA wymaga HTTPS lub localhost. Dane pozostają w danej przeglądarce, bez kont i synchronizacji.
+
+Nowa wersja service workera czeka na zamknięcie starych kart, aby nie mieszać plików różnych wydań. Nie czyści historii ani zgłoszeń. Przeglądarka może zwolnić pamięć offline przy braku miejsca. Formularz GitHub wymaga Internetu.
+
+Logika: `core.js` (zgodne starsze sesje), `study.js` (nowe tryby, termin egzaminu, harmonogram i statystyki), `features.js` (interfejs). Baza pytań pozostaje osobno. Walidacja: `node --test tests/*.test.cjs`.
